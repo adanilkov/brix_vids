@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.partial.mp4
+.venv/
+.pytest_cache/

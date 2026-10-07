@@ -1,0 +1,66 @@
+[
+  {
+    "time": 1.65,
+    "file": "00.png"
+  },
+  {
+    "time": 4.8,
+    "file": "01.png"
+  },
+  {
+    "time": 8.1,
+    "file": "02.png"
+  },
+  {
+    "time": 12.15,
+    "file": "03.png"
+  },
+  {
+    "time": 16.183,
+    "file": "04.png"
+  },
+  {
+    "time": 19.38,
+    "file": "05.png"
+  },
+  {
+    "time": 19.683,
+    "file": "06.png"
+  },
+  {
+    "time": 20.86,
+    "file": "07.png"
+  },
+  {
+    "time": 22.42,
+    "file": "08.png"
+  },
+  {
+    "time": 23.2,
+    "file": "09.png"
+  },
+  {
+    "time": 24.56,
+    "file": "10.png"
+  },
+  {
+    "time": 26.767,
+    "file": "11.png"
+  },
+  {
+    "time": 30.25,
+    "file": "12.png"
+  },
+  {
+    "time": 34.233,
+    "file": "13.png"
+  },
+  {
+    "time": 37.3,
+    "file": "14.png"
+  },
+  {
+    "time": 38.483,
+    "file": "15.png"
+  }
+]

@@ -1,0 +1,960 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.06,
+    "words": [
+      {
+        "word": "When",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": "a",
+        "start": 0.16,
+        "end": 0.24
+      },
+      {
+        "word": "storm",
+        "start": 0.24,
+        "end": 0.52
+      },
+      {
+        "word": "hits,",
+        "start": 0.52,
+        "end": 0.86
+      }
+    ],
+    "lines": [
+      [
+        "When",
+        "a",
+        "storm",
+        "hits,"
+      ]
+    ],
+    "text": "When a storm hits,"
+  },
+  {
+    "start": 1.22,
+    "end": 2.96,
+    "words": [
+      {
+        "word": "homeowners",
+        "start": 1.22,
+        "end": 1.42
+      },
+      {
+        "word": "start",
+        "start": 1.42,
+        "end": 1.86
+      },
+      {
+        "word": "searching",
+        "start": 1.86,
+        "end": 2.3
+      },
+      {
+        "word": "for",
+        "start": 2.3,
+        "end": 2.5
+      },
+      {
+        "word": "roofers",
+        "start": 2.5,
+        "end": 2.96
+      }
+    ],
+    "lines": [
+      [
+        "homeowners",
+        "start"
+      ],
+      [
+        "searching",
+        "for",
+        "roofers"
+      ]
+    ],
+    "text": "homeowners start searching for roofers"
+  },
+  {
+    "start": 2.96,
+    "end": 3.4400000000000004,
+    "words": [
+      {
+        "word": "fast.",
+        "start": 2.96,
+        "end": 3.24
+      }
+    ],
+    "lines": [
+      [
+        "fast."
+      ]
+    ],
+    "text": "fast."
+  },
+  {
+    "start": 3.8,
+    "end": 5.22,
+    "words": [
+      {
+        "word": "The",
+        "start": 3.8,
+        "end": 3.82
+      },
+      {
+        "word": "companies",
+        "start": 3.82,
+        "end": 4.1
+      },
+      {
+        "word": "they",
+        "start": 4.1,
+        "end": 4.34
+      },
+      {
+        "word": "find",
+        "start": 4.34,
+        "end": 4.6
+      },
+      {
+        "word": "first",
+        "start": 4.6,
+        "end": 5.02
+      }
+    ],
+    "lines": [
+      [
+        "The",
+        "companies"
+      ],
+      [
+        "they",
+        "find",
+        "first"
+      ]
+    ],
+    "text": "The companies they find first"
+  },
+  {
+    "start": 5.32,
+    "end": 6.2,
+    "words": [
+      {
+        "word": "and",
+        "start": 5.32,
+        "end": 5.44
+      },
+      {
+        "word": "trust",
+        "start": 5.44,
+        "end": 5.7
+      },
+      {
+        "word": "most",
+        "start": 5.7,
+        "end": 6.0
+      }
+    ],
+    "lines": [
+      [
+        "and",
+        "trust",
+        "most"
+      ]
+    ],
+    "text": "and trust most"
+  },
+  {
+    "start": 6.34,
+    "end": 7.7,
+    "words": [
+      {
+        "word": "are",
+        "start": 6.34,
+        "end": 6.42
+      },
+      {
+        "word": "the",
+        "start": 6.42,
+        "end": 6.52
+      },
+      {
+        "word": "ones",
+        "start": 6.52,
+        "end": 6.72
+      },
+      {
+        "word": "getting",
+        "start": 6.72,
+        "end": 7.02
+      },
+      {
+        "word": "the",
+        "start": 7.02,
+        "end": 7.22
+      },
+      {
+        "word": "calls.",
+        "start": 7.22,
+        "end": 7.5
+      }
+    ],
+    "lines": [
+      [
+        "are",
+        "the",
+        "ones"
+      ],
+      [
+        "getting",
+        "the",
+        "calls."
+      ]
+    ],
+    "text": "are the ones getting the calls."
+  },
+  {
+    "start": 7.9,
+    "end": 9.38,
+    "words": [
+      {
+        "word": "Brix",
+        "start": 7.9,
+        "end": 8.12
+      },
+      {
+        "word": "helps",
+        "start": 8.12,
+        "end": 8.36
+      },
+      {
+        "word": "put",
+        "start": 8.36,
+        "end": 8.66
+      },
+      {
+        "word": "your",
+        "start": 8.66,
+        "end": 8.8
+      },
+      {
+        "word": "roofing",
+        "start": 8.8,
+        "end": 9.14
+      },
+      {
+        "word": "company",
+        "start": 9.14,
+        "end": 9.38
+      }
+    ],
+    "lines": [
+      [
+        "Brix",
+        "helps",
+        "put",
+        "your"
+      ],
+      [
+        "roofing",
+        "company"
+      ]
+    ],
+    "text": "Brix helps put your roofing company"
+  },
+  {
+    "start": 9.38,
+    "end": 10.34,
+    "words": [
+      {
+        "word": "in",
+        "start": 9.38,
+        "end": 9.7
+      },
+      {
+        "word": "a",
+        "start": 9.7,
+        "end": 9.74
+      },
+      {
+        "word": "better",
+        "start": 9.74,
+        "end": 9.92
+      },
+      {
+        "word": "position",
+        "start": 9.92,
+        "end": 10.34
+      }
+    ],
+    "lines": [
+      [
+        "in",
+        "a",
+        "better",
+        "position"
+      ]
+    ],
+    "text": "in a better position"
+  },
+  {
+    "start": 10.34,
+    "end": 11.7,
+    "words": [
+      {
+        "word": "when",
+        "start": 10.34,
+        "end": 10.54
+      },
+      {
+        "word": "those",
+        "start": 10.54,
+        "end": 10.7
+      },
+      {
+        "word": "searches",
+        "start": 10.7,
+        "end": 10.92
+      },
+      {
+        "word": "happen.",
+        "start": 10.92,
+        "end": 11.5
+      }
+    ],
+    "lines": [
+      [
+        "when",
+        "those"
+      ],
+      [
+        "searches",
+        "happen."
+      ]
+    ],
+    "text": "when those searches happen."
+  },
+  {
+    "start": 11.84,
+    "end": 14.06,
+    "words": [
+      {
+        "word": "For",
+        "start": 11.84,
+        "end": 11.86
+      },
+      {
+        "word": "just",
+        "start": 11.86,
+        "end": 12.02
+      },
+      {
+        "word": "$297",
+        "start": 12.02,
+        "end": 13.56
+      },
+      {
+        "word": "a",
+        "start": 13.56,
+        "end": 13.72
+      },
+      {
+        "word": "month,",
+        "start": 13.72,
+        "end": 13.96
+      }
+    ],
+    "lines": [
+      [
+        "For",
+        "just",
+        "$297",
+        "a",
+        "month,"
+      ]
+    ],
+    "text": "For just $297 a month,"
+  },
+  {
+    "start": 14.06,
+    "end": 15.559999999999999,
+    "words": [
+      {
+        "word": "we",
+        "start": 14.06,
+        "end": 14.22
+      },
+      {
+        "word": "build",
+        "start": 14.22,
+        "end": 14.44
+      },
+      {
+        "word": "and",
+        "start": 14.44,
+        "end": 14.66
+      },
+      {
+        "word": "host",
+        "start": 14.66,
+        "end": 14.88
+      },
+      {
+        "word": "your",
+        "start": 14.88,
+        "end": 15.1
+      },
+      {
+        "word": "website,",
+        "start": 15.1,
+        "end": 15.36
+      }
+    ],
+    "lines": [
+      [
+        "we",
+        "build",
+        "and",
+        "host"
+      ],
+      [
+        "your",
+        "website,"
+      ]
+    ],
+    "text": "we build and host your website,"
+  },
+  {
+    "start": 15.82,
+    "end": 17.16,
+    "words": [
+      {
+        "word": "help",
+        "start": 15.82,
+        "end": 15.94
+      },
+      {
+        "word": "you",
+        "start": 15.94,
+        "end": 16.12
+      },
+      {
+        "word": "get",
+        "start": 16.12,
+        "end": 16.26
+      },
+      {
+        "word": "found",
+        "start": 16.26,
+        "end": 16.54
+      },
+      {
+        "word": "on",
+        "start": 16.54,
+        "end": 16.72
+      },
+      {
+        "word": "Google,",
+        "start": 16.72,
+        "end": 16.96
+      }
+    ],
+    "lines": [
+      [
+        "help",
+        "you",
+        "get"
+      ],
+      [
+        "found",
+        "on",
+        "Google,"
+      ]
+    ],
+    "text": "help you get found on Google,"
+  },
+  {
+    "start": 17.48,
+    "end": 19.419999999999998,
+    "words": [
+      {
+        "word": "keep",
+        "start": 17.48,
+        "end": 17.5
+      },
+      {
+        "word": "your",
+        "start": 17.5,
+        "end": 17.68
+      },
+      {
+        "word": "Google",
+        "start": 17.68,
+        "end": 17.88
+      },
+      {
+        "word": "Business",
+        "start": 17.88,
+        "end": 18.3
+      },
+      {
+        "word": "Profile",
+        "start": 18.3,
+        "end": 18.54
+      },
+      {
+        "word": "active,",
+        "start": 18.54,
+        "end": 19.22
+      }
+    ],
+    "lines": [
+      [
+        "keep",
+        "your",
+        "Google"
+      ],
+      [
+        "Business",
+        "Profile",
+        "active,"
+      ]
+    ],
+    "text": "keep your Google Business Profile active,"
+  },
+  {
+    "start": 19.6,
+    "end": 20.9,
+    "words": [
+      {
+        "word": "and",
+        "start": 19.6,
+        "end": 19.68
+      },
+      {
+        "word": "ask",
+        "start": 19.68,
+        "end": 19.88
+      },
+      {
+        "word": "customers",
+        "start": 19.88,
+        "end": 20.24
+      },
+      {
+        "word": "for",
+        "start": 20.24,
+        "end": 20.54
+      },
+      {
+        "word": "reviews",
+        "start": 20.54,
+        "end": 20.9
+      }
+    ],
+    "lines": [
+      [
+        "and",
+        "ask",
+        "customers"
+      ],
+      [
+        "for",
+        "reviews"
+      ]
+    ],
+    "text": "and ask customers for reviews"
+  },
+  {
+    "start": 20.9,
+    "end": 22.06,
+    "words": [
+      {
+        "word": "after",
+        "start": 20.9,
+        "end": 21.22
+      },
+      {
+        "word": "every",
+        "start": 21.22,
+        "end": 21.56
+      },
+      {
+        "word": "job.",
+        "start": 21.56,
+        "end": 21.86
+      }
+    ],
+    "lines": [
+      [
+        "after",
+        "every",
+        "job."
+      ]
+    ],
+    "text": "after every job."
+  },
+  {
+    "start": 22.1,
+    "end": 23.54,
+    "words": [
+      {
+        "word": "So",
+        "start": 22.1,
+        "end": 22.26
+      },
+      {
+        "word": "that",
+        "start": 22.26,
+        "end": 22.38
+      },
+      {
+        "word": "when",
+        "start": 22.38,
+        "end": 22.52
+      },
+      {
+        "word": "someone",
+        "start": 22.52,
+        "end": 22.7
+      },
+      {
+        "word": "nearby",
+        "start": 22.7,
+        "end": 23.04
+      },
+      {
+        "word": "needs",
+        "start": 23.04,
+        "end": 23.54
+      }
+    ],
+    "lines": [
+      [
+        "So",
+        "that",
+        "when",
+        "someone"
+      ],
+      [
+        "nearby",
+        "needs"
+      ]
+    ],
+    "text": "So that when someone nearby needs"
+  },
+  {
+    "start": 23.54,
+    "end": 24.439999999999998,
+    "words": [
+      {
+        "word": "roofing",
+        "start": 23.54,
+        "end": 24.02
+      },
+      {
+        "word": "work,",
+        "start": 24.02,
+        "end": 24.24
+      }
+    ],
+    "lines": [
+      [
+        "roofing",
+        "work,"
+      ]
+    ],
+    "text": "roofing work,"
+  },
+  {
+    "start": 24.52,
+    "end": 25.38,
+    "words": [
+      {
+        "word": "your",
+        "start": 24.52,
+        "end": 24.58
+      },
+      {
+        "word": "business",
+        "start": 24.58,
+        "end": 24.94
+      },
+      {
+        "word": "is",
+        "start": 24.94,
+        "end": 25.14
+      },
+      {
+        "word": "ready",
+        "start": 25.14,
+        "end": 25.38
+      }
+    ],
+    "lines": [
+      [
+        "your",
+        "business",
+        "is",
+        "ready"
+      ]
+    ],
+    "text": "your business is ready"
+  },
+  {
+    "start": 25.38,
+    "end": 26.24,
+    "words": [
+      {
+        "word": "to",
+        "start": 25.38,
+        "end": 25.6
+      },
+      {
+        "word": "be",
+        "start": 25.6,
+        "end": 25.7
+      },
+      {
+        "word": "found.",
+        "start": 25.7,
+        "end": 26.04
+      }
+    ],
+    "lines": [
+      [
+        "to",
+        "be",
+        "found."
+      ]
+    ],
+    "text": "to be found."
+  },
+  {
+    "start": 26.56,
+    "end": 27.56,
+    "words": [
+      {
+        "word": "No",
+        "start": 26.56,
+        "end": 26.78
+      },
+      {
+        "word": "paid",
+        "start": 26.78,
+        "end": 27.12
+      },
+      {
+        "word": "ads,",
+        "start": 27.12,
+        "end": 27.36
+      }
+    ],
+    "lines": [
+      [
+        "No",
+        "paid",
+        "ads,"
+      ]
+    ],
+    "text": "No paid ads,"
+  },
+  {
+    "start": 27.82,
+    "end": 28.9,
+    "words": [
+      {
+        "word": "no",
+        "start": 27.82,
+        "end": 28.06
+      },
+      {
+        "word": "hidden",
+        "start": 28.06,
+        "end": 28.32
+      },
+      {
+        "word": "fees,",
+        "start": 28.32,
+        "end": 28.7
+      }
+    ],
+    "lines": [
+      [
+        "no",
+        "hidden",
+        "fees,"
+      ]
+    ],
+    "text": "no hidden fees,"
+  },
+  {
+    "start": 29.16,
+    "end": 30.759999999999998,
+    "words": [
+      {
+        "word": "no",
+        "start": 29.16,
+        "end": 29.38
+      },
+      {
+        "word": "long-term",
+        "start": 29.38,
+        "end": 29.98
+      },
+      {
+        "word": "contract.",
+        "start": 29.98,
+        "end": 30.56
+      }
+    ],
+    "lines": [
+      [
+        "no",
+        "long-term",
+        "contract."
+      ]
+    ],
+    "text": "no long-term contract."
+  },
+  {
+    "start": 31.04,
+    "end": 32.32,
+    "words": [
+      {
+        "word": "Tap",
+        "start": 31.04,
+        "end": 31.16
+      },
+      {
+        "word": "below",
+        "start": 31.16,
+        "end": 31.42
+      },
+      {
+        "word": "and",
+        "start": 31.42,
+        "end": 31.72
+      },
+      {
+        "word": "we'll",
+        "start": 31.72,
+        "end": 31.92
+      },
+      {
+        "word": "show",
+        "start": 31.92,
+        "end": 32.14
+      },
+      {
+        "word": "you",
+        "start": 32.14,
+        "end": 32.32
+      }
+    ],
+    "lines": [
+      [
+        "Tap",
+        "below",
+        "and"
+      ],
+      [
+        "we'll",
+        "show",
+        "you"
+      ]
+    ],
+    "text": "Tap below and we'll show you"
+  },
+  {
+    "start": 32.32,
+    "end": 33.78,
+    "words": [
+      {
+        "word": "what",
+        "start": 32.32,
+        "end": 32.5
+      },
+      {
+        "word": "your",
+        "start": 32.5,
+        "end": 32.64
+      },
+      {
+        "word": "new",
+        "start": 32.64,
+        "end": 32.84
+      },
+      {
+        "word": "website",
+        "start": 32.84,
+        "end": 33.24
+      },
+      {
+        "word": "could",
+        "start": 33.24,
+        "end": 33.56
+      },
+      {
+        "word": "look",
+        "start": 33.56,
+        "end": 33.78
+      }
+    ],
+    "lines": [
+      [
+        "what",
+        "your",
+        "new"
+      ],
+      [
+        "website",
+        "could",
+        "look"
+      ]
+    ],
+    "text": "what your new website could look"
+  },
+  {
+    "start": 33.78,
+    "end": 34.32,
+    "words": [
+      {
+        "word": "like",
+        "start": 33.78,
+        "end": 34.12
+      }
+    ],
+    "lines": [
+      [
+        "like"
+      ]
+    ],
+    "text": "like"
+  },
+  {
+    "start": 34.7,
+    "end": 35.68,
+    "words": [
+      {
+        "word": "completely",
+        "start": 34.7,
+        "end": 35.22
+      },
+      {
+        "word": "free",
+        "start": 35.22,
+        "end": 35.48
+      }
+    ],
+    "lines": [
+      [
+        "completely",
+        "free"
+      ]
+    ],
+    "text": "completely free"
+  }
+]

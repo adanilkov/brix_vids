@@ -1,0 +1,71 @@
+{
+  "script_adjustments_to_match_voiceover": [
+    [
+      "for $297",
+      "for just $297"
+    ],
+    [
+      "no hidden fees, and no",
+      "no hidden fees, no"
+    ]
+  ],
+  "removed_recognition_hallucinations": [
+    {
+      "word": "3.",
+      "start": 36.84,
+      "end": 36.96,
+      "probability": 0.187
+    },
+    {
+      "word": "We'll",
+      "start": 36.96,
+      "end": 36.96,
+      "probability": 0.139
+    },
+    {
+      "word": "see",
+      "start": 36.96,
+      "end": 37.04,
+      "probability": 0.342
+    },
+    {
+      "word": "you",
+      "start": 37.04,
+      "end": 37.08,
+      "probability": 0.708
+    },
+    {
+      "word": "next",
+      "start": 37.08,
+      "end": 37.08,
+      "probability": 0.289
+    },
+    {
+      "word": "week.",
+      "start": 37.08,
+      "end": 37.08,
+      "probability": 0.748
+    }
+  ],
+  "timing_repairs": [],
+  "format_equivalences": [
+    {
+      "kind": "equivalent_number_format",
+      "recognized": [
+        "two",
+        "hundred",
+        "ninety-seven",
+        "dollars"
+      ],
+      "script": [
+        "$297"
+      ],
+      "note": "The full number span is timed by speech recognition; internal written-word times are interpolated. Captions keep the numeric token together."
+    }
+  ],
+  "source_recording": "kept in full",
+  "original_transcript": "transcripts/septic/septic_1-5.txt",
+  "script_number": 1,
+  "prepared_transcript": "transcripts/septic/prepared/septic_1.txt",
+  "normalization": "Whitespace and punctuation normalized for word matching; prices displayed as $297; Brix brand spelling preserved."
+}

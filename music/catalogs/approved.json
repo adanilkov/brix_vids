@@ -1,0 +1,21 @@
+{
+  "id": "approved",
+  "default": "relaxed_groove",
+  "description": "Option 2 (Curiosity) is the default for all new ads. The original Brix bed remains available explicitly. Both retain 80% music volume; narration is unchanged.",
+  "tracks": [
+    {
+      "id": "original",
+      "label": "Original Brix music",
+      "music": {"mode": "synth", "level_db": -37, "gain": 0.8}
+    },
+    {
+      "id": "relaxed_groove",
+      "label": "Relaxed groove (option 2)",
+      "title": "Curiosity",
+      "artist": "Diego Nava",
+      "music": {"mode": "file", "file": "music/tracks/02_relaxed_groove/source.mp3", "lufs": -30, "gain": 0.8},
+      "source_url": "https://mixkit.co/free-stock-music/tag/corporate/",
+      "license_url": "https://mixkit.co/license/#musicFree"
+    }
+  ]
+}

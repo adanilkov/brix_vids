@@ -1,0 +1,164 @@
+{
+  "id": "BRIX_Septic_02_LocalCalls_4x5_B_Curiosity",
+  "niche": "septic contractors",
+  "brand": "video_pipeline/brands/brix/brand.json",
+  "audio": "voiceover/septic/Septic Script 2 Audio.wav",
+  "transcript": "transcripts/septic/prepared/septic_2.txt",
+  "catalog": "video_pipeline/catalogs/septic.json",
+  "output": "output/septic_2/output/BRIX_Septic_02_LocalCalls_4x5_B_Curiosity.mp4",
+  "end_hold": 1.03,
+  "alignment": {
+    "words": "video_pipeline/alignments/septic_2.words.json"
+  },
+  "shot_selection": {
+    "seconds_per_shot": 3.6,
+    "seed": "septic_2"
+  },
+  "music": {
+    "mode": "file",
+    "file": "music/tracks/02_relaxed_groove/source.mp3",
+    "lufs": -30,
+    "gain": 0.8,
+    "profile": "relaxed_groove"
+  },
+  "creative": {
+    "cta": {
+      "start": {
+        "phrase": "Tap below"
+      },
+      "lines": [
+        "Get found.",
+        "Get more calls."
+      ],
+      "prompt": "Tap to learn more"
+    },
+    "offer": {
+      "start": {
+        "phrase": "BRIX helps"
+      },
+      "end": {
+        "phrase": "So when"
+      },
+      "eyebrow": "LOCAL VISIBILITY. MORE CALLS.",
+      "price": "$297",
+      "period": "/ month",
+      "benefits": [
+        {
+          "start": {
+            "phrase": "BRIX helps"
+          },
+          "text": "Help getting found on Google"
+        },
+        {
+          "start": {
+            "phrase": "We build"
+          },
+          "text": "Website built + hosted"
+        },
+        {
+          "start": {
+            "phrase": "keep your Google"
+          },
+          "text": "Active Google Business Profile"
+        },
+        {
+          "start": {
+            "phrase": "ask your customers"
+          },
+          "text": "Review requests after every job"
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "clip": "septic_stock_7",
+      "start": 0.0,
+      "end": 4.633333333333334,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.4,
+        0.5
+      ]
+    },
+    {
+      "clip": "347093552",
+      "start": 4.633333333333334,
+      "end": 8.233333333333333,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.6,
+        0.5
+      ]
+    },
+    {
+      "clip": "352469674",
+      "start": 8.233333333333333,
+      "end": 11.833333333333334,
+      "source_in": 1.5,
+      "speed": 1.0,
+      "crop_center": [
+        0.47,
+        0.5
+      ]
+    },
+    {
+      "clip": "348969062",
+      "start": 11.833333333333334,
+      "end": 15.433333333333334,
+      "source_in": 1.5,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "septic_stock_8",
+      "start": 15.433333333333334,
+      "end": 19.033333333333335,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.51,
+        0.5
+      ]
+    },
+    {
+      "clip": "349172061",
+      "start": 19.033333333333335,
+      "end": 22.7,
+      "source_in": 0.3,
+      "speed": 1.0,
+      "crop_center": [
+        0.58,
+        0.5
+      ]
+    },
+    {
+      "clip": "septic_stock_8",
+      "start": 22.7,
+      "end": 27.566666666666666,
+      "source_in": 5.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.51,
+        0.5
+      ]
+    },
+    {
+      "clip": "352469674",
+      "start": 27.566666666666666,
+      "end": "end",
+      "source_in": 4.0,
+      "speed": 0.9,
+      "crop_center": [
+        0.47,
+        0.5
+      ]
+    }
+  ],
+  "artifact_version": "B_curiosity"
+}

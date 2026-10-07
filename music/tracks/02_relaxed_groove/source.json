@@ -1,0 +1,21 @@
+{
+  "@id": "Curiosity",
+  "@type": "MusicRecording",
+  "name": "Curiosity",
+  "genre": "Chillout",
+  "byArtist": "Diego Nava",
+  "duration": "PT1M40S",
+  "url": "https://assets.mixkit.co/music/480/480.mp3",
+  "waveformUrl": "https://assets.mixkit.co/music/480/480-waveform.json",
+  "copyrightNotice": "Mixkit Stock Music Free License",
+  "encodingFormat": "audio/mpeg",
+  "isAccessibleForFree": true,
+  "license": "https://mixkit.co/license/#musicFree",
+  "publisher": {
+    "@id": "https://mixkit.co/#organization"
+  },
+  "datePublished": "2020-01-28",
+  "source_page": "https://mixkit.co/free-stock-music/tag/corporate/",
+  "retrieved_on": "2026-09-26",
+  "sha256": "181e91737f341ca61a1641b2955cc794fa6276ca0854d06266d55841d655a24b"
+}

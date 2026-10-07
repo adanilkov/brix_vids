@@ -1,0 +1,60 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/roof_2/project/A_original/export.partial.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Roofing_02_LocalCalls_4x5_A_Original
+    encoder         : Lavf61.1.100
+  Duration: 00:00:32.63, start: 0.000000, bitrate: 4508 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 4306 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+  Stream #0:1 -> #0:1 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Roofing_02_LocalCalls_4x5_A_Original
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+  Stream #0:1(und): Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 pcm_s16le
+frame=   91 fps=0.0 q=-0.0 size=N/A time=00:00:00.10 bitrate=N/A speed= 0.2x    
+frame=  237 fps=237 q=-0.0 size=N/A time=00:00:05.70 bitrate=N/A speed= 5.7x    
+frame=  378 fps=252 q=-0.0 size=N/A time=00:00:10.60 bitrate=N/A speed=7.06x    
+frame=  526 fps=263 q=-0.0 size=N/A time=00:00:15.10 bitrate=N/A speed=7.54x    
+frame=  690 fps=276 q=-0.0 size=N/A time=00:00:20.80 bitrate=N/A speed=8.31x    
+frame=  811 fps=270 q=-0.0 size=N/A time=00:00:24.60 bitrate=N/A speed=8.19x    
+frame=  921 fps=262 q=-0.0 size=N/A time=00:00:28.00 bitrate=N/A speed=7.97x    
+[Parsed_loudnorm_0 @ 0x719028003040] 
+{
+	"input_i" : "-16.04",
+	"input_tp" : "-4.77",
+	"input_lra" : "2.30",
+	"input_thresh" : "-26.36",
+	"output_i" : "-15.96",
+	"output_tp" : "-4.66",
+	"output_lra" : "1.60",
+	"output_thresh" : "-26.15",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-0.04"
+}
+[out#0/null @ 0x39d01700] video:421KiB audio:24480KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  979 fps=256 q=-0.0 Lsize=N/A time=00:00:32.63 bitrate=N/A speed=8.55x    

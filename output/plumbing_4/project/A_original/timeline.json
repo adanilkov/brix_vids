@@ -1,0 +1,202 @@
+{
+  "duration": 23.166666666666668,
+  "fps": 30,
+  "shots": [
+    {
+      "id": "355306047",
+      "file": "stock_footage/plumbing/portrait-of-caucasian-young-adult-male-plumber-holding-manifold-collector-in-boiler-SBV-355306047-HD.mp4",
+      "source_in": 4.0,
+      "crop_center": [
+        0.54,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "355306047",
+      "start": 0.0,
+      "end": 3.6,
+      "start_frame": 0,
+      "end_frame": 108,
+      "frames": 108,
+      "source_info": {
+        "duration": 9.708333,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "frames": 233,
+        "rotation": 0,
+        "codec": "hevc"
+      }
+    },
+    {
+      "id": "337778096",
+      "file": "stock_footage/plumbing/plumber-joining-plastic-pipes-close-up-plumbing-contractor-installing-pipes-close-u-SBV-337778096-HD.mp4",
+      "source_in": 0.6,
+      "crop_center": [
+        0.43,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "337778096",
+      "start": 3.6,
+      "end": 6.166666666666667,
+      "start_frame": 108,
+      "end_frame": 185,
+      "frames": 77,
+      "source_info": {
+        "duration": 6.506507,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 195,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "352740177",
+      "file": "stock_footage/plumbing/plumber-repairing-sink-in-kitchen-SBV-352740177-HD.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.62,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "352740177",
+      "start": 6.166666666666667,
+      "end": 8.933333333333334,
+      "start_frame": 185,
+      "end_frame": 268,
+      "frames": 83,
+      "source_info": {
+        "duration": 19.6,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 490,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "352808752",
+      "file": "stock_footage/plumbing/construction-plumbing-system-installation-two-water-supply-valves-one-with-a-red-ha-SBV-352808752-HD.mp4",
+      "source_in": 1.5,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "352808752",
+      "start": 8.933333333333334,
+      "end": 12.533333333333333,
+      "start_frame": 268,
+      "end_frame": 376,
+      "frames": 108,
+      "source_info": {
+        "duration": 20.854188,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 625,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "355306047",
+      "file": "stock_footage/plumbing/portrait-of-caucasian-young-adult-male-plumber-holding-manifold-collector-in-boiler-SBV-355306047-HD.mp4",
+      "source_in": 6.57,
+      "crop_center": [
+        0.54,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "355306047",
+      "start": 12.533333333333333,
+      "end": 15.466666666666667,
+      "start_frame": 376,
+      "end_frame": 464,
+      "frames": 88,
+      "source_info": {
+        "duration": 9.708333,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "frames": 233,
+        "rotation": 0,
+        "codec": "hevc"
+      }
+    },
+    {
+      "id": "337778091",
+      "file": "stock_footage/plumbing/plumbers-hands-working-with-plastic-pipes-hands-of-plumber-repairing-water-pipes-SBV-337778091-HD.mp4",
+      "source_in": 0.4,
+      "crop_center": [
+        0.53,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "337778091",
+      "start": 15.466666666666667,
+      "end": 18.866666666666667,
+      "start_frame": 464,
+      "end_frame": 566,
+      "frames": 102,
+      "source_info": {
+        "duration": 6.740073,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 202,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "355305960",
+      "file": "stock_footage/plumbing/young-adult-caucasian-male-plumber-inspecting-pipe-connector-and-installing-it-on-h-SBV-355305960-HD.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.37,
+        0.5
+      ],
+      "speed": 0.9,
+      "framing": "wide",
+      "clip": "355305960",
+      "start": 18.866666666666667,
+      "end": 23.166666666666668,
+      "start_frame": 566,
+      "end_frame": 695,
+      "frames": 129,
+      "source_info": {
+        "duration": 9.083333,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "frames": 218,
+        "rotation": 0,
+        "codec": "hevc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "duration": 19.866666666666667,
+  "fps": 30,
+  "shots": [
+    {
+      "id": "355305960",
+      "file": "stock_footage/plumbing/young-adult-caucasian-male-plumber-inspecting-pipe-connector-and-installing-it-on-h-SBV-355305960-HD.mp4",
+      "source_in": 1.0,
+      "crop_center": [
+        0.37,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "355305960",
+      "start": 0.0,
+      "end": 3.966666666666667,
+      "start_frame": 0,
+      "end_frame": 119,
+      "frames": 119,
+      "source_info": {
+        "duration": 9.083333,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "frames": 218,
+        "rotation": 0,
+        "codec": "hevc"
+      }
+    },
+    {
+      "id": "337778096",
+      "file": "stock_footage/plumbing/plumber-joining-plastic-pipes-close-up-plumbing-contractor-installing-pipes-close-u-SBV-337778096-HD.mp4",
+      "source_in": 0.6,
+      "crop_center": [
+        0.43,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "337778096",
+      "start": 3.966666666666667,
+      "end": 7.9,
+      "start_frame": 119,
+      "end_frame": 237,
+      "frames": 118,
+      "source_info": {
+        "duration": 6.506507,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 195,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "352810684",
+      "file": "stock_footage/plumbing/construction-plumbing-system-installation-newly-installed-plumbing-manifold-with-pv-SBV-352810684-HD.mp4",
+      "source_in": 3.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "352810684",
+      "start": 7.9,
+      "end": 11.766666666666667,
+      "start_frame": 237,
+      "end_frame": 353,
+      "frames": 116,
+      "source_info": {
+        "duration": 25.225225,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 756,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "337778098",
+      "file": "stock_footage/plumbing/close-up-of-plumber-working-with-pipes-plumber-installing-plastic-water-pipes-plumb-SBV-337778098-HD.mp4",
+      "source_in": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "337778098",
+      "start": 11.766666666666667,
+      "end": 16.0,
+      "start_frame": 353,
+      "end_frame": 480,
+      "frames": 127,
+      "source_info": {
+        "duration": 10.477144,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 314,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "352740177",
+      "file": "stock_footage/plumbing/plumber-repairing-sink-in-kitchen-SBV-352740177-HD.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.62,
+        0.5
+      ],
+      "speed": 0.9,
+      "framing": "wide",
+      "clip": "352740177",
+      "start": 16.0,
+      "end": 19.866666666666667,
+      "start_frame": 480,
+      "end_frame": 596,
+      "frames": 116,
+      "source_info": {
+        "duration": 19.6,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 490,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    }
+  ]
+}

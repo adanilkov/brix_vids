@@ -1,0 +1,157 @@
+[Parsed_ass_16 @ 0x3df70a00] libass API version: 0x1703000
+[Parsed_ass_16 @ 0x3df70a00] libass source: commit: 0.17.3-12-g5c00ca266dd49dd7cf93a79f09a661ab1ff66439
+[Parsed_ass_16 @ 0x3df70a00] Shaper: FriBidi 1.0.11 (SIMPLE) HarfBuzz-ng 3.1.1 (COMPLEX)
+[Parsed_ass_16 @ 0x3df70a00] Loading font file 'fonts/DMSans-Bold.ttf'
+[Parsed_ass_16 @ 0x3df70a00] Loading font file 'fonts/DMSans-Medium.ttf'
+[Parsed_ass_16 @ 0x3df70a00] Loading font file 'fonts/Manrope-ExtraBold.ttf'
+[Parsed_ass_16 @ 0x3df70a00] Loading font file 'fonts/Manrope-SemiBold.ttf'
+[Parsed_ass_16 @ 0x3df70a00] Using font provider fontconfig
+[Parsed_ass_16 @ 0x3df70a00] Added subtitle file: 'graphics.ass' (3 styles, 107 events)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/adani/.cache/brix-video/pictures/3cef9b25004a3555741191f0.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Duration: 00:00:19.87, start: 0.000000, bitrate: 3405 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 3402 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+Input #1, png_pipe, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_2/project/A_original/gradient.png':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 1080x1350, 25 fps, 25 tbr, 25 tbn
+Input #2, png_pipe, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_2/project/A_original/brand_header.png':
+  Duration: N/A, bitrate: N/A
+  Stream #2:0: Video: png, rgba(pc, gbr/unknown/unknown), 1080x1350, 25 fps, 25 tbr, 25 tbn
+Input #3, png_pipe, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_2/project/A_original/offer_mask.png':
+  Duration: N/A, bitrate: N/A
+  Stream #3:0: Video: png, gray(pc, gbr/unknown/unknown), 936x502, 25 fps, 25 tbr, 25 tbn
+[aist#4:0/pcm_s16le @ 0x3df96e80] Guessed Channel Layout: mono
+Input #4, wav, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/voiceover/plumbing/Plumbing Script 2 Audio.wav':
+  Metadata:
+    title           : Plumbing Script 2
+    encoder         : Lavf60.3.100
+    encoded_by      : Descript
+  Duration: 00:00:18.81, bitrate: 705 kb/s
+  Stream #4:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, mono, s16, 705 kb/s
+[aist#5:0/pcm_s16le @ 0x3e00de40] Guessed Channel Layout: stereo
+Input #5, wav, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_2/project/A_original/music.wav':
+  Duration: 00:00:19.87, bitrate: 1536 kb/s
+  Stream #5:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s
+Stream mapping:
+  Stream #0:0 (h264) -> overlay
+  Stream #1:0 (png) -> scale:default
+  Stream #2:0 (png) -> scale:default
+  Stream #3:0 (png) -> scale:default
+  Stream #4:0 (pcm_s16le) -> highpass:default
+  Stream #5:0 (pcm_s16le) -> anull:default
+  format:default -> Stream #0:0 (libx264)
+  alimiter:default -> Stream #0:1 (aac)
+Press [q] to stop, [?] for help
+[Parsed_ass_16 @ 0x760fe00dbfc0] libass API version: 0x1703000
+[Parsed_ass_16 @ 0x760fe00dbfc0] libass source: commit: 0.17.3-12-g5c00ca266dd49dd7cf93a79f09a661ab1ff66439
+[Parsed_ass_16 @ 0x760fe00dbfc0] Shaper: FriBidi 1.0.11 (SIMPLE) HarfBuzz-ng 3.1.1 (COMPLEX)
+[Parsed_ass_16 @ 0x760fe00dbfc0] Loading font file 'fonts/DMSans-Bold.ttf'
+[Parsed_ass_16 @ 0x760fe00dbfc0] Loading font file 'fonts/DMSans-Medium.ttf'
+[Parsed_ass_16 @ 0x760fe00dbfc0] Loading font file 'fonts/Manrope-ExtraBold.ttf'
+[Parsed_ass_16 @ 0x760fe00dbfc0] Loading font file 'fonts/Manrope-SemiBold.ttf'
+[Parsed_ass_16 @ 0x760fe00dbfc0] Using font provider fontconfig
+[Parsed_ass_16 @ 0x760fe00dbfc0] Added subtitle file: 'graphics.ass' (3 styles, 107 events)
+[Parsed_ass_16 @ 0x760fe00dbfc0] fontselect: (Manrope ExtraBold, 400, 0) -> Manrope-ExtraBold, 0, Manrope-ExtraBold
+[libx264 @ 0x3dfc1900] using SAR=1/1
+[libx264 @ 0x3dfc1900] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x3dfc1900] profile High, level 4.1, 4:2:0, 8-bit
+[libx264 @ 0x3dfc1900] 264 - core 164 r3191 4613ac3 - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=6 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=19.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_2/project/A_original/export.partial.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Plumbing_02_LocalCalls_4x5_A_Original
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.3.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.3.100 aac
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=   15 fps=6.0 q=25.0 size=       0KiB time=00:00:00.43 bitrate=   0.9kbits/s speed=0.172x    
+frame=   32 fps= 11 q=25.0 size=     256KiB time=00:00:01.00 bitrate=2097.5kbits/s speed=0.331x    
+frame=   48 fps= 14 q=25.0 size=     256KiB time=00:00:01.53 bitrate=1368.0kbits/s speed=0.436x    
+frame=   69 fps= 17 q=25.0 size=     512KiB time=00:00:02.23 bitrate=1878.2kbits/s speed=0.556x    
+frame=   84 fps= 19 q=25.0 size=     512KiB time=00:00:02.76 bitrate=1516.2kbits/s speed=0.612x    
+[Parsed_ass_16 @ 0x760fe00dbfc0] fontselect: (DM Sans 14pt Bold, 400, 0) -> DMSans-14ptBold, 0, DMSans-14ptBold
+[Parsed_ass_16 @ 0x760fe00dbfc0] fontselect: (Manrope SemiBold, 400, 0) -> Manrope-SemiBold, 0, Manrope-SemiBold
+[Parsed_ass_16 @ 0x760fe00dbfc0] fontselect: (DM Sans 14pt Medium, 400, 0) -> DMSans-14ptMedium, 0, DMSans-14ptMedium
+frame=   97 fps= 19 q=25.0 size=     768KiB time=00:00:03.16 bitrate=1986.9kbits/s speed=0.63x    
+frame=  102 fps= 18 q=25.0 size=     768KiB time=00:00:03.33 bitrate=1887.6kbits/s speed=0.604x    
+frame=  110 fps= 18 q=25.0 size=     768KiB time=00:00:03.60 bitrate=1747.7kbits/s speed=0.598x    
+frame=  121 fps= 19 q=25.0 size=     768KiB time=00:00:03.96 bitrate=1586.2kbits/s speed=0.608x    
+frame=  129 fps= 18 q=25.0 size=    1024KiB time=00:00:04.23 bitrate=1981.7kbits/s speed=0.602x    
+frame=  139 fps= 18 q=25.0 size=    1280KiB time=00:00:04.56 bitrate=2296.2kbits/s speed=0.606x    
+frame=  148 fps= 18 q=25.0 size=    1280KiB time=00:00:04.86 bitrate=2154.7kbits/s speed=0.606x    
+frame=  156 fps= 18 q=25.0 size=    1536KiB time=00:00:05.13 bitrate=2451.3kbits/s speed=0.601x    
+frame=  169 fps= 19 q=25.0 size=    1536KiB time=00:00:05.56 bitrate=2260.5kbits/s speed=0.616x    
+frame=  175 fps= 18 q=25.0 size=    1792KiB time=00:00:05.76 bitrate=2545.7kbits/s speed=0.605x    
+frame=  179 fps= 18 q=25.0 size=    1792KiB time=00:00:05.90 bitrate=2488.2kbits/s speed=0.588x    
+frame=  185 fps= 18 q=25.0 size=    1792KiB time=00:00:06.10 bitrate=2406.6kbits/s speed=0.579x    
+frame=  190 fps= 17 q=25.0 size=    2048KiB time=00:00:06.30 bitrate=2663.1kbits/s speed=0.571x    
+frame=  195 fps= 17 q=25.0 size=    2048KiB time=00:00:06.43 bitrate=2607.9kbits/s speed=0.557x    
+frame=  199 fps= 17 q=25.0 size=    2048KiB time=00:00:06.56 bitrate=2555.0kbits/s speed=0.545x    
+frame=  219 fps= 17 q=25.0 size=    2304KiB time=00:00:07.23 bitrate=2609.4kbits/s speed=0.576x    
+frame=  235 fps= 18 q=25.0 size=    2560KiB time=00:00:07.76 bitrate=2700.2kbits/s speed=0.595x    
+frame=  249 fps= 18 q=25.0 size=    2560KiB time=00:00:08.23 bitrate=2547.2kbits/s speed=0.608x    
+frame=  266 fps= 19 q=25.0 size=    2816KiB time=00:00:08.80 bitrate=2621.5kbits/s speed=0.626x    
+frame=  279 fps= 19 q=25.0 size=    2816KiB time=00:00:09.23 bitrate=2498.5kbits/s speed=0.635x    
+frame=  295 fps= 20 q=25.0 size=    2816KiB time=00:00:09.76 bitrate=2362.0kbits/s speed=0.649x    
+frame=  306 fps= 20 q=25.0 size=    2816KiB time=00:00:10.13 bitrate=2276.6kbits/s speed=0.652x    
+frame=  319 fps= 20 q=25.0 size=    3072KiB time=00:00:10.56 bitrate=2381.7kbits/s speed=0.658x    
+frame=  333 fps= 20 q=25.0 size=    3072KiB time=00:00:11.03 bitrate=2280.9kbits/s speed=0.667x    
+frame=  349 fps= 20 q=25.0 size=    3072KiB time=00:00:11.56 bitrate=2175.8kbits/s speed=0.678x    
+frame=  362 fps= 21 q=25.0 size=    3328KiB time=00:00:12.00 bitrate=2271.9kbits/s speed=0.684x    
+frame=  374 fps= 21 q=25.0 size=    3584KiB time=00:00:12.40 bitrate=2367.8kbits/s speed=0.687x    
+frame=  383 fps= 21 q=25.0 size=    3584KiB time=00:00:12.70 bitrate=2311.9kbits/s speed=0.685x    
+frame=  400 fps= 21 q=25.0 size=    3840KiB time=00:00:13.26 bitrate=2371.2kbits/s speed=0.696x    
+frame=  415 fps= 21 q=25.0 size=    4096KiB time=00:00:13.76 bitrate=2437.4kbits/s speed=0.704x    
+frame=  430 fps= 21 q=25.0 size=    4096KiB time=00:00:14.26 bitrate=2352.0kbits/s speed=0.711x    
+frame=  441 fps= 21 q=25.0 size=    4352KiB time=00:00:14.63 bitrate=2436.4kbits/s speed=0.712x    
+frame=  457 fps= 22 q=25.0 size=    4352KiB time=00:00:15.16 bitrate=2350.7kbits/s speed=0.72x    
+frame=  473 fps= 22 q=25.0 size=    4608KiB time=00:00:15.70 bitrate=2404.4kbits/s speed=0.728x    
+frame=  488 fps= 22 q=25.0 size=    4864KiB time=00:00:16.20 bitrate=2459.6kbits/s speed=0.734x    
+frame=  503 fps= 22 q=25.0 size=    5120KiB time=00:00:16.70 bitrate=2511.6kbits/s speed=0.74x    
+frame=  513 fps= 22 q=25.0 size=    5120KiB time=00:00:17.03 bitrate=2462.4kbits/s speed=0.739x    
+frame=  523 fps= 22 q=25.0 size=    5120KiB time=00:00:17.36 bitrate=2415.2kbits/s speed=0.737x    
+frame=  530 fps= 22 q=25.0 size=    5376KiB time=00:00:17.60 bitrate=2502.3kbits/s speed=0.731x    
+frame=  538 fps= 22 q=25.0 size=    5376KiB time=00:00:17.86 bitrate=2465.0kbits/s speed=0.727x    
+frame=  546 fps= 22 q=25.0 size=    5376KiB time=00:00:18.13 bitrate=2428.7kbits/s speed=0.723x    
+frame=  554 fps= 22 q=25.0 size=    5632KiB time=00:00:18.40 bitrate=2507.5kbits/s speed=0.72x    
+frame=  573 fps= 22 q=25.0 size=    5632KiB time=N/A bitrate=N/A speed=N/A    
+[mp4 @ 0x3df6e940] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x3dfbed00] video:5606KiB audio:464KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.374060%
+frame=  596 fps= 22 q=-1.0 Lsize=    6093KiB time=00:00:19.80 bitrate=2521.1kbits/s speed=0.735x    
+[libx264 @ 0x3dfc1900] frame I:3     Avg QP:13.68  size:103449
+[libx264 @ 0x3dfc1900] frame P:167   Avg QP:16.56  size: 16802
+[libx264 @ 0x3dfc1900] frame B:426   Avg QP:17.63  size:  6160
+[libx264 @ 0x3dfc1900] consecutive B-frames:  2.3%  4.7%  7.0% 85.9%
+[libx264 @ 0x3dfc1900] mb I  I16..4: 23.1% 49.7% 27.1%
+[libx264 @ 0x3dfc1900] mb P  I16..4:  8.8% 12.4%  1.4%  P16..4: 24.6%  9.3%  3.5%  0.0%  0.0%    skip:39.9%
+[libx264 @ 0x3dfc1900] mb B  I16..4:  3.9%  3.5%  0.1%  B16..8: 18.7%  4.6%  0.1%  direct: 7.1%  skip:62.0%  L0:50.4% L1:45.9% BI: 3.7%
+[libx264 @ 0x3dfc1900] 8x8 transform intra:51.3% inter:62.7%
+[libx264 @ 0x3dfc1900] coded y,uvDC,uvAC intra: 26.7% 57.6% 12.8% inter: 5.6% 13.8% 0.2%
+[libx264 @ 0x3dfc1900] i16 v,h,dc,p: 39% 25% 10% 25%
+[libx264 @ 0x3dfc1900] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 21% 24%  3%  5%  4%  5%  4%  2%
+[libx264 @ 0x3dfc1900] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 35% 24% 14%  4%  5%  5%  5%  4%  3%
+[libx264 @ 0x3dfc1900] i8c dc,h,v,p: 50% 28% 18%  4%
+[libx264 @ 0x3dfc1900] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x3dfc1900] ref P L0: 63.7% 36.3%
+[libx264 @ 0x3dfc1900] ref B L0: 75.0% 25.0%
+[libx264 @ 0x3dfc1900] ref B L1: 94.8%  5.2%
+[libx264 @ 0x3dfc1900] kb/s:2311.52
+[aac @ 0x3df97500] Qavg: 636.329

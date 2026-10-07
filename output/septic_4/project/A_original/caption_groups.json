@@ -1,0 +1,1112 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.84,
+    "words": [
+      {
+        "word": "Your",
+        "start": 0.0,
+        "end": 0.12
+      },
+      {
+        "word": "competitors",
+        "start": 0.12,
+        "end": 0.46
+      },
+      {
+        "word": "are",
+        "start": 0.46,
+        "end": 0.78
+      },
+      {
+        "word": "taking",
+        "start": 0.78,
+        "end": 1.04
+      },
+      {
+        "word": "septic",
+        "start": 1.04,
+        "end": 1.46
+      },
+      {
+        "word": "service",
+        "start": 1.46,
+        "end": 1.84
+      }
+    ],
+    "lines": [
+      [
+        "Your",
+        "competitors",
+        "are"
+      ],
+      [
+        "taking",
+        "septic",
+        "service"
+      ]
+    ],
+    "text": "Your competitors are taking septic service"
+  },
+  {
+    "start": 1.84,
+    "end": 2.9,
+    "words": [
+      {
+        "word": "calls",
+        "start": 1.84,
+        "end": 2.08
+      },
+      {
+        "word": "that",
+        "start": 2.08,
+        "end": 2.34
+      },
+      {
+        "word": "should",
+        "start": 2.34,
+        "end": 2.56
+      },
+      {
+        "word": "be",
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "going",
+        "start": 2.72,
+        "end": 2.9
+      }
+    ],
+    "lines": [
+      [
+        "calls",
+        "that"
+      ],
+      [
+        "should",
+        "be",
+        "going"
+      ]
+    ],
+    "text": "calls that should be going"
+  },
+  {
+    "start": 2.9,
+    "end": 3.5,
+    "words": [
+      {
+        "word": "to",
+        "start": 2.9,
+        "end": 3.08
+      },
+      {
+        "word": "you.",
+        "start": 3.08,
+        "end": 3.3
+      }
+    ],
+    "lines": [
+      [
+        "to",
+        "you."
+      ]
+    ],
+    "text": "to you."
+  },
+  {
+    "start": 4.2,
+    "end": 6.5,
+    "words": [
+      {
+        "word": "For",
+        "start": 4.2,
+        "end": 4.34
+      },
+      {
+        "word": "just",
+        "start": 4.34,
+        "end": 4.5
+      },
+      {
+        "word": "$297",
+        "start": 4.5,
+        "end": 5.96
+      },
+      {
+        "word": "a",
+        "start": 5.96,
+        "end": 6.08
+      },
+      {
+        "word": "month,",
+        "start": 6.08,
+        "end": 6.3
+      }
+    ],
+    "lines": [
+      [
+        "For",
+        "just",
+        "$297",
+        "a",
+        "month,"
+      ]
+    ],
+    "text": "For just $297 a month,"
+  },
+  {
+    "start": 6.54,
+    "end": 7.78,
+    "words": [
+      {
+        "word": "BRIX",
+        "start": 6.54,
+        "end": 6.62
+      },
+      {
+        "word": "helps",
+        "start": 6.62,
+        "end": 6.86
+      },
+      {
+        "word": "you",
+        "start": 6.86,
+        "end": 7.06
+      },
+      {
+        "word": "change",
+        "start": 7.06,
+        "end": 7.22
+      },
+      {
+        "word": "that.",
+        "start": 7.22,
+        "end": 7.58
+      }
+    ],
+    "lines": [
+      [
+        "BRIX",
+        "helps",
+        "you"
+      ],
+      [
+        "change",
+        "that."
+      ]
+    ],
+    "text": "BRIX helps you change that."
+  },
+  {
+    "start": 8.08,
+    "end": 9.7,
+    "words": [
+      {
+        "word": "Homeowners",
+        "start": 8.08,
+        "end": 8.56
+      },
+      {
+        "word": "in",
+        "start": 8.56,
+        "end": 8.78
+      },
+      {
+        "word": "your",
+        "start": 8.78,
+        "end": 8.88
+      },
+      {
+        "word": "area",
+        "start": 8.88,
+        "end": 9.18
+      },
+      {
+        "word": "are",
+        "start": 9.18,
+        "end": 9.42
+      },
+      {
+        "word": "searching",
+        "start": 9.42,
+        "end": 9.7
+      }
+    ],
+    "lines": [
+      [
+        "Homeowners",
+        "in",
+        "your"
+      ],
+      [
+        "area",
+        "are",
+        "searching"
+      ]
+    ],
+    "text": "Homeowners in your area are searching"
+  },
+  {
+    "start": 9.7,
+    "end": 11.54,
+    "words": [
+      {
+        "word": "Google",
+        "start": 9.7,
+        "end": 9.96
+      },
+      {
+        "word": "every",
+        "start": 9.96,
+        "end": 10.28
+      },
+      {
+        "word": "day",
+        "start": 10.28,
+        "end": 10.56
+      },
+      {
+        "word": "for",
+        "start": 10.56,
+        "end": 10.76
+      },
+      {
+        "word": "septic",
+        "start": 10.76,
+        "end": 11.02
+      },
+      {
+        "word": "pumping,",
+        "start": 11.02,
+        "end": 11.34
+      }
+    ],
+    "lines": [
+      [
+        "Google",
+        "every",
+        "day"
+      ],
+      [
+        "for",
+        "septic",
+        "pumping,"
+      ]
+    ],
+    "text": "Google every day for septic pumping,"
+  },
+  {
+    "start": 11.76,
+    "end": 12.04,
+    "words": [
+      {
+        "word": "repairs,",
+        "start": 11.76,
+        "end": 11.84
+      }
+    ],
+    "lines": [
+      [
+        "repairs,"
+      ]
+    ],
+    "text": "repairs,"
+  },
+  {
+    "start": 12.18,
+    "end": 12.78,
+    "words": [
+      {
+        "word": "and",
+        "start": 12.18,
+        "end": 12.26
+      },
+      {
+        "word": "service.",
+        "start": 12.26,
+        "end": 12.58
+      }
+    ],
+    "lines": [
+      [
+        "and",
+        "service."
+      ]
+    ],
+    "text": "and service."
+  },
+  {
+    "start": 13.16,
+    "end": 13.98,
+    "words": [
+      {
+        "word": "If",
+        "start": 13.16,
+        "end": 13.2
+      },
+      {
+        "word": "your",
+        "start": 13.2,
+        "end": 13.32
+      },
+      {
+        "word": "business",
+        "start": 13.32,
+        "end": 13.62
+      },
+      {
+        "word": "is",
+        "start": 13.62,
+        "end": 13.82
+      },
+      {
+        "word": "hard",
+        "start": 13.82,
+        "end": 13.98
+      }
+    ],
+    "lines": [
+      [
+        "If",
+        "your",
+        "business",
+        "is",
+        "hard"
+      ]
+    ],
+    "text": "If your business is hard"
+  },
+  {
+    "start": 13.98,
+    "end": 15.6,
+    "words": [
+      {
+        "word": "to",
+        "start": 13.98,
+        "end": 14.12
+      },
+      {
+        "word": "find,",
+        "start": 14.12,
+        "end": 14.4
+      },
+      {
+        "word": "or",
+        "start": 14.7,
+        "end": 14.88
+      },
+      {
+        "word": "doesn’t",
+        "start": 14.88,
+        "end": 15.18
+      },
+      {
+        "word": "look",
+        "start": 15.18,
+        "end": 15.36
+      },
+      {
+        "word": "trustworthy",
+        "start": 15.36,
+        "end": 15.6
+      }
+    ],
+    "lines": [
+      [
+        "to",
+        "find,",
+        "or",
+        "doesn’t"
+      ],
+      [
+        "look",
+        "trustworthy"
+      ]
+    ],
+    "text": "to find, or doesn’t look trustworthy"
+  },
+  {
+    "start": 15.6,
+    "end": 16.259999999999998,
+    "words": [
+      {
+        "word": "online,",
+        "start": 15.6,
+        "end": 16.06
+      }
+    ],
+    "lines": [
+      [
+        "online,"
+      ]
+    ],
+    "text": "online,"
+  },
+  {
+    "start": 16.74,
+    "end": 18.18,
+    "words": [
+      {
+        "word": "they’re",
+        "start": 16.74,
+        "end": 16.88
+      },
+      {
+        "word": "calling",
+        "start": 16.88,
+        "end": 17.1
+      },
+      {
+        "word": "the",
+        "start": 17.1,
+        "end": 17.28
+      },
+      {
+        "word": "company",
+        "start": 17.28,
+        "end": 17.54
+      },
+      {
+        "word": "that",
+        "start": 17.54,
+        "end": 17.74
+      },
+      {
+        "word": "does.",
+        "start": 17.74,
+        "end": 17.98
+      }
+    ],
+    "lines": [
+      [
+        "they’re",
+        "calling",
+        "the"
+      ],
+      [
+        "company",
+        "that",
+        "does."
+      ]
+    ],
+    "text": "they’re calling the company that does."
+  },
+  {
+    "start": 18.78,
+    "end": 20.04,
+    "words": [
+      {
+        "word": "We",
+        "start": 18.78,
+        "end": 18.8
+      },
+      {
+        "word": "build",
+        "start": 18.8,
+        "end": 18.98
+      },
+      {
+        "word": "and",
+        "start": 18.98,
+        "end": 19.2
+      },
+      {
+        "word": "host",
+        "start": 19.2,
+        "end": 19.38
+      },
+      {
+        "word": "your",
+        "start": 19.38,
+        "end": 19.6
+      },
+      {
+        "word": "website,",
+        "start": 19.6,
+        "end": 19.84
+      }
+    ],
+    "lines": [
+      [
+        "We",
+        "build",
+        "and",
+        "host"
+      ],
+      [
+        "your",
+        "website,"
+      ]
+    ],
+    "text": "We build and host your website,"
+  },
+  {
+    "start": 20.26,
+    "end": 21.599999999999998,
+    "words": [
+      {
+        "word": "help",
+        "start": 20.26,
+        "end": 20.46
+      },
+      {
+        "word": "you",
+        "start": 20.46,
+        "end": 20.64
+      },
+      {
+        "word": "get",
+        "start": 20.64,
+        "end": 20.78
+      },
+      {
+        "word": "found",
+        "start": 20.78,
+        "end": 20.98
+      },
+      {
+        "word": "on",
+        "start": 20.98,
+        "end": 21.18
+      },
+      {
+        "word": "Google,",
+        "start": 21.18,
+        "end": 21.4
+      }
+    ],
+    "lines": [
+      [
+        "help",
+        "you",
+        "get"
+      ],
+      [
+        "found",
+        "on",
+        "Google,"
+      ]
+    ],
+    "text": "help you get found on Google,"
+  },
+  {
+    "start": 21.82,
+    "end": 23.68,
+    "words": [
+      {
+        "word": "keep",
+        "start": 21.82,
+        "end": 21.92
+      },
+      {
+        "word": "your",
+        "start": 21.92,
+        "end": 22.08
+      },
+      {
+        "word": "Google",
+        "start": 22.08,
+        "end": 22.26
+      },
+      {
+        "word": "Business",
+        "start": 22.26,
+        "end": 22.62
+      },
+      {
+        "word": "Profile",
+        "start": 22.62,
+        "end": 22.86
+      },
+      {
+        "word": "active,",
+        "start": 22.86,
+        "end": 23.48
+      }
+    ],
+    "lines": [
+      [
+        "keep",
+        "your",
+        "Google"
+      ],
+      [
+        "Business",
+        "Profile",
+        "active,"
+      ]
+    ],
+    "text": "keep your Google Business Profile active,"
+  },
+  {
+    "start": 23.88,
+    "end": 25.24,
+    "words": [
+      {
+        "word": "and",
+        "start": 23.88,
+        "end": 23.96
+      },
+      {
+        "word": "ask",
+        "start": 23.96,
+        "end": 24.18
+      },
+      {
+        "word": "your",
+        "start": 24.18,
+        "end": 24.38
+      },
+      {
+        "word": "customers",
+        "start": 24.38,
+        "end": 24.68
+      },
+      {
+        "word": "for",
+        "start": 24.68,
+        "end": 24.98
+      },
+      {
+        "word": "reviews",
+        "start": 24.98,
+        "end": 25.24
+      }
+    ],
+    "lines": [
+      [
+        "and",
+        "ask",
+        "your"
+      ],
+      [
+        "customers",
+        "for",
+        "reviews"
+      ]
+    ],
+    "text": "and ask your customers for reviews"
+  },
+  {
+    "start": 25.24,
+    "end": 26.439999999999998,
+    "words": [
+      {
+        "word": "after",
+        "start": 25.24,
+        "end": 25.64
+      },
+      {
+        "word": "every",
+        "start": 25.64,
+        "end": 25.94
+      },
+      {
+        "word": "job.",
+        "start": 25.94,
+        "end": 26.24
+      }
+    ],
+    "lines": [
+      [
+        "after",
+        "every",
+        "job."
+      ]
+    ],
+    "text": "after every job."
+  },
+  {
+    "start": 26.72,
+    "end": 28.28,
+    "words": [
+      {
+        "word": "So",
+        "start": 26.72,
+        "end": 26.9
+      },
+      {
+        "word": "when",
+        "start": 26.9,
+        "end": 27.04
+      },
+      {
+        "word": "someone",
+        "start": 27.04,
+        "end": 27.26
+      },
+      {
+        "word": "nearby",
+        "start": 27.26,
+        "end": 27.5
+      },
+      {
+        "word": "needs",
+        "start": 27.5,
+        "end": 27.92
+      },
+      {
+        "word": "septic",
+        "start": 27.92,
+        "end": 28.28
+      }
+    ],
+    "lines": [
+      [
+        "So",
+        "when",
+        "someone"
+      ],
+      [
+        "nearby",
+        "needs",
+        "septic"
+      ]
+    ],
+    "text": "So when someone nearby needs septic"
+  },
+  {
+    "start": 28.28,
+    "end": 29.54,
+    "words": [
+      {
+        "word": "work,",
+        "start": 28.28,
+        "end": 28.54
+      },
+      {
+        "word": "you",
+        "start": 28.76,
+        "end": 28.92
+      },
+      {
+        "word": "have",
+        "start": 28.92,
+        "end": 29.02
+      },
+      {
+        "word": "a",
+        "start": 29.02,
+        "end": 29.1
+      },
+      {
+        "word": "better",
+        "start": 29.1,
+        "end": 29.32
+      },
+      {
+        "word": "chance",
+        "start": 29.32,
+        "end": 29.54
+      }
+    ],
+    "lines": [
+      [
+        "work,",
+        "you",
+        "have"
+      ],
+      [
+        "a",
+        "better",
+        "chance"
+      ]
+    ],
+    "text": "work, you have a better chance"
+  },
+  {
+    "start": 29.54,
+    "end": 30.78,
+    "words": [
+      {
+        "word": "of",
+        "start": 29.54,
+        "end": 29.78
+      },
+      {
+        "word": "getting",
+        "start": 29.78,
+        "end": 29.9
+      },
+      {
+        "word": "the",
+        "start": 29.9,
+        "end": 30.1
+      },
+      {
+        "word": "call",
+        "start": 30.1,
+        "end": 30.34
+      },
+      {
+        "word": "instead",
+        "start": 30.34,
+        "end": 30.78
+      }
+    ],
+    "lines": [
+      [
+        "of",
+        "getting",
+        "the"
+      ],
+      [
+        "call",
+        "instead"
+      ]
+    ],
+    "text": "of getting the call instead"
+  },
+  {
+    "start": 30.78,
+    "end": 32.160000000000004,
+    "words": [
+      {
+        "word": "of",
+        "start": 30.78,
+        "end": 31.08
+      },
+      {
+        "word": "handing",
+        "start": 31.08,
+        "end": 31.28
+      },
+      {
+        "word": "it",
+        "start": 31.28,
+        "end": 31.5
+      },
+      {
+        "word": "to",
+        "start": 31.5,
+        "end": 31.62
+      },
+      {
+        "word": "a",
+        "start": 31.62,
+        "end": 31.7
+      },
+      {
+        "word": "competitor.",
+        "start": 31.7,
+        "end": 31.96
+      }
+    ],
+    "lines": [
+      [
+        "of",
+        "handing",
+        "it",
+        "to"
+      ],
+      [
+        "a",
+        "competitor."
+      ]
+    ],
+    "text": "of handing it to a competitor."
+  },
+  {
+    "start": 32.84,
+    "end": 33.52,
+    "words": [
+      {
+        "word": "No",
+        "start": 32.84,
+        "end": 32.9
+      },
+      {
+        "word": "ad",
+        "start": 32.9,
+        "end": 33.1
+      },
+      {
+        "word": "spend.",
+        "start": 33.1,
+        "end": 33.32
+      }
+    ],
+    "lines": [
+      [
+        "No",
+        "ad",
+        "spend."
+      ]
+    ],
+    "text": "No ad spend."
+  },
+  {
+    "start": 33.88,
+    "end": 34.64,
+    "words": [
+      {
+        "word": "No",
+        "start": 33.88,
+        "end": 33.98
+      },
+      {
+        "word": "hidden",
+        "start": 33.98,
+        "end": 34.18
+      },
+      {
+        "word": "fees.",
+        "start": 34.18,
+        "end": 34.44
+      }
+    ],
+    "lines": [
+      [
+        "No",
+        "hidden",
+        "fees."
+      ]
+    ],
+    "text": "No hidden fees."
+  },
+  {
+    "start": 34.92,
+    "end": 36.18,
+    "words": [
+      {
+        "word": "No",
+        "start": 34.92,
+        "end": 35.08
+      },
+      {
+        "word": "long-term",
+        "start": 35.08,
+        "end": 35.5
+      },
+      {
+        "word": "contract.",
+        "start": 35.5,
+        "end": 35.98
+      }
+    ],
+    "lines": [
+      [
+        "No",
+        "long-term",
+        "contract."
+      ]
+    ],
+    "text": "No long-term contract."
+  },
+  {
+    "start": 36.5,
+    "end": 37.58,
+    "words": [
+      {
+        "word": "Tap",
+        "start": 36.5,
+        "end": 36.6
+      },
+      {
+        "word": "below",
+        "start": 36.6,
+        "end": 36.86
+      },
+      {
+        "word": "to",
+        "start": 36.86,
+        "end": 37.04
+      },
+      {
+        "word": "find",
+        "start": 37.04,
+        "end": 37.24
+      },
+      {
+        "word": "out",
+        "start": 37.24,
+        "end": 37.4
+      },
+      {
+        "word": "what",
+        "start": 37.4,
+        "end": 37.58
+      }
+    ],
+    "lines": [
+      [
+        "Tap",
+        "below",
+        "to"
+      ],
+      [
+        "find",
+        "out",
+        "what"
+      ]
+    ],
+    "text": "Tap below to find out what"
+  },
+  {
+    "start": 37.58,
+    "end": 38.74,
+    "words": [
+      {
+        "word": "Brix",
+        "start": 37.58,
+        "end": 37.76
+      },
+      {
+        "word": "can",
+        "start": 37.76,
+        "end": 38.02
+      },
+      {
+        "word": "do",
+        "start": 38.02,
+        "end": 38.16
+      },
+      {
+        "word": "for",
+        "start": 38.16,
+        "end": 38.32
+      },
+      {
+        "word": "your",
+        "start": 38.32,
+        "end": 38.46
+      },
+      {
+        "word": "septic",
+        "start": 38.46,
+        "end": 38.74
+      }
+    ],
+    "lines": [
+      [
+        "Brix",
+        "can",
+        "do",
+        "for"
+      ],
+      [
+        "your",
+        "septic"
+      ]
+    ],
+    "text": "Brix can do for your septic"
+  },
+  {
+    "start": 38.74,
+    "end": 39.24,
+    "words": [
+      {
+        "word": "business.",
+        "start": 38.74,
+        "end": 39.04
+      }
+    ],
+    "lines": [
+      [
+        "business."
+      ]
+    ],
+    "text": "business."
+  }
+]

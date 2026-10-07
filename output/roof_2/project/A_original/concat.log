@@ -1,0 +1,28 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x2e1ae140] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/roof_2/project/A_original/shots.ffconcat':
+  Duration: N/A, start: 0.000000, bitrate: 11896 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 11896 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Output #0, mp4, to '/home/adani/.cache/brix-video/pictures/c098f942713bc16feacd02d2.partial.mp4':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 11896 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cc1d8018100] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cc1d801ebc0] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cc1d8023b00] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cc1d802b280] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cc1d8024900] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cc1d8007080] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cc1d8007500] Auto-inserting h264_mp4toannexb bitstream filter
+[out#0/mp4 @ 0x2e297c80] video:27991KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.045310%
+size=   28004KiB time=00:00:32.56 bitrate=7044.2kbits/s speed=95.9x    

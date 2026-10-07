@@ -1,0 +1,21 @@
+{
+  "@id": "Wind Leaves",
+  "@type": "MusicRecording",
+  "name": "Wind Leaves",
+  "genre": "Country",
+  "byArtist": "Eugenio Mininni",
+  "duration": "PT3M25S",
+  "url": "https://assets.mixkit.co/music/617/617.mp3",
+  "waveformUrl": "https://assets.mixkit.co/music/617/617-waveform.json",
+  "copyrightNotice": "Mixkit Stock Music Free License",
+  "encodingFormat": "audio/mpeg",
+  "isAccessibleForFree": true,
+  "license": "https://mixkit.co/license/#musicFree",
+  "publisher": {
+    "@id": "https://mixkit.co/#organization"
+  },
+  "datePublished": "2020-01-28",
+  "source_page": "https://mixkit.co/free-stock-music/tag/corporate/",
+  "retrieved_on": "2026-09-26",
+  "sha256": "923ef4735f2fc3a59ed38697ac7d6b56e7c618f966c2a309594275f50aa70f82"
+}

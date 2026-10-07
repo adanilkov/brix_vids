@@ -1,0 +1,318 @@
+{
+  "duration": 39.56666666666667,
+  "fps": 30,
+  "shots": [
+    {
+      "id": "352469674",
+      "file": "stock_footage/septic/sewage-truck-pumping-sewer-from-house-4k-SBV-352469674-HD.mp4",
+      "source_in": 1.5,
+      "crop_center": [
+        0.47,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "352469674",
+      "start": 0.0,
+      "end": 3.0,
+      "start_frame": 0,
+      "end_frame": 90,
+      "frames": 90,
+      "source_info": {
+        "duration": 14.24,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 356,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "349172061",
+      "file": "stock_footage/septic/septic-tank-sewage-waste-management-pumping-and-cleaning-at-residence-house-service-SBV-349172061-HD.mp4",
+      "source_in": 0.3,
+      "crop_center": [
+        0.58,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "349172061",
+      "start": 3.0,
+      "end": 6.866666666666666,
+      "start_frame": 90,
+      "end_frame": 206,
+      "frames": 116,
+      "source_info": {
+        "duration": 5.605606,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 168,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "352469674",
+      "file": "stock_footage/septic/sewage-truck-pumping-sewer-from-house-4k-SBV-352469674-HD.mp4",
+      "source_in": 4.5,
+      "crop_center": [
+        0.47,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "352469674",
+      "start": 6.866666666666666,
+      "end": 9.666666666666666,
+      "start_frame": 206,
+      "end_frame": 290,
+      "frames": 84,
+      "source_info": {
+        "duration": 14.24,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 356,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "347093552",
+      "file": "stock_footage/septic/an-excavator-digs-a-trench-close-up-shot-SBV-347093552-HD.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.6,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "347093552",
+      "start": 9.666666666666666,
+      "end": 14.266666666666667,
+      "start_frame": 290,
+      "end_frame": 428,
+      "frames": 138,
+      "source_info": {
+        "duration": 23.089756,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 692,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "septic_stock_7",
+      "file": "stock_footage/septic/videoblocks-106z_pllen_37_scmb8g475_1080__D.mp4",
+      "source_in": 1.0,
+      "crop_center": [
+        0.4,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "septic_stock_7",
+      "start": 14.266666666666667,
+      "end": 17.666666666666668,
+      "start_frame": 428,
+      "end_frame": 530,
+      "frames": 102,
+      "source_info": {
+        "duration": 11.84,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 296,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "348969062",
+      "file": "stock_footage/septic/slow-motion-of-pipe-tube-inside-view-of-water-cleaning-process-of-domestic-and-indu-SBV-348969062-HD.mp4",
+      "source_in": 1.5,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "348969062",
+      "start": 17.666666666666668,
+      "end": 21.266666666666666,
+      "start_frame": 530,
+      "end_frame": 638,
+      "frames": 108,
+      "source_info": {
+        "duration": 13.546,
+        "has_audio": true,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "frames": 325,
+        "rotation": 0,
+        "codec": "h264",
+        "sample_rate": 48000,
+        "channels": 2
+      }
+    },
+    {
+      "id": "septic_stock_8",
+      "file": "stock_footage/septic/videoblocks-63d5d9464735983a1f15bea5_bens5e_2j_1080__D.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.51,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "septic_stock_8",
+      "start": 21.266666666666666,
+      "end": 25.066666666666666,
+      "start_frame": 638,
+      "end_frame": 752,
+      "frames": 114,
+      "source_info": {
+        "duration": 18.485152,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 554,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "348969062",
+      "file": "stock_footage/septic/slow-motion-of-pipe-tube-inside-view-of-water-cleaning-process-of-domestic-and-indu-SBV-348969062-HD.mp4",
+      "source_in": 4.5,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "348969062",
+      "start": 25.066666666666666,
+      "end": 28.733333333333334,
+      "start_frame": 752,
+      "end_frame": 862,
+      "frames": 110,
+      "source_info": {
+        "duration": 13.546,
+        "has_audio": true,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "frames": 325,
+        "rotation": 0,
+        "codec": "h264",
+        "sample_rate": 48000,
+        "channels": 2
+      }
+    },
+    {
+      "id": "352469674",
+      "file": "stock_footage/septic/sewage-truck-pumping-sewer-from-house-4k-SBV-352469674-HD.mp4",
+      "source_in": 7.5,
+      "crop_center": [
+        0.47,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "352469674",
+      "start": 28.733333333333334,
+      "end": 32.53333333333333,
+      "start_frame": 862,
+      "end_frame": 976,
+      "frames": 114,
+      "source_info": {
+        "duration": 14.24,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 356,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "349172061",
+      "file": "stock_footage/septic/septic-tank-sewage-waste-management-pumping-and-cleaning-at-residence-house-service-SBV-349172061-HD.mp4",
+      "source_in": 3.21,
+      "crop_center": [
+        0.58,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "349172061",
+      "start": 32.53333333333333,
+      "end": 34.733333333333334,
+      "start_frame": 976,
+      "end_frame": 1042,
+      "frames": 66,
+      "source_info": {
+        "duration": 5.605606,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 168,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "352469674",
+      "file": "stock_footage/septic/sewage-truck-pumping-sewer-from-house-4k-SBV-352469674-HD.mp4",
+      "source_in": 4.0,
+      "crop_center": [
+        0.47,
+        0.5
+      ],
+      "speed": 0.9,
+      "framing": "wide",
+      "clip": "352469674",
+      "start": 34.733333333333334,
+      "end": 39.56666666666667,
+      "start_frame": 1042,
+      "end_frame": 1187,
+      "frames": 145,
+      "source_info": {
+        "duration": 14.24,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 356,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "job": {
+    "id": "BRIX_Roofing_01_LocalCalls_4x5_A_Original",
+    "niche": "roofers",
+    "brand": "video_pipeline/brands/brix/brand.json",
+    "audio": "voiceover/roofing/roof_1_audio.mp3",
+    "transcript": "transcripts/roofing/roof_1.txt",
+    "catalog": "video_pipeline/catalogs/roofing.json",
+    "output": "output/roof_1/output/BRIX_Roofing_01_LocalCalls_4x5_A_Original.mp4",
+    "end_hold": 1.03,
+    "alignment": {
+      "words": "video_pipeline/alignments/roof_1.words.json"
+    },
+    "music": {
+      "mode": "synth",
+      "level_db": -37,
+      "gain": 0.8,
+      "profile": "original"
+    },
+    "captions": {
+      "substitutions": [
+        {
+          "spoken": "two hundred ninety-seven dollars",
+          "display": "$297"
+        }
+      ]
+    },
+    "shots": [
+      {
+        "clip": "347281438",
+        "start": "start",
+        "end": {
+          "phrase": "The companies",
+          "offset": -0.07
+        },
+        "source_in": 3.0,
+        "speed": 0.9,
+        "crop_center": [
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "clip": "347283034",
+        "start": {
+          "phrase": "The companies",
+          "offset": -0.07
+        },
+        "end": {
+          "phrase": "Brix helps",
+          "offset": -0.1
+        },
+        "source_in": 1.0,
+        "speed": 1.0,
+        "crop_center": [
+          0.45,
+          0.5
+        ]
+      },
+      {
+        "clip": "351715937",
+        "start": {
+          "phrase": "Brix helps",
+          "offset": -0.1
+        },
+        "end": {
+          "phrase": "For just",
+          "offset": -0.04
+        },
+        "source_in": 10.0,
+        "speed": 1.0,
+        "crop_center": [
+          0.55,
+          0.5
+        ]
+      },
+      {
+        "clip": "351715913",
+        "start": {
+          "phrase": "For just",
+          "offset": -0.04
+        },
+        "end": {
+          "phrase": "help you",
+          "offset": -0.12
+        },
+        "source_in": 5.0,
+        "speed": 1.0,
+        "crop_center": [
+          0.52,
+          0.5
+        ]
+      },
+      {
+        "clip": "351715804",
+        "start": {
+          "phrase": "help you",
+          "offset": -0.12
+        },
+        "end": {
+          "phrase": "keep your",
+          "offset": -0.1
+        },
+        "source_in": 5.0,
+        "speed": 1.0,
+        "crop_center": [
+          0.46,
+          0.5
+        ]
+      },
+      {
+        "clip": "351715723",
+        "start": {
+          "phrase": "keep your",
+          "offset": -0.1
+        },
+        "end": {
+          "phrase": "and ask",
+          "offset": -0.02
+        },
+        "source_in": 6.0,
+        "speed": 1.0,
+        "crop_center": [
+          0.69,
+          0.5
+        ]
+      },
+      {
+        "clip": "300147144",
+        "start": {
+          "phrase": "and ask",
+          "offset": -0.02
+        },
+        "end": {
+          "phrase": "So that when",
+          "offset": 0
+        },
+        "source_in": 1.5,
+        "speed": 1.0,
+        "crop_center": [
+          0.36,
+          0.5
+        ]
+      },
+      {
+        "clip": "351702168",
+        "start": {
+          "phrase": "So that when",
+          "offset": 0
+        },
+        "end": {
+          "phrase": "your business",
+          "offset": -0.02
+        },
+        "source_in": 19.0,
+        "speed": 0.9,
+        "crop_center": [
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "clip": "347283034",
+        "start": {
+          "phrase": "your business",
+          "offset": -0.02
+        },
+        "end": {
+          "phrase": "No paid ads",
+          "offset": 0
+        },
+        "source_in": 6.8,
+        "speed": 1.0,
+        "crop_center": [
+          0.48,
+          0.5
+        ]
+      },
+      {
+        "clip": "351693146",
+        "start": {
+          "phrase": "No paid ads",
+          "offset": 0
+        },
+        "end": {
+          "phrase": "Tap below",
+          "offset": 0
+        },
+        "source_in": 4.0,
+        "speed": 0.85,
+        "crop_center": [
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "clip": "351702168",
+        "start": {
+          "phrase": "Tap below",
+          "offset": 0
+        },
+        "end": "end",
+        "source_in": 22.0,
+        "speed": 0.85,
+        "crop_center": [
+          0.51,
+          0.5
+        ]
+      }
+    ],
+    "creative": {
+      "offer": {
+        "start": {
+          "phrase": "we build",
+          "offset": -0.02
+        },
+        "end": {
+          "phrase": "So that when",
+          "offset": -0.06
+        },
+        "eyebrow": "WEBSITE + LOCAL VISIBILITY",
+        "price": "$297",
+        "period": "/ month",
+        "benefits": [
+          {
+            "start": {
+              "phrase": "we build",
+              "offset": -0.02
+            },
+            "text": "Website built + hosted"
+          },
+          {
+            "start": {
+              "phrase": "help you",
+              "offset": -0.1
+            },
+            "text": "Help getting found on Google"
+          },
+          {
+            "start": {
+              "phrase": "keep your",
+              "offset": -0.1
+            },
+            "text": "Active Google Business Profile"
+          },
+          {
+            "start": {
+              "phrase": "and ask",
+              "offset": -0.02
+            },
+            "text": "Review requests after each job"
+          }
+        ]
+      },
+      "reassurance": {
+        "end": {
+          "phrase": "Tap below",
+          "offset": -0.08
+        },
+        "items": [
+          {
+            "start": {
+              "phrase": "No paid ads",
+              "offset": 0
+            },
+            "text": "No paid ads."
+          },
+          {
+            "start": {
+              "phrase": "no hidden fees",
+              "offset": 0
+            },
+            "text": "No hidden fees."
+          },
+          {
+            "start": {
+              "phrase": "no long-term contract",
+              "offset": 0
+            },
+            "text": "No long-term contract."
+          }
+        ]
+      },
+      "cta": {
+        "start": {
+          "phrase": "Tap below",
+          "offset": 0
+        },
+        "lines": [
+          "Get found.",
+          "Get more calls."
+        ],
+        "prompt": "Tap to learn more"
+      }
+    },
+    "artifact_version": "A_original"
+  },
+  "brand": {
+    "name": "Brix Strategies",
+    "source_url": "https://brixstrategies.com/",
+    "source_checked": "2026-09-25",
+    "logo": "misc_assets/image.png",
+    "website_label": "brixstrategies.com",
+    "colors": {
+      "ink": "#061c2b",
+      "ink_soft": "#173546",
+      "accent": "#e85816",
+      "sage": "#78998f",
+      "paper": "#f7f4ed",
+      "cream": "#eee9de",
+      "white": "#fffefa",
+      "muted": "#60717a",
+      "line": "#d7d8d4"
+    },
+    "fonts": {
+      "heading": "fonts/Manrope-SemiBold.ttf",
+      "caption": "fonts/Manrope-ExtraBold.ttf",
+      "body": "fonts/DMSans-Medium.ttf",
+      "label": "fonts/DMSans-Bold.ttf"
+    },
+    "layout": {
+      "offer_card": {
+        "style": "glass",
+        "x": 72,
+        "y": 290,
+        "width": 936,
+        "radius": 30,
+        "border_width": 3,
+        "blur_sigma": 24,
+        "tint_color": "ink",
+        "tint_opacity": 0.55,
+        "row_top": 266,
+        "row_gap": 76,
+        "row_font_size": 40,
+        "row_height": 54,
+        "bottom_padding": 30,
+        "fade_ms": 150,
+        "eyebrow_y": 24,
+        "eyebrow_size": 24,
+        "price_y": 62,
+        "price_size": 100,
+        "period_y": 126,
+        "period_size": 32,
+        "divider_y": 198,
+        "included_y": 222
+      },
+      "header": {
+        "logo_mode": "image",
+        "background": "#000000",
+        "height": 252,
+        "headline": {
+          "lines": [
+            "{niche}:",
+            "RANK #1 ON GOOGLE LOCALY"
+          ],
+          "top": 100,
+          "content_height": 138,
+          "font_size": 64,
+          "min_font_size": 40,
+          "font_role": "caption",
+          "text_color": "white",
+          "highlight_text": "#1",
+          "highlight_color": "accent",
+          "max_width": 936,
+          "line_gap": 10
+        },
+        "top": 22,
+        "mark_height": 70
+      },
+      "cta": {
+        "center_x": 540,
+        "headline_y": 560,
+        "line_gap": 100,
+        "font_size": 78,
+        "prompt_y": 790,
+        "prompt_size": 42,
+        "outline": 2.5,
+        "shadow": 2,
+        "chevron": {
+          "center_x": 540,
+          "top": 864,
+          "width": 96,
+          "height": 40,
+          "thickness": 12,
+          "travel": 16,
+          "period": 1.8,
+          "color": "accent"
+        }
+      },
+      "reassurance": {
+        "x": 72,
+        "y": 290,
+        "width": 936,
+        "height": 340,
+        "row_top": 34,
+        "row_gap": 92,
+        "font_size": 42
+      }
+    },
+    "captions": {
+      "size": 68,
+      "max_width": 840,
+      "center_x": 540,
+      "center_y": 1120,
+      "max_words": 6,
+      "max_seconds": 2.5,
+      "outline": 3.6
+    },
+    "video": {
+      "width": 1080,
+      "height": 1350,
+      "fps": 30,
+      "grade": {
+        "contrast": 1.025,
+        "saturation": 1.03,
+        "brightness": -0.008
+      }
+    },
+    "_directory": "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/video_pipeline/brands/brix"
+  },
+  "version": "2.0.0",
+  "duration": 36.9,
+  "width": 1080,
+  "height": 1350
+}

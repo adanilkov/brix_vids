@@ -1,0 +1,51 @@
+{
+  "id": "music_01",
+  "description": "Three alternative tracks for an initial music audition. No choice is applied to production jobs.",
+  "tracks": [
+    {
+      "id": "01_modern_pulse",
+      "label": "Modern pulse",
+      "title": "Close Up",
+      "artist": "Michael Ramir C.",
+      "description": "Steady, polished rhythm",
+      "music": {
+        "mode": "file",
+        "file": "music/tracks/01_modern_pulse/source.mp3",
+        "lufs": -30,
+        "start": 0
+      },
+      "source_url": "https://mixkit.co/free-stock-music/tag/corporate/",
+      "license_url": "https://mixkit.co/license/#musicFree"
+    },
+    {
+      "id": "02_relaxed_groove",
+      "label": "Relaxed groove",
+      "title": "Curiosity",
+      "artist": "Diego Nava",
+      "description": "Softer and more laid-back",
+      "music": {
+        "mode": "file",
+        "file": "music/tracks/02_relaxed_groove/source.mp3",
+        "lufs": -30,
+        "start": 0
+      },
+      "source_url": "https://mixkit.co/free-stock-music/tag/corporate/",
+      "license_url": "https://mixkit.co/license/#musicFree"
+    },
+    {
+      "id": "03_warm_acoustic",
+      "label": "Warm acoustic",
+      "title": "Wind Leaves",
+      "artist": "Eugenio Mininni",
+      "description": "Friendly guitar-led feel",
+      "music": {
+        "mode": "file",
+        "file": "music/tracks/03_warm_acoustic/source.mp3",
+        "lufs": -30,
+        "start": 0
+      },
+      "source_url": "https://mixkit.co/free-stock-music/tag/corporate/",
+      "license_url": "https://mixkit.co/license/#musicFree"
+    }
+  ]
+}

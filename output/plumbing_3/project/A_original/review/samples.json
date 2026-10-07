@@ -1,0 +1,50 @@
+[
+  {
+    "time": 1.833,
+    "file": "00.png"
+  },
+  {
+    "time": 2.42,
+    "file": "01.png"
+  },
+  {
+    "time": 5.24,
+    "file": "02.png"
+  },
+  {
+    "time": 5.467,
+    "file": "03.png"
+  },
+  {
+    "time": 9.217,
+    "file": "04.png"
+  },
+  {
+    "time": 12.633,
+    "file": "05.png"
+  },
+  {
+    "time": 15.9,
+    "file": "06.png"
+  },
+  {
+    "time": 18.42,
+    "file": "07.png"
+  },
+  {
+    "time": 19.667,
+    "file": "08.png"
+  },
+  {
+    "time": 23.633,
+    "file": "09.png"
+  },
+  {
+    "time": 26.44,
+    "file": "10.png"
+  },
+  {
+    "time": 28.183,
+    "file": "11.png"
+  }
+]

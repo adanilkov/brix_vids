@@ -1,0 +1,30 @@
+{
+  "script_adjustments_to_match_voiceover": [
+    [
+      "For $297",
+      "For just $297"
+    ]
+  ],
+  "removed_recognition_hallucinations": [],
+  "timing_repairs": [],
+  "format_equivalences": [
+    {
+      "kind": "equivalent_number_format",
+      "recognized": [
+        "two",
+        "hundred",
+        "ninety-seven",
+        "dollars"
+      ],
+      "script": [
+        "$297"
+      ],
+      "note": "The full number span is timed by speech recognition; internal written-word times are interpolated. Captions keep the numeric token together."
+    }
+  ],
+  "source_recording": "kept in full",
+  "original_transcript": "transcripts/septic/septic_1-5.txt",
+  "script_number": 5,
+  "prepared_transcript": "transcripts/septic/prepared/septic_5.txt",
+  "normalization": "Whitespace and punctuation normalized for word matching; prices displayed as $297; Brix brand spelling preserved."
+}

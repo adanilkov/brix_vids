@@ -1,0 +1,537 @@
+[
+  {
+    "word": "Every",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "time",
+    "start": 0.24,
+    "end": 0.48
+  },
+  {
+    "word": "a",
+    "start": 0.48,
+    "end": 0.58
+  },
+  {
+    "word": "homeowner",
+    "start": 0.58,
+    "end": 0.78
+  },
+  {
+    "word": "searches",
+    "start": 0.78,
+    "end": 1.16
+  },
+  {
+    "word": "for",
+    "start": 1.16,
+    "end": 1.54
+  },
+  {
+    "word": "septic",
+    "start": 1.54,
+    "end": 1.92
+  },
+  {
+    "word": "service",
+    "start": 1.92,
+    "end": 2.26
+  },
+  {
+    "word": "and",
+    "start": 2.26,
+    "end": 2.5
+  },
+  {
+    "word": "finds",
+    "start": 2.5,
+    "end": 2.72
+  },
+  {
+    "word": "your",
+    "start": 2.72,
+    "end": 2.92
+  },
+  {
+    "word": "competitor",
+    "start": 2.92,
+    "end": 3.32
+  },
+  {
+    "word": "first,",
+    "start": 3.32,
+    "end": 3.66
+  },
+  {
+    "word": "that’s",
+    "start": 4.08,
+    "end": 4.34
+  },
+  {
+    "word": "a",
+    "start": 4.34,
+    "end": 4.4
+  },
+  {
+    "word": "job",
+    "start": 4.4,
+    "end": 4.58
+  },
+  {
+    "word": "you",
+    "start": 4.58,
+    "end": 4.76
+  },
+  {
+    "word": "could",
+    "start": 4.76,
+    "end": 4.9
+  },
+  {
+    "word": "have",
+    "start": 4.9,
+    "end": 4.98
+  },
+  {
+    "word": "had.",
+    "start": 4.98,
+    "end": 5.2
+  },
+  {
+    "word": "BRIX",
+    "start": 5.72,
+    "end": 5.98
+  },
+  {
+    "word": "helps",
+    "start": 5.98,
+    "end": 6.22
+  },
+  {
+    "word": "stop",
+    "start": 6.22,
+    "end": 6.54
+  },
+  {
+    "word": "that",
+    "start": 6.54,
+    "end": 6.8
+  },
+  {
+    "word": "from",
+    "start": 6.8,
+    "end": 6.96
+  },
+  {
+    "word": "happening.",
+    "start": 6.96,
+    "end": 7.34
+  },
+  {
+    "word": "For",
+    "start": 7.8,
+    "end": 7.84
+  },
+  {
+    "word": "just",
+    "start": 7.84,
+    "end": 8.04
+  },
+  {
+    "word": "$297",
+    "start": 8.04,
+    "end": 9.4
+  },
+  {
+    "word": "a",
+    "start": 9.4,
+    "end": 9.54
+  },
+  {
+    "word": "month,",
+    "start": 9.54,
+    "end": 9.74
+  },
+  {
+    "word": "we",
+    "start": 9.74,
+    "end": 10.14
+  },
+  {
+    "word": "build",
+    "start": 10.14,
+    "end": 10.34
+  },
+  {
+    "word": "and",
+    "start": 10.34,
+    "end": 10.54
+  },
+  {
+    "word": "host",
+    "start": 10.54,
+    "end": 10.74
+  },
+  {
+    "word": "your",
+    "start": 10.74,
+    "end": 10.94
+  },
+  {
+    "word": "website,",
+    "start": 10.94,
+    "end": 11.2
+  },
+  {
+    "word": "help",
+    "start": 11.6,
+    "end": 11.8
+  },
+  {
+    "word": "your",
+    "start": 11.8,
+    "end": 11.98
+  },
+  {
+    "word": "business",
+    "start": 11.98,
+    "end": 12.28
+  },
+  {
+    "word": "get",
+    "start": 12.28,
+    "end": 12.52
+  },
+  {
+    "word": "found",
+    "start": 12.52,
+    "end": 12.8
+  },
+  {
+    "word": "on",
+    "start": 12.8,
+    "end": 12.96
+  },
+  {
+    "word": "Google,",
+    "start": 12.96,
+    "end": 13.16
+  },
+  {
+    "word": "keep",
+    "start": 13.66,
+    "end": 13.76
+  },
+  {
+    "word": "your",
+    "start": 13.76,
+    "end": 13.94
+  },
+  {
+    "word": "Google",
+    "start": 13.94,
+    "end": 14.14
+  },
+  {
+    "word": "Business",
+    "start": 14.14,
+    "end": 14.5
+  },
+  {
+    "word": "Profile",
+    "start": 14.5,
+    "end": 14.74
+  },
+  {
+    "word": "active,",
+    "start": 14.74,
+    "end": 15.34
+  },
+  {
+    "word": "and",
+    "start": 15.74,
+    "end": 15.82
+  },
+  {
+    "word": "ask",
+    "start": 15.82,
+    "end": 16.06
+  },
+  {
+    "word": "your",
+    "start": 16.06,
+    "end": 16.24
+  },
+  {
+    "word": "customers",
+    "start": 16.24,
+    "end": 16.58
+  },
+  {
+    "word": "for",
+    "start": 16.58,
+    "end": 16.86
+  },
+  {
+    "word": "reviews",
+    "start": 16.86,
+    "end": 17.2
+  },
+  {
+    "word": "after",
+    "start": 17.2,
+    "end": 17.58
+  },
+  {
+    "word": "every",
+    "start": 17.58,
+    "end": 17.92
+  },
+  {
+    "word": "job.",
+    "start": 17.92,
+    "end": 18.2
+  },
+  {
+    "word": "So",
+    "start": 18.8,
+    "end": 18.92
+  },
+  {
+    "word": "when",
+    "start": 18.92,
+    "end": 19.04
+  },
+  {
+    "word": "someone",
+    "start": 19.04,
+    "end": 19.24
+  },
+  {
+    "word": "nearby",
+    "start": 19.24,
+    "end": 19.54
+  },
+  {
+    "word": "needs",
+    "start": 19.54,
+    "end": 20.0
+  },
+  {
+    "word": "septic",
+    "start": 20.0,
+    "end": 20.34
+  },
+  {
+    "word": "pumping,",
+    "start": 20.34,
+    "end": 20.64
+  },
+  {
+    "word": "repairs,",
+    "start": 20.64,
+    "end": 21.02
+  },
+  {
+    "word": "or",
+    "start": 21.02,
+    "end": 21.46
+  },
+  {
+    "word": "service,",
+    "start": 21.46,
+    "end": 21.82
+  },
+  {
+    "word": "your",
+    "start": 22.3,
+    "end": 22.42
+  },
+  {
+    "word": "business",
+    "start": 22.42,
+    "end": 22.72
+  },
+  {
+    "word": "has",
+    "start": 22.72,
+    "end": 22.94
+  },
+  {
+    "word": "a",
+    "start": 22.94,
+    "end": 23.04
+  },
+  {
+    "word": "better",
+    "start": 23.04,
+    "end": 23.28
+  },
+  {
+    "word": "chance",
+    "start": 23.28,
+    "end": 23.5
+  },
+  {
+    "word": "of",
+    "start": 23.5,
+    "end": 23.74
+  },
+  {
+    "word": "showing",
+    "start": 23.74,
+    "end": 23.96
+  },
+  {
+    "word": "up,",
+    "start": 23.96,
+    "end": 24.24
+  },
+  {
+    "word": "looking",
+    "start": 24.42,
+    "end": 24.68
+  },
+  {
+    "word": "credible,",
+    "start": 24.68,
+    "end": 24.98
+  },
+  {
+    "word": "and",
+    "start": 25.46,
+    "end": 25.58
+  },
+  {
+    "word": "getting",
+    "start": 25.58,
+    "end": 25.8
+  },
+  {
+    "word": "the",
+    "start": 25.8,
+    "end": 26.0
+  },
+  {
+    "word": "call.",
+    "start": 26.0,
+    "end": 26.2
+  },
+  {
+    "word": "No",
+    "start": 27.12,
+    "end": 27.2
+  },
+  {
+    "word": "paid",
+    "start": 27.2,
+    "end": 27.42
+  },
+  {
+    "word": "ads.",
+    "start": 27.42,
+    "end": 27.62
+  },
+  {
+    "word": "No",
+    "start": 28.0,
+    "end": 28.2
+  },
+  {
+    "word": "hidden",
+    "start": 28.2,
+    "end": 28.4
+  },
+  {
+    "word": "fees.",
+    "start": 28.4,
+    "end": 28.72
+  },
+  {
+    "word": "No",
+    "start": 29.06,
+    "end": 29.28
+  },
+  {
+    "word": "long-term",
+    "start": 29.28,
+    "end": 29.76
+  },
+  {
+    "word": "contract.",
+    "start": 29.76,
+    "end": 30.24
+  },
+  {
+    "word": "Tap",
+    "start": 30.62,
+    "end": 30.7
+  },
+  {
+    "word": "below",
+    "start": 30.7,
+    "end": 30.98
+  },
+  {
+    "word": "and",
+    "start": 30.98,
+    "end": 31.48
+  },
+  {
+    "word": "we’ll",
+    "start": 31.48,
+    "end": 31.62
+  },
+  {
+    "word": "show",
+    "start": 31.62,
+    "end": 31.82
+  },
+  {
+    "word": "you",
+    "start": 31.82,
+    "end": 31.96
+  },
+  {
+    "word": "what",
+    "start": 31.96,
+    "end": 32.08
+  },
+  {
+    "word": "your",
+    "start": 32.08,
+    "end": 32.24
+  },
+  {
+    "word": "new",
+    "start": 32.24,
+    "end": 32.4
+  },
+  {
+    "word": "website",
+    "start": 32.4,
+    "end": 32.74
+  },
+  {
+    "word": "could",
+    "start": 32.74,
+    "end": 33.08
+  },
+  {
+    "word": "look",
+    "start": 33.08,
+    "end": 33.3
+  },
+  {
+    "word": "like,",
+    "start": 33.3,
+    "end": 33.56
+  },
+  {
+    "word": "free.",
+    "start": 33.72,
+    "end": 33.94
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "exported_frame_checks": [
+    {
+      "ad": "plumbing_1",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "plumbing_1",
+      "phase": "services",
+      "time": 13.34
+    },
+    {
+      "ad": "plumbing_1",
+      "phase": "cta",
+      "time": 19.61
+    },
+    {
+      "ad": "plumbing_2",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "plumbing_2",
+      "phase": "services",
+      "time": 9.58
+    },
+    {
+      "ad": "plumbing_2",
+      "phase": "cta",
+      "time": 16.8
+    },
+    {
+      "ad": "plumbing_3",
+      "phase": "opening",
+      "time": 0.91
+    },
+    {
+      "ad": "plumbing_3",
+      "phase": "services",
+      "time": 18.42
+    },
+    {
+      "ad": "plumbing_3",
+      "phase": "cta",
+      "time": 26.44
+    },
+    {
+      "ad": "plumbing_4",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "plumbing_4",
+      "phase": "services",
+      "time": 13.1
+    },
+    {
+      "ad": "plumbing_4",
+      "phase": "cta",
+      "time": 19.66
+    },
+    {
+      "ad": "roof_1",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "roof_1",
+      "phase": "services",
+      "time": 20.180000000000003
+    },
+    {
+      "ad": "roof_1",
+      "phase": "cta",
+      "time": 31.84
+    },
+    {
+      "ad": "roof_2",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "roof_2",
+      "phase": "services",
+      "time": 13.799999999999999
+    },
+    {
+      "ad": "roof_2",
+      "phase": "cta",
+      "time": 27.1
+    },
+    {
+      "ad": "roof_3",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "roof_3",
+      "phase": "services",
+      "time": 18.94
+    },
+    {
+      "ad": "roof_3",
+      "phase": "cta",
+      "time": 31.060000000000002
+    },
+    {
+      "ad": "septic_1",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "septic_1",
+      "phase": "services",
+      "time": 21.92
+    },
+    {
+      "ad": "septic_1",
+      "phase": "cta",
+      "time": 33.919999999999995
+    },
+    {
+      "ad": "septic_2",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "septic_2",
+      "phase": "services",
+      "time": 18.540000000000003
+    },
+    {
+      "ad": "septic_2",
+      "phase": "cta",
+      "time": 28.38
+    },
+    {
+      "ad": "septic_3",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "septic_3",
+      "phase": "services",
+      "time": 20.900000000000002
+    },
+    {
+      "ad": "septic_3",
+      "phase": "cta",
+      "time": 35.54
+    },
+    {
+      "ad": "septic_4",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "septic_4",
+      "phase": "services",
+      "time": 24.560000000000002
+    },
+    {
+      "ad": "septic_4",
+      "phase": "cta",
+      "time": 37.3
+    },
+    {
+      "ad": "septic_5",
+      "phase": "opening",
+      "time": 1.0
+    },
+    {
+      "ad": "septic_5",
+      "phase": "services",
+      "time": 16.42
+    },
+    {
+      "ad": "septic_5",
+      "phase": "cta",
+      "time": 31.42
+    }
+  ],
+  "status": "reviewed"
+}

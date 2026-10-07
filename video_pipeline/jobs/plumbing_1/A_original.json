@@ -1,0 +1,172 @@
+{
+  "id": "BRIX_Plumbing_01_LocalCalls_4x5_A_Original",
+  "niche": "plumbers",
+  "brand": "video_pipeline/brands/brix/brand.json",
+  "audio": "voiceover/plumbing/Plumbing Script 1 Audio.wav",
+  "transcript": "transcripts/plumbing/prepared/plumbing_1.txt",
+  "catalog": "video_pipeline/catalogs/plumbing.json",
+  "output": "output/plumbing_1/output/BRIX_Plumbing_01_LocalCalls_4x5_A_Original.mp4",
+  "end_hold": 1.03,
+  "alignment": {
+    "words": "video_pipeline/alignments/plumbing_1.words.json"
+  },
+  "shot_selection": {
+    "seconds_per_shot": 3.6,
+    "seed": "plumbing_1"
+  },
+  "music": {
+    "mode": "synth",
+    "level_db": -37,
+    "gain": 0.8,
+    "profile": "original"
+  },
+  "creative": {
+    "cta": {
+      "start": {
+        "phrase": "Tap below"
+      },
+      "lines": [
+        "Get found.",
+        "Get more calls."
+      ],
+      "prompt": "Tap to learn more"
+    },
+    "offer": {
+      "start": {
+        "phrase": "Brix will build"
+      },
+      "end": {
+        "phrase": "No Ad spend"
+      },
+      "eyebrow": "LOCAL VISIBILITY. MORE CALLS.",
+      "price": "$297",
+      "period": "/ month",
+      "benefits": [
+        {
+          "start": {
+            "phrase": "Brix will build"
+          },
+          "text": "A professional new website"
+        },
+        {
+          "start": {
+            "phrase": "get you to the top"
+          },
+          "text": "Get found on Google"
+        },
+        {
+          "start": {
+            "phrase": "get you more"
+          },
+          "text": "More five-star reviews"
+        }
+      ]
+    },
+    "reassurance": {
+      "end": {
+        "phrase": "Tap below",
+        "offset": -0.08
+      },
+      "items": [
+        {
+          "start": {
+            "phrase": "No Ad spend"
+          },
+          "text": "No Ad spend."
+        },
+        {
+          "start": {
+            "phrase": "no contract"
+          },
+          "text": "No contract."
+        },
+        {
+          "start": {
+            "phrase": "no lead fees"
+          },
+          "text": "No lead fees."
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "clip": "352740177",
+      "start": 0.0,
+      "end": 2.6666666666666665,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.62,
+        0.5
+      ]
+    },
+    {
+      "clip": "337778091",
+      "start": 2.6666666666666665,
+      "end": 5.666666666666667,
+      "source_in": 0.4,
+      "speed": 1.0,
+      "crop_center": [
+        0.53,
+        0.5
+      ]
+    },
+    {
+      "clip": "355305960",
+      "start": 5.666666666666667,
+      "end": 8.666666666666666,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.37,
+        0.5
+      ]
+    },
+    {
+      "clip": "352808752",
+      "start": 8.666666666666666,
+      "end": 12.2,
+      "source_in": 1.5,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "346554256",
+      "start": 12.2,
+      "end": 15.566666666666666,
+      "source_in": 3.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.48,
+        0.5
+      ]
+    },
+    {
+      "clip": "337778096",
+      "start": 15.566666666666666,
+      "end": 18.8,
+      "source_in": 0.6,
+      "speed": 1.0,
+      "crop_center": [
+        0.43,
+        0.5
+      ]
+    },
+    {
+      "clip": "355306047",
+      "start": 18.8,
+      "end": "end",
+      "source_in": 3.0,
+      "speed": 0.9,
+      "crop_center": [
+        0.54,
+        0.5
+      ]
+    }
+  ],
+  "artifact_version": "A_original"
+}

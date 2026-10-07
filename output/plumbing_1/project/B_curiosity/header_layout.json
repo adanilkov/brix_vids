@@ -1,0 +1,47 @@
+{
+  "background": "#000000",
+  "bar_bounds": [
+    0,
+    0,
+    1080,
+    252
+  ],
+  "headline": {
+    "text": "PLUMBERS: RANK #1 ON GOOGLE LOCALY",
+    "lines": [
+      "PLUMBERS:",
+      "RANK #1 ON GOOGLE LOCALY"
+    ],
+    "font_size": 64,
+    "line_bounds": [
+      [
+        357,
+        115,
+        722,
+        164
+      ],
+      [
+        82,
+        174,
+        997,
+        223
+      ]
+    ],
+    "line_centers_x": [
+      539.5,
+      539.5
+    ],
+    "highlight_text": "#1",
+    "highlight_color": "#e85816"
+  },
+  "text": null,
+  "logo": "misc_assets/image.png",
+  "logo_mode": "image",
+  "visible_bounds": [
+    426,
+    22,
+    654,
+    92
+  ],
+  "center_x": 540.0
+}

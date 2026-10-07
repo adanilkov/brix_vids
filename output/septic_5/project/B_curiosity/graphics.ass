@@ -1,0 +1,187 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1350
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Manrope ExtraBold,92.888,&Hfafeff&,&H1658e8&,&H2b1c06&,&H802B1C06,0,0,0,0,100,100,0,0,1,3.6,1.2,5,120,120,380,1
+Style: Graphic,Manrope ExtraBold,70,&H2b1c06&,&H1658e8&,&H2b1c06&,&H002B1C06,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(0,0)\p1\bord3\shad0\1a&HFF&\3a&H00&\3c&Hfafeff&\fad(150,150)}m 102 290 l 978 290 b 1008 290 1008 290 1008 320 l 1008 838 b 1008 868 1008 868 978 868 l 102 868 b 72 868 72 868 72 838 l 72 320 b 72 290 72 290 102 290
+Dialogue: 3,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(112,314)\fnDM Sans 14pt Bold\fs31.728\c&Hfafeff&\bord0\shad0\fad(150,150)}LOCAL VISIBILITY. MORE CALLS.
+Dialogue: 3,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(112,352)\fnManrope SemiBold\fs136.600\c&Hfafeff&\bord0\shad0\fad(150,150)}$297
+Dialogue: 3,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(492,416)\fnDM Sans 14pt Medium\fs42.304\c&Hfafeff&\bord0\shad0\fad(150,150)}/ month
+Dialogue: 2,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(0,0)\p1\bord0\shad0\c&Hfafeff&\alpha&HB9&\fad(150,150)}m 112 488 l 968 488 b 968 488 968 488 968 488 l 968 489 b 968 489 968 489 968 489 l 112 489 b 112 489 112 489 112 489 l 112 488 b 112 488 112 488 112 488
+Dialogue: 3,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(112,512)\fnDM Sans 14pt Bold\fs29.084\c&Hfafeff&\bord0\shad0\fad(150,150)}INCLUDED
+Dialogue: 3,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(112,556)\fnDM Sans 14pt Bold\fs47.592\c&Hfafeff&\bord0\shad0\fad(150,150)}01
+Dialogue: 3,00:00:09.74,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(184,554)\fnDM Sans 14pt Bold\fs52.880\c&Hfafeff&\bord0.7\shad0\fad(150,150)}Website built + hosted
+Dialogue: 3,00:00:11.60,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(112,632)\fnDM Sans 14pt Bold\fs47.592\c&Hfafeff&\bord0\shad0\fad(150,150)}02
+Dialogue: 3,00:00:11.60,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(184,630)\fnDM Sans 14pt Bold\fs52.880\c&Hfafeff&\bord0.7\shad0\fad(150,150)}Help getting found on Google
+Dialogue: 3,00:00:13.66,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(112,708)\fnDM Sans 14pt Bold\fs47.592\c&Hfafeff&\bord0\shad0\fad(150,150)}03
+Dialogue: 3,00:00:13.66,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(184,706)\fnDM Sans 14pt Bold\fs52.880\c&Hfafeff&\bord0.7\shad0\fad(150,150)}Active Google Business Profile
+Dialogue: 3,00:00:15.82,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(112,784)\fnDM Sans 14pt Bold\fs47.592\c&Hfafeff&\bord0\shad0\fad(150,150)}04
+Dialogue: 3,00:00:15.82,00:00:18.80,Graphic,,0,0,0,,{\an7\pos(184,782)\fnDM Sans 14pt Bold\fs52.880\c&Hfafeff&\bord0.7\shad0\fad(150,150)}Review requests after every job
+Dialogue: 1,00:00:27.12,00:00:30.54,Graphic,,0,0,0,,{\an7\pos(0,0)\p1\bord0\shad0\c&Hedf4f7&\alpha&H00&\fad(120,120)}m 96 290 l 984 290 b 1008 290 1008 290 1008 314 l 1008 606 b 1008 630 1008 630 984 630 l 96 630 b 72 630 72 630 72 606 l 72 314 b 72 290 72 290 96 290
+Dialogue: 3,00:00:27.12,00:00:30.54,Graphic,,0,0,0,,{\an7\pos(104,324)\fnManrope SemiBold\fs60.104\c&H8f9978&\bord0\shad0\fad(120,120)}+
+Dialogue: 3,00:00:27.12,00:00:30.54,Graphic,,0,0,0,,{\an7\pos(163,324)\fnDM Sans 14pt Bold\fs55.524\c&H2b1c06&\bord0\shad0\fad(120,120)}No paid ads.
+Dialogue: 3,00:00:28.00,00:00:30.54,Graphic,,0,0,0,,{\an7\pos(104,416)\fnManrope SemiBold\fs60.104\c&H8f9978&\bord0\shad0\fad(120,120)}+
+Dialogue: 3,00:00:28.00,00:00:30.54,Graphic,,0,0,0,,{\an7\pos(163,416)\fnDM Sans 14pt Bold\fs55.524\c&H2b1c06&\bord0\shad0\fad(120,120)}No hidden fees.
+Dialogue: 3,00:00:29.06,00:00:30.54,Graphic,,0,0,0,,{\an7\pos(104,508)\fnManrope SemiBold\fs60.104\c&H8f9978&\bord0\shad0\fad(120,120)}+
+Dialogue: 3,00:00:29.06,00:00:30.54,Graphic,,0,0,0,,{\an7\pos(163,508)\fnDM Sans 14pt Bold\fs55.524\c&H2b1c06&\bord0\shad0\fad(120,120)}No long-term contract.
+Dialogue: 3,00:00:30.62,00:00:35.20,Graphic,,0,0,0,,{\an5\pos(540,560)\fnManrope ExtraBold\fs106.548\c&Hfafeff&\bord2.5\shad2\fad(180,180)}Get found.
+Dialogue: 3,00:00:30.62,00:00:35.20,Graphic,,0,0,0,,{\an5\pos(540,660)\fnManrope ExtraBold\fs106.548\c&Hfafeff&\bord2.5\shad2\fad(180,180)}Get more calls.
+Dialogue: 3,00:00:30.62,00:00:35.20,Graphic,,0,0,0,,{\an5\pos(540,790)\fnDM Sans 14pt Bold\fs55.524\c&Hfafeff&\bord2.5\shad2\fad(180,180)}Tap to learn more
+Dialogue: 4,00:00:30.62,00:00:30.73,Graphic,,0,0,0,,{\an7\move(492.000,864.000,492.000,864.609)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:30.73,00:00:30.85,Graphic,,0,0,0,,{\an7\move(492.000,864.609,492.000,866.343)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:30.85,00:00:30.96,Graphic,,0,0,0,,{\an7\move(492.000,866.343,492.000,868.939)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:30.96,00:00:31.07,Graphic,,0,0,0,,{\an7\move(492.000,868.939,492.000,872.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.07,00:00:31.18,Graphic,,0,0,0,,{\an7\move(492.000,872.000,492.000,875.061)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.18,00:00:31.30,Graphic,,0,0,0,,{\an7\move(492.000,875.061,492.000,877.657)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.30,00:00:31.41,Graphic,,0,0,0,,{\an7\move(492.000,877.657,492.000,879.391)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.41,00:00:31.52,Graphic,,0,0,0,,{\an7\move(492.000,879.391,492.000,880.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.52,00:00:31.63,Graphic,,0,0,0,,{\an7\move(492.000,880.000,492.000,879.391)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.63,00:00:31.74,Graphic,,0,0,0,,{\an7\move(492.000,879.391,492.000,877.657)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.74,00:00:31.86,Graphic,,0,0,0,,{\an7\move(492.000,877.657,492.000,875.061)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.86,00:00:31.97,Graphic,,0,0,0,,{\an7\move(492.000,875.061,492.000,872.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:31.97,00:00:32.08,Graphic,,0,0,0,,{\an7\move(492.000,872.000,492.000,868.939)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.08,00:00:32.20,Graphic,,0,0,0,,{\an7\move(492.000,868.939,492.000,866.343)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.20,00:00:32.31,Graphic,,0,0,0,,{\an7\move(492.000,866.343,492.000,864.609)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.31,00:00:32.42,Graphic,,0,0,0,,{\an7\move(492.000,864.609,492.000,864.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.42,00:00:32.53,Graphic,,0,0,0,,{\an7\move(492.000,864.000,492.000,864.609)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.53,00:00:32.65,Graphic,,0,0,0,,{\an7\move(492.000,864.609,492.000,866.343)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.65,00:00:32.76,Graphic,,0,0,0,,{\an7\move(492.000,866.343,492.000,868.939)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.76,00:00:32.87,Graphic,,0,0,0,,{\an7\move(492.000,868.939,492.000,872.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.87,00:00:32.98,Graphic,,0,0,0,,{\an7\move(492.000,872.000,492.000,875.061)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:32.98,00:00:33.10,Graphic,,0,0,0,,{\an7\move(492.000,875.061,492.000,877.657)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.10,00:00:33.21,Graphic,,0,0,0,,{\an7\move(492.000,877.657,492.000,879.391)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.21,00:00:33.32,Graphic,,0,0,0,,{\an7\move(492.000,879.391,492.000,880.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.32,00:00:33.43,Graphic,,0,0,0,,{\an7\move(492.000,880.000,492.000,879.391)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.43,00:00:33.54,Graphic,,0,0,0,,{\an7\move(492.000,879.391,492.000,877.657)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.54,00:00:33.66,Graphic,,0,0,0,,{\an7\move(492.000,877.657,492.000,875.061)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.66,00:00:33.77,Graphic,,0,0,0,,{\an7\move(492.000,875.061,492.000,872.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.77,00:00:33.88,Graphic,,0,0,0,,{\an7\move(492.000,872.000,492.000,868.939)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:33.88,00:00:34.00,Graphic,,0,0,0,,{\an7\move(492.000,868.939,492.000,866.343)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.00,00:00:34.11,Graphic,,0,0,0,,{\an7\move(492.000,866.343,492.000,864.609)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.11,00:00:34.22,Graphic,,0,0,0,,{\an7\move(492.000,864.609,492.000,864.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.22,00:00:34.33,Graphic,,0,0,0,,{\an7\move(492.000,864.000,492.000,864.609)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.33,00:00:34.44,Graphic,,0,0,0,,{\an7\move(492.000,864.609,492.000,866.343)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.44,00:00:34.56,Graphic,,0,0,0,,{\an7\move(492.000,866.343,492.000,868.939)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.56,00:00:34.67,Graphic,,0,0,0,,{\an7\move(492.000,868.939,492.000,872.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.67,00:00:34.78,Graphic,,0,0,0,,{\an7\move(492.000,872.000,492.000,875.061)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.78,00:00:34.90,Graphic,,0,0,0,,{\an7\move(492.000,875.061,492.000,877.657)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:34.90,00:00:35.01,Graphic,,0,0,0,,{\an7\move(492.000,877.657,492.000,879.391)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:35.01,00:00:35.12,Graphic,,0,0,0,,{\an7\move(492.000,879.391,492.000,880.000)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 4,00:00:35.12,00:00:35.20,Graphic,,0,0,0,,{\an7\move(492.000,880.000,492.000,879.690)\p1\bord1.5\shad1\c&H1658e8&}m 0 0 l 48.0 28 96 0 96 12 48.0 40 0 12
+Dialogue: 5,00:00:00.00,00:00:00.24,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}Every {\c&Hfafeff&}time {\c&Hfafeff&}a\N{\c&Hfafeff&}homeowner {\c&Hfafeff&}searches
+Dialogue: 5,00:00:00.24,00:00:00.48,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Every {\c&H1658e8&}time {\c&Hfafeff&}a\N{\c&Hfafeff&}homeowner {\c&Hfafeff&}searches
+Dialogue: 5,00:00:00.48,00:00:00.58,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Every {\c&Hfafeff&}time {\c&H1658e8&}a\N{\c&Hfafeff&}homeowner {\c&Hfafeff&}searches
+Dialogue: 5,00:00:00.58,00:00:00.78,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Every {\c&Hfafeff&}time {\c&Hfafeff&}a\N{\c&H1658e8&}homeowner {\c&Hfafeff&}searches
+Dialogue: 5,00:00:00.78,00:00:01.16,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Every {\c&Hfafeff&}time {\c&Hfafeff&}a\N{\c&Hfafeff&}homeowner {\c&H1658e8&}searches
+Dialogue: 5,00:00:01.16,00:00:01.54,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}for {\c&Hfafeff&}septic\N{\c&Hfafeff&}service {\c&Hfafeff&}and {\c&Hfafeff&}finds
+Dialogue: 5,00:00:01.54,00:00:01.92,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}for {\c&H1658e8&}septic\N{\c&Hfafeff&}service {\c&Hfafeff&}and {\c&Hfafeff&}finds
+Dialogue: 5,00:00:01.92,00:00:02.26,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}for {\c&Hfafeff&}septic\N{\c&H1658e8&}service {\c&Hfafeff&}and {\c&Hfafeff&}finds
+Dialogue: 5,00:00:02.26,00:00:02.50,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}for {\c&Hfafeff&}septic\N{\c&Hfafeff&}service {\c&H1658e8&}and {\c&Hfafeff&}finds
+Dialogue: 5,00:00:02.50,00:00:02.72,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}for {\c&Hfafeff&}septic\N{\c&Hfafeff&}service {\c&Hfafeff&}and {\c&H1658e8&}finds
+Dialogue: 5,00:00:02.72,00:00:02.92,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}your {\c&Hfafeff&}competitor {\c&Hfafeff&}first,
+Dialogue: 5,00:00:02.92,00:00:03.32,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}your {\c&H1658e8&}competitor {\c&Hfafeff&}first,
+Dialogue: 5,00:00:03.32,00:00:03.86,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}your {\c&Hfafeff&}competitor {\c&H1658e8&}first,
+Dialogue: 5,00:00:04.08,00:00:04.34,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}that’s {\c&Hfafeff&}a {\c&Hfafeff&}job\N{\c&Hfafeff&}you {\c&Hfafeff&}could {\c&Hfafeff&}have
+Dialogue: 5,00:00:04.34,00:00:04.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}that’s {\c&H1658e8&}a {\c&Hfafeff&}job\N{\c&Hfafeff&}you {\c&Hfafeff&}could {\c&Hfafeff&}have
+Dialogue: 5,00:00:04.40,00:00:04.58,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}that’s {\c&Hfafeff&}a {\c&H1658e8&}job\N{\c&Hfafeff&}you {\c&Hfafeff&}could {\c&Hfafeff&}have
+Dialogue: 5,00:00:04.58,00:00:04.76,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}that’s {\c&Hfafeff&}a {\c&Hfafeff&}job\N{\c&H1658e8&}you {\c&Hfafeff&}could {\c&Hfafeff&}have
+Dialogue: 5,00:00:04.76,00:00:04.90,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}that’s {\c&Hfafeff&}a {\c&Hfafeff&}job\N{\c&Hfafeff&}you {\c&H1658e8&}could {\c&Hfafeff&}have
+Dialogue: 5,00:00:04.90,00:00:04.98,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}that’s {\c&Hfafeff&}a {\c&Hfafeff&}job\N{\c&Hfafeff&}you {\c&Hfafeff&}could {\c&H1658e8&}have
+Dialogue: 5,00:00:04.98,00:00:05.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}had.
+Dialogue: 5,00:00:05.72,00:00:05.98,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}BRIX {\c&Hfafeff&}helps {\c&Hfafeff&}stop {\c&Hfafeff&}that\N{\c&Hfafeff&}from {\c&Hfafeff&}happening.
+Dialogue: 5,00:00:05.98,00:00:06.22,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}BRIX {\c&H1658e8&}helps {\c&Hfafeff&}stop {\c&Hfafeff&}that\N{\c&Hfafeff&}from {\c&Hfafeff&}happening.
+Dialogue: 5,00:00:06.22,00:00:06.54,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}BRIX {\c&Hfafeff&}helps {\c&H1658e8&}stop {\c&Hfafeff&}that\N{\c&Hfafeff&}from {\c&Hfafeff&}happening.
+Dialogue: 5,00:00:06.54,00:00:06.80,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}BRIX {\c&Hfafeff&}helps {\c&Hfafeff&}stop {\c&H1658e8&}that\N{\c&Hfafeff&}from {\c&Hfafeff&}happening.
+Dialogue: 5,00:00:06.80,00:00:06.96,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}BRIX {\c&Hfafeff&}helps {\c&Hfafeff&}stop {\c&Hfafeff&}that\N{\c&H1658e8&}from {\c&Hfafeff&}happening.
+Dialogue: 5,00:00:06.96,00:00:07.54,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}BRIX {\c&Hfafeff&}helps {\c&Hfafeff&}stop {\c&Hfafeff&}that\N{\c&Hfafeff&}from {\c&H1658e8&}happening.
+Dialogue: 5,00:00:07.80,00:00:07.84,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}For {\c&Hfafeff&}just {\c&Hfafeff&}$297 {\c&Hfafeff&}a {\c&Hfafeff&}month,
+Dialogue: 5,00:00:07.84,00:00:08.04,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}For {\c&H1658e8&}just {\c&Hfafeff&}$297 {\c&Hfafeff&}a {\c&Hfafeff&}month,
+Dialogue: 5,00:00:08.04,00:00:09.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}For {\c&Hfafeff&}just {\c&H1658e8&}$297 {\c&Hfafeff&}a {\c&Hfafeff&}month,
+Dialogue: 5,00:00:09.40,00:00:09.54,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}For {\c&Hfafeff&}just {\c&Hfafeff&}$297 {\c&H1658e8&}a {\c&Hfafeff&}month,
+Dialogue: 5,00:00:09.54,00:00:09.74,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}For {\c&Hfafeff&}just {\c&Hfafeff&}$297 {\c&Hfafeff&}a {\c&H1658e8&}month,
+Dialogue: 5,00:00:09.74,00:00:10.14,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}we {\c&Hfafeff&}build {\c&Hfafeff&}and {\c&Hfafeff&}host\N{\c&Hfafeff&}your {\c&Hfafeff&}website,
+Dialogue: 5,00:00:10.14,00:00:10.34,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}we {\c&H1658e8&}build {\c&Hfafeff&}and {\c&Hfafeff&}host\N{\c&Hfafeff&}your {\c&Hfafeff&}website,
+Dialogue: 5,00:00:10.34,00:00:10.54,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}we {\c&Hfafeff&}build {\c&H1658e8&}and {\c&Hfafeff&}host\N{\c&Hfafeff&}your {\c&Hfafeff&}website,
+Dialogue: 5,00:00:10.54,00:00:10.74,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}we {\c&Hfafeff&}build {\c&Hfafeff&}and {\c&H1658e8&}host\N{\c&Hfafeff&}your {\c&Hfafeff&}website,
+Dialogue: 5,00:00:10.74,00:00:10.94,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}we {\c&Hfafeff&}build {\c&Hfafeff&}and {\c&Hfafeff&}host\N{\c&H1658e8&}your {\c&Hfafeff&}website,
+Dialogue: 5,00:00:10.94,00:00:11.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}we {\c&Hfafeff&}build {\c&Hfafeff&}and {\c&Hfafeff&}host\N{\c&Hfafeff&}your {\c&H1658e8&}website,
+Dialogue: 5,00:00:11.60,00:00:11.80,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}help {\c&Hfafeff&}your {\c&Hfafeff&}business\N{\c&Hfafeff&}get {\c&Hfafeff&}found
+Dialogue: 5,00:00:11.80,00:00:11.98,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}help {\c&H1658e8&}your {\c&Hfafeff&}business\N{\c&Hfafeff&}get {\c&Hfafeff&}found
+Dialogue: 5,00:00:11.98,00:00:12.28,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}help {\c&Hfafeff&}your {\c&H1658e8&}business\N{\c&Hfafeff&}get {\c&Hfafeff&}found
+Dialogue: 5,00:00:12.28,00:00:12.52,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}help {\c&Hfafeff&}your {\c&Hfafeff&}business\N{\c&H1658e8&}get {\c&Hfafeff&}found
+Dialogue: 5,00:00:12.52,00:00:12.80,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}help {\c&Hfafeff&}your {\c&Hfafeff&}business\N{\c&Hfafeff&}get {\c&H1658e8&}found
+Dialogue: 5,00:00:12.80,00:00:12.96,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}on {\c&Hfafeff&}Google,
+Dialogue: 5,00:00:12.96,00:00:13.36,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}on {\c&H1658e8&}Google,
+Dialogue: 5,00:00:13.66,00:00:13.76,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}keep {\c&Hfafeff&}your {\c&Hfafeff&}Google\N{\c&Hfafeff&}Business {\c&Hfafeff&}Profile {\c&Hfafeff&}active,
+Dialogue: 5,00:00:13.76,00:00:13.94,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}keep {\c&H1658e8&}your {\c&Hfafeff&}Google\N{\c&Hfafeff&}Business {\c&Hfafeff&}Profile {\c&Hfafeff&}active,
+Dialogue: 5,00:00:13.94,00:00:14.14,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}keep {\c&Hfafeff&}your {\c&H1658e8&}Google\N{\c&Hfafeff&}Business {\c&Hfafeff&}Profile {\c&Hfafeff&}active,
+Dialogue: 5,00:00:14.14,00:00:14.50,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}keep {\c&Hfafeff&}your {\c&Hfafeff&}Google\N{\c&H1658e8&}Business {\c&Hfafeff&}Profile {\c&Hfafeff&}active,
+Dialogue: 5,00:00:14.50,00:00:14.74,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}keep {\c&Hfafeff&}your {\c&Hfafeff&}Google\N{\c&Hfafeff&}Business {\c&H1658e8&}Profile {\c&Hfafeff&}active,
+Dialogue: 5,00:00:14.74,00:00:15.54,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}keep {\c&Hfafeff&}your {\c&Hfafeff&}Google\N{\c&Hfafeff&}Business {\c&Hfafeff&}Profile {\c&H1658e8&}active,
+Dialogue: 5,00:00:15.74,00:00:15.82,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}and {\c&Hfafeff&}ask {\c&Hfafeff&}your\N{\c&Hfafeff&}customers {\c&Hfafeff&}for {\c&Hfafeff&}reviews
+Dialogue: 5,00:00:15.82,00:00:16.06,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&H1658e8&}ask {\c&Hfafeff&}your\N{\c&Hfafeff&}customers {\c&Hfafeff&}for {\c&Hfafeff&}reviews
+Dialogue: 5,00:00:16.06,00:00:16.24,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&Hfafeff&}ask {\c&H1658e8&}your\N{\c&Hfafeff&}customers {\c&Hfafeff&}for {\c&Hfafeff&}reviews
+Dialogue: 5,00:00:16.24,00:00:16.58,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&Hfafeff&}ask {\c&Hfafeff&}your\N{\c&H1658e8&}customers {\c&Hfafeff&}for {\c&Hfafeff&}reviews
+Dialogue: 5,00:00:16.58,00:00:16.86,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&Hfafeff&}ask {\c&Hfafeff&}your\N{\c&Hfafeff&}customers {\c&H1658e8&}for {\c&Hfafeff&}reviews
+Dialogue: 5,00:00:16.86,00:00:17.20,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&Hfafeff&}ask {\c&Hfafeff&}your\N{\c&Hfafeff&}customers {\c&Hfafeff&}for {\c&H1658e8&}reviews
+Dialogue: 5,00:00:17.20,00:00:17.58,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}after {\c&Hfafeff&}every {\c&Hfafeff&}job.
+Dialogue: 5,00:00:17.58,00:00:17.92,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}after {\c&H1658e8&}every {\c&Hfafeff&}job.
+Dialogue: 5,00:00:17.92,00:00:18.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}after {\c&Hfafeff&}every {\c&H1658e8&}job.
+Dialogue: 5,00:00:18.80,00:00:18.92,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}So {\c&Hfafeff&}when {\c&Hfafeff&}someone\N{\c&Hfafeff&}nearby {\c&Hfafeff&}needs {\c&Hfafeff&}septic
+Dialogue: 5,00:00:18.92,00:00:19.04,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}So {\c&H1658e8&}when {\c&Hfafeff&}someone\N{\c&Hfafeff&}nearby {\c&Hfafeff&}needs {\c&Hfafeff&}septic
+Dialogue: 5,00:00:19.04,00:00:19.24,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}So {\c&Hfafeff&}when {\c&H1658e8&}someone\N{\c&Hfafeff&}nearby {\c&Hfafeff&}needs {\c&Hfafeff&}septic
+Dialogue: 5,00:00:19.24,00:00:19.54,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}So {\c&Hfafeff&}when {\c&Hfafeff&}someone\N{\c&H1658e8&}nearby {\c&Hfafeff&}needs {\c&Hfafeff&}septic
+Dialogue: 5,00:00:19.54,00:00:20.00,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}So {\c&Hfafeff&}when {\c&Hfafeff&}someone\N{\c&Hfafeff&}nearby {\c&H1658e8&}needs {\c&Hfafeff&}septic
+Dialogue: 5,00:00:20.00,00:00:20.34,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}So {\c&Hfafeff&}when {\c&Hfafeff&}someone\N{\c&Hfafeff&}nearby {\c&Hfafeff&}needs {\c&H1658e8&}septic
+Dialogue: 5,00:00:20.34,00:00:20.64,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}pumping, {\c&Hfafeff&}repairs,
+Dialogue: 5,00:00:20.64,00:00:21.02,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}pumping, {\c&H1658e8&}repairs,
+Dialogue: 5,00:00:21.02,00:00:21.46,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}or {\c&Hfafeff&}service,
+Dialogue: 5,00:00:21.46,00:00:22.02,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}or {\c&H1658e8&}service,
+Dialogue: 5,00:00:22.30,00:00:22.42,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}your {\c&Hfafeff&}business {\c&Hfafeff&}has\N{\c&Hfafeff&}a {\c&Hfafeff&}better {\c&Hfafeff&}chance
+Dialogue: 5,00:00:22.42,00:00:22.72,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}your {\c&H1658e8&}business {\c&Hfafeff&}has\N{\c&Hfafeff&}a {\c&Hfafeff&}better {\c&Hfafeff&}chance
+Dialogue: 5,00:00:22.72,00:00:22.94,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}your {\c&Hfafeff&}business {\c&H1658e8&}has\N{\c&Hfafeff&}a {\c&Hfafeff&}better {\c&Hfafeff&}chance
+Dialogue: 5,00:00:22.94,00:00:23.04,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}your {\c&Hfafeff&}business {\c&Hfafeff&}has\N{\c&H1658e8&}a {\c&Hfafeff&}better {\c&Hfafeff&}chance
+Dialogue: 5,00:00:23.04,00:00:23.28,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}your {\c&Hfafeff&}business {\c&Hfafeff&}has\N{\c&Hfafeff&}a {\c&H1658e8&}better {\c&Hfafeff&}chance
+Dialogue: 5,00:00:23.28,00:00:23.50,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}your {\c&Hfafeff&}business {\c&Hfafeff&}has\N{\c&Hfafeff&}a {\c&Hfafeff&}better {\c&H1658e8&}chance
+Dialogue: 5,00:00:23.50,00:00:23.74,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}of {\c&Hfafeff&}showing {\c&Hfafeff&}up,
+Dialogue: 5,00:00:23.74,00:00:23.96,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}of {\c&H1658e8&}showing {\c&Hfafeff&}up,
+Dialogue: 5,00:00:23.96,00:00:24.42,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}of {\c&Hfafeff&}showing {\c&H1658e8&}up,
+Dialogue: 5,00:00:24.42,00:00:24.68,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}looking {\c&Hfafeff&}credible,
+Dialogue: 5,00:00:24.68,00:00:25.18,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}looking {\c&H1658e8&}credible,
+Dialogue: 5,00:00:25.46,00:00:25.58,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}and {\c&Hfafeff&}getting {\c&Hfafeff&}the {\c&Hfafeff&}call.
+Dialogue: 5,00:00:25.58,00:00:25.80,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&H1658e8&}getting {\c&Hfafeff&}the {\c&Hfafeff&}call.
+Dialogue: 5,00:00:25.80,00:00:26.00,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&Hfafeff&}getting {\c&H1658e8&}the {\c&Hfafeff&}call.
+Dialogue: 5,00:00:26.00,00:00:26.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}and {\c&Hfafeff&}getting {\c&Hfafeff&}the {\c&H1658e8&}call.
+Dialogue: 5,00:00:27.12,00:00:27.20,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}No {\c&Hfafeff&}paid {\c&Hfafeff&}ads.
+Dialogue: 5,00:00:27.20,00:00:27.42,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}No {\c&H1658e8&}paid {\c&Hfafeff&}ads.
+Dialogue: 5,00:00:27.42,00:00:27.82,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}No {\c&Hfafeff&}paid {\c&H1658e8&}ads.
+Dialogue: 5,00:00:28.00,00:00:28.20,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}No {\c&Hfafeff&}hidden {\c&Hfafeff&}fees.
+Dialogue: 5,00:00:28.20,00:00:28.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}No {\c&H1658e8&}hidden {\c&Hfafeff&}fees.
+Dialogue: 5,00:00:28.40,00:00:28.92,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}No {\c&Hfafeff&}hidden {\c&H1658e8&}fees.
+Dialogue: 5,00:00:29.06,00:00:29.28,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}No {\c&Hfafeff&}long-term {\c&Hfafeff&}contract.
+Dialogue: 5,00:00:29.28,00:00:29.76,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}No {\c&H1658e8&}long-term {\c&Hfafeff&}contract.
+Dialogue: 5,00:00:29.76,00:00:30.44,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}No {\c&Hfafeff&}long-term {\c&H1658e8&}contract.
+Dialogue: 5,00:00:30.62,00:00:30.70,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}Tap {\c&Hfafeff&}below {\c&Hfafeff&}and\N{\c&Hfafeff&}we’ll {\c&Hfafeff&}show {\c&Hfafeff&}you
+Dialogue: 5,00:00:30.70,00:00:30.98,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Tap {\c&H1658e8&}below {\c&Hfafeff&}and\N{\c&Hfafeff&}we’ll {\c&Hfafeff&}show {\c&Hfafeff&}you
+Dialogue: 5,00:00:30.98,00:00:31.48,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Tap {\c&Hfafeff&}below {\c&H1658e8&}and\N{\c&Hfafeff&}we’ll {\c&Hfafeff&}show {\c&Hfafeff&}you
+Dialogue: 5,00:00:31.48,00:00:31.62,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Tap {\c&Hfafeff&}below {\c&Hfafeff&}and\N{\c&H1658e8&}we’ll {\c&Hfafeff&}show {\c&Hfafeff&}you
+Dialogue: 5,00:00:31.62,00:00:31.82,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Tap {\c&Hfafeff&}below {\c&Hfafeff&}and\N{\c&Hfafeff&}we’ll {\c&H1658e8&}show {\c&Hfafeff&}you
+Dialogue: 5,00:00:31.82,00:00:31.96,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}Tap {\c&Hfafeff&}below {\c&Hfafeff&}and\N{\c&Hfafeff&}we’ll {\c&Hfafeff&}show {\c&H1658e8&}you
+Dialogue: 5,00:00:31.96,00:00:32.08,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}what {\c&Hfafeff&}your {\c&Hfafeff&}new\N{\c&Hfafeff&}website {\c&Hfafeff&}could {\c&Hfafeff&}look
+Dialogue: 5,00:00:32.08,00:00:32.24,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}what {\c&H1658e8&}your {\c&Hfafeff&}new\N{\c&Hfafeff&}website {\c&Hfafeff&}could {\c&Hfafeff&}look
+Dialogue: 5,00:00:32.24,00:00:32.40,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}what {\c&Hfafeff&}your {\c&H1658e8&}new\N{\c&Hfafeff&}website {\c&Hfafeff&}could {\c&Hfafeff&}look
+Dialogue: 5,00:00:32.40,00:00:32.74,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}what {\c&Hfafeff&}your {\c&Hfafeff&}new\N{\c&H1658e8&}website {\c&Hfafeff&}could {\c&Hfafeff&}look
+Dialogue: 5,00:00:32.74,00:00:33.08,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}what {\c&Hfafeff&}your {\c&Hfafeff&}new\N{\c&Hfafeff&}website {\c&H1658e8&}could {\c&Hfafeff&}look
+Dialogue: 5,00:00:33.08,00:00:33.30,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}what {\c&Hfafeff&}your {\c&Hfafeff&}new\N{\c&Hfafeff&}website {\c&Hfafeff&}could {\c&H1658e8&}look
+Dialogue: 5,00:00:33.30,00:00:33.72,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&H1658e8&}like, {\c&Hfafeff&}free.
+Dialogue: 5,00:00:33.72,00:00:34.14,Caption,,0,0,0,,{\an5\pos(540,1120)\q2}{\c&Hfafeff&}like, {\c&H1658e8&}free.

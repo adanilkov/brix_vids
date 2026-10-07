@@ -1,0 +1,212 @@
+{
+  "id": "BRIX_Septic_05_LocalCalls_4x5_B_Curiosity",
+  "niche": "septic contractors",
+  "brand": "video_pipeline/brands/brix/brand.json",
+  "audio": "voiceover/septic/Septic Script 5 Audio.wav",
+  "transcript": "transcripts/septic/prepared/septic_5.txt",
+  "catalog": "video_pipeline/catalogs/septic.json",
+  "output": "output/septic_5/output/BRIX_Septic_05_LocalCalls_4x5_B_Curiosity.mp4",
+  "end_hold": 1.03,
+  "alignment": {
+    "words": "video_pipeline/alignments/septic_5.words.json"
+  },
+  "shot_selection": {
+    "seconds_per_shot": 3.6,
+    "seed": "septic_5"
+  },
+  "music": {
+    "mode": "file",
+    "file": "music/tracks/02_relaxed_groove/source.mp3",
+    "lufs": -30,
+    "gain": 0.8,
+    "profile": "relaxed_groove"
+  },
+  "creative": {
+    "cta": {
+      "start": {
+        "phrase": "Tap below"
+      },
+      "lines": [
+        "Get found.",
+        "Get more calls."
+      ],
+      "prompt": "Tap to learn more"
+    },
+    "offer": {
+      "start": {
+        "phrase": "we build"
+      },
+      "end": {
+        "phrase": "So when"
+      },
+      "eyebrow": "LOCAL VISIBILITY. MORE CALLS.",
+      "price": "$297",
+      "period": "/ month",
+      "benefits": [
+        {
+          "start": {
+            "phrase": "we build"
+          },
+          "text": "Website built + hosted"
+        },
+        {
+          "start": {
+            "phrase": "help your business"
+          },
+          "text": "Help getting found on Google"
+        },
+        {
+          "start": {
+            "phrase": "keep your Google"
+          },
+          "text": "Active Google Business Profile"
+        },
+        {
+          "start": {
+            "phrase": "ask your customers"
+          },
+          "text": "Review requests after every job"
+        }
+      ]
+    },
+    "reassurance": {
+      "end": {
+        "phrase": "Tap below",
+        "offset": -0.08
+      },
+      "items": [
+        {
+          "start": {
+            "phrase": "No paid ads"
+          },
+          "text": "No paid ads."
+        },
+        {
+          "start": {
+            "phrase": "No hidden fees"
+          },
+          "text": "No hidden fees."
+        },
+        {
+          "start": {
+            "phrase": "No long-term contract"
+          },
+          "text": "No long-term contract."
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "clip": "352469674",
+      "start": 0.0,
+      "end": 3.6666666666666665,
+      "source_in": 1.5,
+      "speed": 1.0,
+      "crop_center": [
+        0.47,
+        0.5
+      ]
+    },
+    {
+      "clip": "349172061",
+      "start": 3.6666666666666665,
+      "end": 7.333333333333333,
+      "source_in": 0.3,
+      "speed": 1.0,
+      "crop_center": [
+        0.58,
+        0.5
+      ]
+    },
+    {
+      "clip": "septic_stock_7",
+      "start": 7.333333333333333,
+      "end": 11.2,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.4,
+        0.5
+      ]
+    },
+    {
+      "clip": "348969062",
+      "start": 11.2,
+      "end": 15.333333333333334,
+      "source_in": 1.5,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "352469674",
+      "start": 15.333333333333334,
+      "end": 18.2,
+      "source_in": 4.5,
+      "speed": 1.0,
+      "crop_center": [
+        0.47,
+        0.5
+      ]
+    },
+    {
+      "clip": "347093552",
+      "start": 18.2,
+      "end": 21.833333333333332,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.6,
+        0.5
+      ]
+    },
+    {
+      "clip": "septic_stock_8",
+      "start": 21.833333333333332,
+      "end": 24.966666666666665,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.51,
+        0.5
+      ]
+    },
+    {
+      "clip": "347093552",
+      "start": 24.966666666666665,
+      "end": 28.733333333333334,
+      "source_in": 5.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.6,
+        0.5
+      ]
+    },
+    {
+      "clip": "septic_stock_7",
+      "start": 28.733333333333334,
+      "end": 30.633333333333333,
+      "source_in": 4.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.4,
+        0.5
+      ]
+    },
+    {
+      "clip": "352469674",
+      "start": 30.633333333333333,
+      "end": "end",
+      "source_in": 4.0,
+      "speed": 0.9,
+      "crop_center": [
+        0.47,
+        0.5
+      ]
+    }
+  ],
+  "artifact_version": "B_curiosity"
+}

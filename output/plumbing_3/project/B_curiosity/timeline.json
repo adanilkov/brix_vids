@@ -1,0 +1,230 @@
+{
+  "duration": 30.733333333333334,
+  "fps": 30,
+  "shots": [
+    {
+      "id": "346554234",
+      "file": "stock_footage/plumbing/handheld-tracking-shot-with-slowmo-of-male-plumber-in-uniform-lying-under-kitchen-s-SBV-346554234-HD.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "346554234",
+      "start": 0.0,
+      "end": 3.6666666666666665,
+      "start_frame": 0,
+      "end_frame": 110,
+      "frames": 110,
+      "source_info": {
+        "duration": 24.72,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 618,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "337778096",
+      "file": "stock_footage/plumbing/plumber-joining-plastic-pipes-close-up-plumbing-contractor-installing-pipes-close-u-SBV-337778096-HD.mp4",
+      "source_in": 0.6,
+      "crop_center": [
+        0.43,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "337778096",
+      "start": 3.6666666666666665,
+      "end": 7.266666666666667,
+      "start_frame": 110,
+      "end_frame": 218,
+      "frames": 108,
+      "source_info": {
+        "duration": 6.506507,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 195,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "346548921",
+      "file": "stock_footage/plumbing/male-plumber-or-electrician-w-toolbox-heads-down-stairs-to-check-home-basement-SBV-346548921-HD.mp4",
+      "source_in": 1.0,
+      "crop_center": [
+        0.43,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "346548921",
+      "start": 7.266666666666667,
+      "end": 11.166666666666666,
+      "start_frame": 218,
+      "end_frame": 335,
+      "frames": 117,
+      "source_info": {
+        "duration": 13.844871,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 23.98,
+        "frames": 332,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "337778098",
+      "file": "stock_footage/plumbing/close-up-of-plumber-working-with-pipes-plumber-installing-plastic-water-pipes-plumb-SBV-337778098-HD.mp4",
+      "source_in": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "337778098",
+      "start": 11.166666666666666,
+      "end": 14.1,
+      "start_frame": 335,
+      "end_frame": 423,
+      "frames": 88,
+      "source_info": {
+        "duration": 10.477144,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 314,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "352740177",
+      "file": "stock_footage/plumbing/plumber-repairing-sink-in-kitchen-SBV-352740177-HD.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.62,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "352740177",
+      "start": 14.1,
+      "end": 17.7,
+      "start_frame": 423,
+      "end_frame": 531,
+      "frames": 108,
+      "source_info": {
+        "duration": 19.6,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 490,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "337778091",
+      "file": "stock_footage/plumbing/plumbers-hands-working-with-plastic-pipes-hands-of-plumber-repairing-water-pipes-SBV-337778091-HD.mp4",
+      "source_in": 0.4,
+      "crop_center": [
+        0.53,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "337778091",
+      "start": 17.7,
+      "end": 21.633333333333333,
+      "start_frame": 531,
+      "end_frame": 649,
+      "frames": 118,
+      "source_info": {
+        "duration": 6.740073,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 202,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "346554256",
+      "file": "stock_footage/plumbing/handheld-tracking-shot-with-slowmo-of-male-plumber-in-uniform-lying-under-kitchen-s-SBV-346554256-HD.mp4",
+      "source_in": 3.0,
+      "crop_center": [
+        0.48,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "346554256",
+      "start": 21.633333333333333,
+      "end": 25.633333333333333,
+      "start_frame": 649,
+      "end_frame": 769,
+      "frames": 120,
+      "source_info": {
+        "duration": 16.2,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 25.0,
+        "frames": 405,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "355306047",
+      "file": "stock_footage/plumbing/portrait-of-caucasian-young-adult-male-plumber-holding-manifold-collector-in-boiler-SBV-355306047-HD.mp4",
+      "source_in": 3.0,
+      "crop_center": [
+        0.54,
+        0.5
+      ],
+      "speed": 0.9,
+      "framing": "wide",
+      "clip": "355306047",
+      "start": 25.633333333333333,
+      "end": 30.733333333333334,
+      "start_frame": 769,
+      "end_frame": 922,
+      "frames": 153,
+      "source_info": {
+        "duration": 9.708333,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "frames": 233,
+        "rotation": 0,
+        "codec": "hevc"
+      }
+    }
+  ]
+}

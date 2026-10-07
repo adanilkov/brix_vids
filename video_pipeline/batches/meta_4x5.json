@@ -1,0 +1,96 @@
+{
+  "id": "meta_4x5",
+  "format": {
+    "width": 1080,
+    "height": 1350,
+    "fps": 30
+  },
+  "naming": "BRIX_<Niche>_<Script>_LocalCalls_4x5_<A/B>_<Music>.mp4",
+  "music_gain": 0.8,
+  "ads": [
+    {
+      "ad": "plumbing_1",
+      "jobs": {
+        "A": "video_pipeline/jobs/plumbing_1/A_original.json",
+        "B": "video_pipeline/jobs/plumbing_1/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "plumbing_2",
+      "jobs": {
+        "A": "video_pipeline/jobs/plumbing_2/A_original.json",
+        "B": "video_pipeline/jobs/plumbing_2/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "plumbing_3",
+      "jobs": {
+        "A": "video_pipeline/jobs/plumbing_3/A_original.json",
+        "B": "video_pipeline/jobs/plumbing_3/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "plumbing_4",
+      "jobs": {
+        "A": "video_pipeline/jobs/plumbing_4/A_original.json",
+        "B": "video_pipeline/jobs/plumbing_4/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "roof_1",
+      "jobs": {
+        "A": "video_pipeline/jobs/roof_1/A_original.json",
+        "B": "video_pipeline/jobs/roof_1/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "roof_2",
+      "jobs": {
+        "A": "video_pipeline/jobs/roof_2/A_original.json",
+        "B": "video_pipeline/jobs/roof_2/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "roof_3",
+      "jobs": {
+        "A": "video_pipeline/jobs/roof_3/A_original.json",
+        "B": "video_pipeline/jobs/roof_3/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "septic_1",
+      "jobs": {
+        "A": "video_pipeline/jobs/septic_1/A_original.json",
+        "B": "video_pipeline/jobs/septic_1/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "septic_2",
+      "jobs": {
+        "A": "video_pipeline/jobs/septic_2/A_original.json",
+        "B": "video_pipeline/jobs/septic_2/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "septic_3",
+      "jobs": {
+        "A": "video_pipeline/jobs/septic_3/A_original.json",
+        "B": "video_pipeline/jobs/septic_3/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "septic_4",
+      "jobs": {
+        "A": "video_pipeline/jobs/septic_4/A_original.json",
+        "B": "video_pipeline/jobs/septic_4/B_curiosity.json"
+      }
+    },
+    {
+      "ad": "septic_5",
+      "jobs": {
+        "A": "video_pipeline/jobs/septic_5/A_original.json",
+        "B": "video_pipeline/jobs/septic_5/B_curiosity.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "source_job": "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/video_pipeline/jobs/septic_5/A_original.json",
+  "source_export": "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/septic_5/output/BRIX_Septic_05_LocalCalls_4x5_A_Original.mp4",
+  "source_fingerprint": {
+    "size": 19846430,
+    "sha256": "401b1439c133a78874f30580b08bed9054216d0e4abc68dbd9ae15436aebdda2"
+  },
+  "video_packets": {
+    "packets": 1056,
+    "sha256": "d1a732c6c8f5952af167baa5793ed8215ce7bd6a46430b58f5e2130ea7887df2"
+  },
+  "video_packets_unchanged": true,
+  "music": {
+    "mode": "file",
+    "file": "music/tracks/02_relaxed_groove/source.mp3",
+    "lufs": -30,
+    "gain": 0.8,
+    "profile": "relaxed_groove"
+  },
+  "narration_filter": "highpass=f=75,loudnorm=I=-16:TP=-1.5:LRA=7:measured_I=-23.98:measured_TP=-8.52:measured_LRA=1.50:measured_thresh=-34.16:offset=-0.07:linear=true"
+}

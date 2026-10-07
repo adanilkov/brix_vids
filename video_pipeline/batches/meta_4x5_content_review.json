@@ -1,0 +1,98 @@
+[
+  {
+    "ad": "plumbing_1",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 22.0,
+    "service_card_start": 9.1,
+    "service_count": 3
+  },
+  {
+    "ad": "plumbing_2",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 19.866666666666667,
+    "service_card_start": 4.44,
+    "service_count": 3
+  },
+  {
+    "ad": "plumbing_3",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 30.733333333333334,
+    "service_card_start": 1.82,
+    "service_count": 3
+  },
+  {
+    "ad": "plumbing_4",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 23.166666666666668,
+    "service_card_start": 4.52,
+    "service_count": 3
+  },
+  {
+    "ad": "roof_1",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 36.9,
+    "service_card_start": 14.040000000000001,
+    "service_count": 4
+  },
+  {
+    "ad": "roof_2",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 32.63333333333333,
+    "service_card_start": 7.48,
+    "service_count": 4
+  },
+  {
+    "ad": "roof_3",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 35.93333333333333,
+    "service_card_start": 13.42,
+    "service_count": 4
+  },
+  {
+    "ad": "septic_1",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 38.2,
+    "service_card_start": 16.54,
+    "service_count": 4
+  },
+  {
+    "ad": "septic_2",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 32.53333333333333,
+    "service_card_start": 7.52,
+    "service_count": 4
+  },
+  {
+    "ad": "septic_3",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 39.56666666666667,
+    "service_card_start": 15.06,
+    "service_count": 4
+  },
+  {
+    "ad": "septic_4",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 40.46666666666667,
+    "service_card_start": 18.78,
+    "service_count": 4
+  },
+  {
+    "ad": "septic_5",
+    "captions_unchanged": true,
+    "shot_timing_unchanged": true,
+    "duration": 35.2,
+    "service_card_start": 9.74,
+    "service_count": 4
+  }
+]

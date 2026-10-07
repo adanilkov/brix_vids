@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Brix · Music previews</title><style>
+*{box-sizing:border-box}body{margin:0;background:#f7f4ed;color:#061c2b;font:16px/1.5 system-ui,sans-serif}main{max-width:1080px;margin:36px auto;padding:0 24px}h1{font-size:clamp(28px,5vw,42px);line-height:1.1;margin:12px 0}header p{color:#53616a;max-width:650px}header small{color:#bc4309;font-weight:750;letter-spacing:.12em}.layout{display:grid;grid-template-columns:minmax(220px,300px) 1fr;gap:32px;align-items:start;margin-top:28px}.screen{position:sticky;top:20px}video{display:block;width:100%;height:auto;background:#000;border-radius:12px}#now{font-weight:700;margin:12px 0 6px}#status{font-size:14px;color:#53616a}article{display:flex;gap:18px;padding:20px 0;border-bottom:1px solid #d5d6d0}article:first-child{padding-top:0}.number{background:#061c2b;color:white;border-radius:50%;height:32px;width:32px;display:grid;place-items:center;flex-shrink:0;font-weight:700}h2{font-size:21px;margin:0}article p{margin:4px 0;color:#53616a}article small{color:#53616a}.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}button{cursor:pointer;border:1px solid #bec5c4;background:transparent;color:#061c2b;padding:9px 13px;border-radius:7px;font:600 14px system-ui}button:hover{border-color:#e85816}button:focus-visible{outline:3px solid #e85816;outline-offset:3px}.choose[aria-pressed=true]{background:#e85816;color:white;border-color:#e85816}footer{font-size:13px;color:#53616a;margin:24px 0}a{color:inherit}#stop{margin-top:8px}@media(max-width:680px){.layout{grid-template-columns:1fr;gap:24px}.screen{position:static;max-width:240px;margin:auto}main{margin-top:24px}}
+</style></head><body><main>
+<header><small>BRIX STRATEGIES</small><h1>Find the right sound.</h1><p>Three alternatives, plus the current music. Each uses the same {{DURATION}}-second opening. Switch tracks mid-play to compare, or hear the music alone.</p></header>
+<div class="layout"><div class="screen"><video id="player" controls playsinline preload="metadata" src="../output/00_current.mp4"></video><p id="now" aria-live="polite">Current music</p><div id="status" aria-live="polite">Press 0, 1, 2 or 3 to switch.</div><button id="stop">Stop playback</button><audio id="solo" preload="none"></audio></div><section aria-label="Music choices"><!-- CARDS --></section></div>
+<footer>Music selections are previews; the finished ads are unchanged. Tracks sourced from <a href="https://mixkit.co/free-stock-music/tag/corporate/">Mixkit</a> under its <a href="https://mixkit.co/license/#musicFree">Stock Music Free License</a>.</footer>
+</main><script>
+const player=document.querySelector('#player'),solo=document.querySelector('#solo'),now=document.querySelector('#now'),status=document.querySelector('#status');
+const choices=[...document.querySelectorAll('.choose')];let request=0;
+choices[0].setAttribute('aria-pressed','true');
+choices.forEach(button=>button.addEventListener('click',()=>{
+ const id=++request,position=player.paused||player.ended?0:player.currentTime;
+ solo.pause();player.pause();now.textContent=button.dataset.label;status.textContent='Playing with the ad';
+ choices.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
+ player.src=button.dataset.video;player.onloadedmetadata=()=>{if(id!==request)return;player.currentTime=Math.min(position,player.duration-.1);player.play().catch(()=>status.textContent='Press play to listen.');};player.load();
+}));
+document.querySelectorAll('.solo').forEach(button=>button.addEventListener('click',()=>{
+ ++request;player.onloadedmetadata=null;player.pause();solo.pause();solo.src=button.dataset.audio;
+ status.textContent='Music alone · raised for easy listening';
+ now.textContent=button.closest('article').querySelector('h2').textContent;
+ solo.play().catch(()=>status.textContent='Could not play audio; use Play with ad.');
+}));
+document.querySelector('#stop').addEventListener('click',()=>{++request;player.onloadedmetadata=null;player.pause();solo.pause();status.textContent='Stopped';});
+player.addEventListener('play',()=>solo.pause());
+player.addEventListener('error',()=>status.textContent='Open the MP4 directly from the neighboring output folder.');
+document.addEventListener('keydown',event=>{if(event.altKey||event.ctrlKey||event.metaKey)return;const i=Number(event.key);if(/^[0-3]$/.test(event.key)&&choices[i])choices[i].click();});
+</script></body></html>

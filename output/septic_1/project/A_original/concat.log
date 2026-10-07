@@ -1,0 +1,31 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x238977c0] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/septic_1/project/A_original/shots.ffconcat':
+  Duration: N/A, start: 0.000000, bitrate: 4407 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 4407 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Output #0, mp4, to '/home/adani/.cache/brix-video/pictures/11936663fa26c45f3cb393af.partial.mp4':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 4407 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x77364800fa80] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x77364800cd80] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x773648010540] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7736485cc480] Auto-inserting h264_mp4toannexb bitstream filter
+[in#0/concat @ 0x2388bb40] New (null) stream with index 1 at pos:48 and DTS:2.429156s
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x773648016ec0] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7736480184c0] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x77364862d100] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7736485cee40] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7736485cf4c0] Auto-inserting h264_mp4toannexb bitstream filter
+[out#0/mp4 @ 0x238d0180] video:32340KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.045132%
+size=   32355KiB time=00:00:38.13 bitrate=6950.6kbits/s speed= 103x    

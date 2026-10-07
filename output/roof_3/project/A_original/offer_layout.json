@@ -1,0 +1,63 @@
+{
+  "style": "glass",
+  "start": 13.42,
+  "end": 20.98,
+  "bounds": [
+    72,
+    290,
+    936,
+    578
+  ],
+  "radius": 30,
+  "border_width": 3,
+  "blur_sigma": 24,
+  "tint_color": "#061c2b",
+  "tint_opacity": 0.55,
+  "fade_ms": 150,
+  "rows": [
+    {
+      "number": "01",
+      "text": "Website built + hosted",
+      "start": 13.42,
+      "end": 20.98,
+      "number_x": 112,
+      "text_x": 184,
+      "y": 556,
+      "font_size": 40,
+      "max_width": 784
+    },
+    {
+      "number": "02",
+      "text": "Help getting found on Google",
+      "start": 14.88,
+      "end": 20.98,
+      "number_x": 112,
+      "text_x": 184,
+      "y": 632,
+      "font_size": 40,
+      "max_width": 784
+    },
+    {
+      "number": "03",
+      "text": "Active Google Business Profile",
+      "start": 16.34,
+      "end": 20.98,
+      "number_x": 112,
+      "text_x": 184,
+      "y": 708,
+      "font_size": 40,
+      "max_width": 784
+    },
+    {
+      "number": "04",
+      "text": "More customer reviews",
+      "start": 18.34,
+      "end": 20.98,
+      "number_x": 112,
+      "text_x": 184,
+      "y": 784,
+      "font_size": 40,
+      "max_width": 784
+    }
+  ]
+}

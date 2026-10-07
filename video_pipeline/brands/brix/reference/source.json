@@ -1,0 +1,9 @@
+{
+  "url": "https://brixstrategies.com/",
+  "checked": "2026-09-25",
+  "stylesheets": [
+    "https://brixstrategies.com/_app/immutable/assets/0.DnkPnH-z.css",
+    "https://brixstrategies.com/_app/immutable/assets/21.CEuD2_OM.css"
+  ],
+  "notes": "Palette and type families extracted from site CSS. Logo comes from the supplied misc_assets/brix-svg1.png. The site uses Manrope weight 620 for headlines; video uses the static 600 weight for consistent renderer support."
+}

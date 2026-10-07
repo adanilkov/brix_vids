@@ -1,0 +1,9 @@
+{
+  "provider": "Mixkit",
+  "license": "Stock Music Free License",
+  "license_url": "https://mixkit.co/license/#musicFree",
+  "usage_reference": "https://mixkit.co/free-stock-music/",
+  "checked_on": "2026-09-26",
+  "provider_faq_summary": "The provider lists social media and online advertisements as permitted uses. Attribution is appreciated but not required. CDs, DVDs, video games, television and radio broadcasts are excluded.",
+  "track_provenance": "See each music/tracks/<id>/source.json for source URL and download hash."
+}

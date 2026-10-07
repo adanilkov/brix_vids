@@ -1,0 +1,150 @@
+{
+  "id": "BRIX_Plumbing_02_LocalCalls_4x5_A_Original",
+  "niche": "plumbers",
+  "brand": "video_pipeline/brands/brix/brand.json",
+  "audio": "voiceover/plumbing/Plumbing Script 2 Audio.wav",
+  "transcript": "transcripts/plumbing/prepared/plumbing_2.txt",
+  "catalog": "video_pipeline/catalogs/plumbing.json",
+  "output": "output/plumbing_2/output/BRIX_Plumbing_02_LocalCalls_4x5_A_Original.mp4",
+  "end_hold": 1.03,
+  "alignment": {
+    "words": "video_pipeline/alignments/plumbing_2.words.json"
+  },
+  "shot_selection": {
+    "seconds_per_shot": 3.6,
+    "seed": "plumbing_2"
+  },
+  "music": {
+    "mode": "synth",
+    "level_db": -37,
+    "gain": 0.8,
+    "profile": "original"
+  },
+  "creative": {
+    "cta": {
+      "start": {
+        "phrase": "Tap below"
+      },
+      "lines": [
+        "Get found.",
+        "Get more calls."
+      ],
+      "prompt": "Tap to learn more"
+    },
+    "offer": {
+      "start": {
+        "phrase": "Brix will get"
+      },
+      "end": {
+        "phrase": "No ad spend"
+      },
+      "eyebrow": "LOCAL VISIBILITY. MORE CALLS.",
+      "price": "$297",
+      "period": "/ month",
+      "benefits": [
+        {
+          "start": {
+            "phrase": "Brix will get"
+          },
+          "text": "Get found on Google"
+        },
+        {
+          "start": {
+            "phrase": "more five star"
+          },
+          "text": "More five-star reviews"
+        },
+        {
+          "start": {
+            "phrase": "a brand new website"
+          },
+          "text": "A professional new website"
+        }
+      ]
+    },
+    "reassurance": {
+      "end": {
+        "phrase": "Tap below",
+        "offset": -0.08
+      },
+      "items": [
+        {
+          "start": {
+            "phrase": "No ad spend"
+          },
+          "text": "No ad spend."
+        },
+        {
+          "start": {
+            "phrase": "no buying leads"
+          },
+          "text": "No buying leads."
+        },
+        {
+          "start": {
+            "phrase": "no contract"
+          },
+          "text": "No contract."
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "clip": "355305960",
+      "start": 0.0,
+      "end": 3.966666666666667,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.37,
+        0.5
+      ]
+    },
+    {
+      "clip": "337778096",
+      "start": 3.966666666666667,
+      "end": 7.9,
+      "source_in": 0.6,
+      "speed": 1.0,
+      "crop_center": [
+        0.43,
+        0.5
+      ]
+    },
+    {
+      "clip": "352810684",
+      "start": 7.9,
+      "end": 11.766666666666667,
+      "source_in": 3.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "337778098",
+      "start": 11.766666666666667,
+      "end": 16.0,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "352740177",
+      "start": 16.0,
+      "end": "end",
+      "source_in": 2.0,
+      "speed": 0.9,
+      "crop_center": [
+        0.62,
+        0.5
+      ]
+    }
+  ],
+  "artifact_version": "A_original"
+}

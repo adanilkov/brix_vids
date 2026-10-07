@@ -1,0 +1,122 @@
+{
+  "name": "Brix Strategies",
+  "source_url": "https://brixstrategies.com/",
+  "source_checked": "2026-09-25",
+  "logo": "misc_assets/image.png",
+  "website_label": "brixstrategies.com",
+  "colors": {
+    "ink": "#061c2b",
+    "ink_soft": "#173546",
+    "accent": "#e85816",
+    "sage": "#78998f",
+    "paper": "#f7f4ed",
+    "cream": "#eee9de",
+    "white": "#fffefa",
+    "muted": "#60717a",
+    "line": "#d7d8d4"
+  },
+  "fonts": {
+    "heading": "fonts/Manrope-SemiBold.ttf",
+    "caption": "fonts/Manrope-ExtraBold.ttf",
+    "body": "fonts/DMSans-Medium.ttf",
+    "label": "fonts/DMSans-Bold.ttf"
+  },
+  "layout": {
+    "offer_card": {
+      "style": "glass",
+      "x": 72,
+      "y": 290,
+      "width": 936,
+      "radius": 30,
+      "border_width": 3,
+      "blur_sigma": 24,
+      "tint_color": "ink",
+      "tint_opacity": 0.55,
+      "row_top": 266,
+      "row_gap": 76,
+      "row_font_size": 40,
+      "row_height": 54,
+      "bottom_padding": 30,
+      "fade_ms": 150,
+      "eyebrow_y": 24,
+      "eyebrow_size": 24,
+      "price_y": 62,
+      "price_size": 100,
+      "period_y": 126,
+      "period_size": 32,
+      "divider_y": 198,
+      "included_y": 222
+    },
+    "header": {
+      "logo_mode": "image",
+      "background": "#000000",
+      "height": 252,
+      "headline": {
+        "lines": [
+          "{niche}:",
+          "RANK #1 ON GOOGLE LOCALY"
+        ],
+        "top": 100,
+        "content_height": 138,
+        "font_size": 64,
+        "min_font_size": 40,
+        "font_role": "caption",
+        "text_color": "white",
+        "highlight_text": "#1",
+        "highlight_color": "accent",
+        "max_width": 936,
+        "line_gap": 10
+      },
+      "top": 22,
+      "mark_height": 70
+    },
+    "cta": {
+      "center_x": 540,
+      "headline_y": 560,
+      "line_gap": 100,
+      "font_size": 78,
+      "prompt_y": 790,
+      "prompt_size": 42,
+      "outline": 2.5,
+      "shadow": 2,
+      "chevron": {
+        "center_x": 540,
+        "top": 864,
+        "width": 96,
+        "height": 40,
+        "thickness": 12,
+        "travel": 16,
+        "period": 1.8,
+        "color": "accent"
+      }
+    },
+    "reassurance": {
+      "x": 72,
+      "y": 290,
+      "width": 936,
+      "height": 340,
+      "row_top": 34,
+      "row_gap": 92,
+      "font_size": 42
+    }
+  },
+  "captions": {
+    "size": 68,
+    "max_width": 840,
+    "center_x": 540,
+    "center_y": 1120,
+    "max_words": 6,
+    "max_seconds": 2.5,
+    "outline": 3.6
+  },
+  "video": {
+    "width": 1080,
+    "height": 1350,
+    "fps": 30,
+    "grade": {
+      "contrast": 1.025,
+      "saturation": 1.03,
+      "brightness": -0.008
+    }
+  }
+}

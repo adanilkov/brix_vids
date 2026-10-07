@@ -1,0 +1,21 @@
+{
+  "source_job": "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/video_pipeline/jobs/plumbing_1/A_original.json",
+  "source_export": "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_1/output/BRIX_Plumbing_01_LocalCalls_4x5_A_Original.mp4",
+  "source_fingerprint": {
+    "size": 6980699,
+    "sha256": "1f530a393f4ee463011fd8380afa584b933e02b8f695054e6b9898bcf49100e1"
+  },
+  "video_packets": {
+    "packets": 660,
+    "sha256": "2b4875c9ec077e3bf01cf8abba96edae5a0af8714d9615ddba360a83f1a27ba5"
+  },
+  "video_packets_unchanged": true,
+  "music": {
+    "mode": "file",
+    "file": "music/tracks/02_relaxed_groove/source.mp3",
+    "lufs": -30,
+    "gain": 0.8,
+    "profile": "relaxed_groove"
+  },
+  "narration_filter": "highpass=f=75,loudnorm=I=-16:TP=-1.5:LRA=7:measured_I=-23.90:measured_TP=-8.42:measured_LRA=1.90:measured_thresh=-34.52:offset=-0.00:linear=true"
+}

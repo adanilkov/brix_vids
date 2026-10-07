@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "duration": 35.933333,
+    "has_audio": true,
+    "has_video": true,
+    "width": 1080,
+    "height": 1350,
+    "fps": 30.0,
+    "frames": 1078,
+    "rotation": 0,
+    "codec": "h264",
+    "sample_rate": 48000,
+    "channels": 2
+  },
+  "integrated_lufs": -16.06,
+  "true_peak_dbtp": -3.05,
+  "black_intervals": [],
+  "decoded_without_error": true,
+  "caption_layout_checked": true
+}

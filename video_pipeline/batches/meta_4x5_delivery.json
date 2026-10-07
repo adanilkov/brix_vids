@@ -1,0 +1,723 @@
+{
+  "status": "complete",
+  "destination": "/mnt/c/Users/adani/Videos/Brix Ads/output",
+  "ads": [
+    {
+      "ad": "plumbing_1",
+      "exports": [
+        {
+          "file": "plumbing_1/output/BRIX_Plumbing_01_LocalCalls_4x5_A_Original.mp4",
+          "size": 6980699,
+          "sha256": "1f530a393f4ee463011fd8380afa584b933e02b8f695054e6b9898bcf49100e1",
+          "quality": {
+            "metadata": {
+              "duration": 22.0,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 660,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.06,
+            "true_peak_dbtp": -4.25,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "plumbing_1/output/BRIX_Plumbing_01_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 7010157,
+          "sha256": "5cade8030732e541cf80c87f54a99dce202b66c7ae89f6dd0a434344461abc9d",
+          "quality": {
+            "metadata": {
+              "duration": 22.0,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 660,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -15.99,
+            "true_peak_dbtp": -4.01,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "plumbing_2",
+      "exports": [
+        {
+          "file": "plumbing_2/output/BRIX_Plumbing_02_LocalCalls_4x5_A_Original.mp4",
+          "size": 6239630,
+          "sha256": "5603f86b71d627ef0974d3691da28db71b12c331e60be1dd38293fa5396efc85",
+          "quality": {
+            "metadata": {
+              "duration": 19.866667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 596,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.06,
+            "true_peak_dbtp": -4.24,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "plumbing_2/output/BRIX_Plumbing_02_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 6269463,
+          "sha256": "fd68e976f191b0c0deb1d991ccfa887ad8276ba5657cd32bd044d590b5983bed",
+          "quality": {
+            "metadata": {
+              "duration": 19.866667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 596,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.06,
+            "true_peak_dbtp": -3.49,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "plumbing_3",
+      "exports": [
+        {
+          "file": "plumbing_3/output/BRIX_Plumbing_03_LocalCalls_4x5_A_Original.mp4",
+          "size": 10121579,
+          "sha256": "71c3f3a7aabc8a37e2553b099c1eb7f084c74bb034e35d39981d6e00beaf00cb",
+          "quality": {
+            "metadata": {
+              "duration": 30.733333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 922,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.16,
+            "true_peak_dbtp": -4.09,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "plumbing_3/output/BRIX_Plumbing_03_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 10170383,
+          "sha256": "27163b52fda3b8884f9bde4f979955972ca979b8dd3439960cd27838f73bcd79",
+          "quality": {
+            "metadata": {
+              "duration": 30.733333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 922,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.07,
+            "true_peak_dbtp": -3.19,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "plumbing_4",
+      "exports": [
+        {
+          "file": "plumbing_4/output/BRIX_Plumbing_04_LocalCalls_4x5_A_Original.mp4",
+          "size": 6617244,
+          "sha256": "4779ca9eb9c43fa76522e166ddf9ca334ed34e3dba4931f4be2b5feccc1a8e40",
+          "quality": {
+            "metadata": {
+              "duration": 23.166667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 695,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.05,
+            "true_peak_dbtp": -4.15,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "plumbing_4/output/BRIX_Plumbing_04_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 6655773,
+          "sha256": "ca5bfb979f90b81a7c7f48b3ea79cdbb68fce10e6d66a974cdb946edbe2d7a69",
+          "quality": {
+            "metadata": {
+              "duration": 23.166667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 695,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -15.98,
+            "true_peak_dbtp": -4.03,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "roof_1",
+      "exports": [
+        {
+          "file": "roof_1/output/BRIX_Roofing_01_LocalCalls_4x5_A_Original.mp4",
+          "size": 19228051,
+          "sha256": "f74a78cc0e93803fbd4914fa2ac747a0f38b28ed5227394e0ee5e8badb34dc1e",
+          "quality": {
+            "metadata": {
+              "duration": 36.9,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1107,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.42,
+            "true_peak_dbtp": -4.0,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "roof_1/output/BRIX_Roofing_01_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 19270098,
+          "sha256": "b1529bd716d891a26449e863a4a119ba1c738fa369324988b8f12425727e556a",
+          "quality": {
+            "metadata": {
+              "duration": 36.9,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1107,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.3,
+            "true_peak_dbtp": -3.25,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "roof_2",
+      "exports": [
+        {
+          "file": "roof_2/output/BRIX_Roofing_02_LocalCalls_4x5_A_Original.mp4",
+          "size": 18391328,
+          "sha256": "91a9b673076b4b633f45843b1c1666c8745b38ee1ad6c098e80c1c076a72e6fa",
+          "quality": {
+            "metadata": {
+              "duration": 32.633333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 979,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.04,
+            "true_peak_dbtp": -4.77,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "roof_2/output/BRIX_Roofing_02_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 18430563,
+          "sha256": "b54086e259cc53dc385f2043392762f22fc53e6bda30eb6c28d1aab79c3588ee",
+          "quality": {
+            "metadata": {
+              "duration": 32.633333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 979,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -15.94,
+            "true_peak_dbtp": -4.39,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "septic_1",
+      "exports": [
+        {
+          "file": "septic_1/output/BRIX_Septic_01_LocalCalls_4x5_A_Original.mp4",
+          "size": 19474360,
+          "sha256": "1d09c3fdd83264cade5502b2e4e9e98470ec32a02a6831553577e97bfc45bacf",
+          "quality": {
+            "metadata": {
+              "duration": 38.2,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1146,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.11,
+            "true_peak_dbtp": -4.25,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "septic_1/output/BRIX_Septic_01_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 19536053,
+          "sha256": "26537f1dc6561e64e1af65fdd748cfdde1829b0fa5c9c0911e16f04a2befbbbc",
+          "quality": {
+            "metadata": {
+              "duration": 38.2,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1146,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.09,
+            "true_peak_dbtp": -3.85,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "septic_2",
+      "exports": [
+        {
+          "file": "septic_2/output/BRIX_Septic_02_LocalCalls_4x5_A_Original.mp4",
+          "size": 16784520,
+          "sha256": "3e80de8188745eb6e874cc170ecce8e84afeefcd220076554e125d659346796e",
+          "quality": {
+            "metadata": {
+              "duration": 32.533333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 976,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.15,
+            "true_peak_dbtp": -4.14,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "septic_2/output/BRIX_Septic_02_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 16838394,
+          "sha256": "cf04a764c8b4fc7afa71c741001cc43bf64d84cc131e4bae7ad7e20f5a46a2af",
+          "quality": {
+            "metadata": {
+              "duration": 32.533333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 976,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.09,
+            "true_peak_dbtp": -3.61,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "septic_3",
+      "exports": [
+        {
+          "file": "septic_3/output/BRIX_Septic_03_LocalCalls_4x5_A_Original.mp4",
+          "size": 20446812,
+          "sha256": "2c54fce197020797da33912a23b90dfbb8c8014725af94c07407fdb4d203c67d",
+          "quality": {
+            "metadata": {
+              "duration": 39.566667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1187,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.01,
+            "true_peak_dbtp": -4.13,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "septic_3/output/BRIX_Septic_03_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 20504255,
+          "sha256": "a966e7edf49b5cb738c532f162322260f249d13502889bdaa1705fa2687a42c3",
+          "quality": {
+            "metadata": {
+              "duration": 39.566667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1187,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -15.97,
+            "true_peak_dbtp": -3.46,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "septic_4",
+      "exports": [
+        {
+          "file": "septic_4/output/BRIX_Septic_04_LocalCalls_4x5_A_Original.mp4",
+          "size": 24848850,
+          "sha256": "35776efe2e590d2fcedb410191f25a05be8bf01d4f116b0ed64a42c37f5b167a",
+          "quality": {
+            "metadata": {
+              "duration": 40.466667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1214,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.12,
+            "true_peak_dbtp": -4.13,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "septic_4/output/BRIX_Septic_04_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 24914936,
+          "sha256": "1d43f04cdba5743febee1480662aefb8ad8feb44b312ddcc377807e7e66afdc4",
+          "quality": {
+            "metadata": {
+              "duration": 40.466667,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1214,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.07,
+            "true_peak_dbtp": -2.72,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "septic_5",
+      "exports": [
+        {
+          "file": "septic_5/output/BRIX_Septic_05_LocalCalls_4x5_A_Original.mp4",
+          "size": 19846430,
+          "sha256": "401b1439c133a78874f30580b08bed9054216d0e4abc68dbd9ae15436aebdda2",
+          "quality": {
+            "metadata": {
+              "duration": 35.2,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1056,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.07,
+            "true_peak_dbtp": -4.24,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "septic_5/output/BRIX_Septic_05_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 19889982,
+          "sha256": "14bdc29afa530622cae9f1a4b3027b670fb22442569d433b098ba271dec8ab95",
+          "quality": {
+            "metadata": {
+              "duration": 35.2,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1056,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -15.98,
+            "true_peak_dbtp": -3.89,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    },
+    {
+      "ad": "roof_3",
+      "exports": [
+        {
+          "file": "roof_3/output/BRIX_Roofing_03_LocalCalls_4x5_A_Original.mp4",
+          "size": 16212077,
+          "sha256": "06cebaf2ab42bc32d29b3e86578d69c77546d556e76fee09c68574ec0750b62b",
+          "quality": {
+            "metadata": {
+              "duration": 35.933333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1078,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.15,
+            "true_peak_dbtp": -4.02,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        },
+        {
+          "file": "roof_3/output/BRIX_Roofing_03_LocalCalls_4x5_B_Curiosity.mp4",
+          "size": 16247865,
+          "sha256": "30c0f6513abbaa009daca33db9e82c86d431f60c66bf874c74a6a4720fbd24f9",
+          "quality": {
+            "metadata": {
+              "duration": 35.933333,
+              "has_audio": true,
+              "has_video": true,
+              "width": 1080,
+              "height": 1350,
+              "fps": 30.0,
+              "frames": 1078,
+              "rotation": 0,
+              "codec": "h264",
+              "sample_rate": 48000,
+              "channels": 2
+            },
+            "integrated_lufs": -16.06,
+            "true_peak_dbtp": -3.05,
+            "black_intervals": [],
+            "decoded_without_error": true,
+            "caption_layout_checked": true
+          }
+        }
+      ],
+      "video_packets_identical": true
+    }
+  ],
+  "files_copied_and_verified": 811,
+  "updated_utc": "2026-09-28T20:57:38.251103+00:00",
+  "ad_folder_count": 12,
+  "finished_exports_per_ad": 2,
+  "total_exports": 24,
+  "complete_mirror_file_count": 874,
+  "tests_passed": 30,
+  "visual_review_passed": true,
+  "obsolete_entries_removed": 873,
+  "completed_utc": "2026-09-28T21:00:47.573444+00:00",
+  "all_outputs": {
+    "folders": [
+      "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/all_outputs",
+      "/mnt/c/Users/adani/Videos/Brix Ads/output/all_outputs"
+    ],
+    "files": [
+      "BRIX_Plumbing_01_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Plumbing_01_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Plumbing_02_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Plumbing_02_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Plumbing_03_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Plumbing_03_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Plumbing_04_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Plumbing_04_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Roofing_01_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Roofing_01_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Roofing_02_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Roofing_02_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Septic_01_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Septic_01_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Septic_02_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Septic_02_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Septic_03_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Septic_03_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Septic_04_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Septic_04_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Septic_05_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Septic_05_LocalCalls_4x5_B_Curiosity.mp4",
+      "BRIX_Roofing_03_LocalCalls_4x5_A_Original.mp4",
+      "BRIX_Roofing_03_LocalCalls_4x5_B_Curiosity.mp4"
+    ],
+    "copies_per_folder": 24,
+    "hash_verified": true,
+    "created_utc": "2026-09-28T21:41:11.364334+00:00"
+  }
+}

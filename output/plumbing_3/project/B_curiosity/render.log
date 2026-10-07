@@ -1,0 +1,61 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_3/output/BRIX_Plumbing_03_LocalCalls_4x5_A_Original.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Plumbing_03_LocalCalls_4x5_A_Original
+    encoder         : Lavf61.1.100
+  Duration: 00:00:30.73, start: 0.000000, bitrate: 2634 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 2433 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 191 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+[aist#1:0/pcm_s16le @ 0x3cdc73c0] Guessed Channel Layout: mono
+Input #1, wav, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/voiceover/plumbing/Plumbing Script 3 Audio.wav':
+  Metadata:
+    title           : Plumbing Script 3
+    encoder         : Lavf60.3.100
+    encoded_by      : Descript
+  Duration: 00:00:29.68, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, mono, s16, 705 kb/s
+Input #2, mp3, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/music/tracks/02_relaxed_groove/source.mp3':
+  Duration: 00:01:40.18, start: 0.025057, bitrate: 288 kb/s
+  Stream #2:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 288 kb/s
+      Metadata:
+        encoder         : LAME3.99r
+Stream mapping:
+  Stream #1:0 (pcm_s16le) -> highpass:default
+  Stream #2:0 (mp3float) -> loudnorm:default
+  Stream #0:0 -> #0:0 (copy)
+  alimiter:default -> Stream #0:1 (aac)
+Press [q] to stop, [?] for help
+Output #0, mp4, to '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/plumbing_3/project/B_curiosity/export.partial.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Plumbing_03_LocalCalls_4x5_B_Curiosity
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 2433 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.3.100 aac
+size=     768KiB time=00:00:03.36 bitrate=1868.9kbits/s speed=6.59x    
+size=    2816KiB time=00:00:08.49 bitrate=2717.0kbits/s speed= 8.4x    
+size=    4864KiB time=00:00:13.65 bitrate=2918.4kbits/s speed=9.04x    
+size=    5888KiB time=00:00:17.96 bitrate=2685.3kbits/s speed=8.93x    
+size=    7680KiB time=00:00:22.74 bitrate=2766.5kbits/s speed=9.05x    
+size=    8704KiB time=00:00:26.73 bitrate=2667.5kbits/s speed=8.88x    
+[mp4 @ 0x3cd90740] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x3cd905c0] video:9131KiB audio:766KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.347869%
+size=    9932KiB time=00:00:30.66 bitrate=2653.1kbits/s speed=8.26x    
+[aac @ 0x3ce2cb80] Qavg: 538.484

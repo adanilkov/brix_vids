@@ -1,0 +1,52 @@
+{
+  "style": "glass",
+  "start": 9.1,
+  "end": 15.02,
+  "bounds": [
+    72,
+    290,
+    936,
+    502
+  ],
+  "radius": 30,
+  "border_width": 3,
+  "blur_sigma": 24,
+  "tint_color": "#061c2b",
+  "tint_opacity": 0.55,
+  "fade_ms": 150,
+  "rows": [
+    {
+      "number": "01",
+      "text": "A professional new website",
+      "start": 9.1,
+      "end": 15.02,
+      "number_x": 112,
+      "text_x": 184,
+      "y": 556,
+      "font_size": 40,
+      "max_width": 784
+    },
+    {
+      "number": "02",
+      "text": "Get found on Google",
+      "start": 11.22,
+      "end": 15.02,
+      "number_x": 112,
+      "text_x": 184,
+      "y": 632,
+      "font_size": 40,
+      "max_width": 784
+    },
+    {
+      "number": "03",
+      "text": "More five-star reviews",
+      "start": 12.74,
+      "end": 15.02,
+      "number_x": 112,
+      "text_x": 184,
+      "y": 708,
+      "font_size": 40,
+      "max_width": 784
+    }
+  ]
+}

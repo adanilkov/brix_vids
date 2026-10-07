@@ -1,0 +1,30 @@
+{
+  "start": 25.64,
+  "end": 30.733333333333334,
+  "lines": [
+    "Get found.",
+    "Get more calls."
+  ],
+  "prompt": "Tap to learn more",
+  "background": "transparent",
+  "layout": {
+    "center_x": 540,
+    "headline_y": 560,
+    "line_gap": 100,
+    "font_size": 78,
+    "prompt_y": 790,
+    "prompt_size": 42,
+    "outline": 2.5,
+    "shadow": 2,
+    "chevron": {
+      "center_x": 540,
+      "top": 864,
+      "width": 96,
+      "height": 40,
+      "thickness": 12,
+      "travel": 16,
+      "period": 1.8,
+      "color": "accent"
+    }
+  }
+}

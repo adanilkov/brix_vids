@@ -1,0 +1,21 @@
+{
+  "source_job": "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/video_pipeline/jobs/roof_1/A_original.json",
+  "source_export": "/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/roof_1/output/BRIX_Roofing_01_LocalCalls_4x5_A_Original.mp4",
+  "source_fingerprint": {
+    "size": 19228051,
+    "sha256": "f74a78cc0e93803fbd4914fa2ac747a0f38b28ed5227394e0ee5e8badb34dc1e"
+  },
+  "video_packets": {
+    "packets": 1107,
+    "sha256": "6305ee43bec2a2a952914ee55867facf5d626554b2b33ba7c90b28421a370d41"
+  },
+  "video_packets_unchanged": true,
+  "music": {
+    "mode": "file",
+    "file": "music/tracks/02_relaxed_groove/source.mp3",
+    "lufs": -30,
+    "gain": 0.8,
+    "profile": "relaxed_groove"
+  },
+  "narration_filter": "highpass=f=75,loudnorm=I=-16:TP=-1.5:LRA=7:measured_I=-24.58:measured_TP=-4.73:measured_LRA=2.30:measured_thresh=-34.75:offset=0.71:linear=true"
+}

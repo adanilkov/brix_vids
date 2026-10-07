@@ -1,0 +1,72 @@
+{
+  "name": "Septic stock footage",
+  "notes": "Visually reviewed at multiple source times. Portrait crops favor workers, equipment, and service activity. Unrelated or weak source footage is omitted; original files remain available.",
+  "clips": [
+    {
+      "id": "347093552",
+      "file": "stock_footage/septic/an-excavator-digs-a-trench-close-up-shot-SBV-347093552-HD.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.6,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close"
+    },
+    {
+      "id": "349172061",
+      "file": "stock_footage/septic/septic-tank-sewage-waste-management-pumping-and-cleaning-at-residence-house-service-SBV-349172061-HD.mp4",
+      "source_in": 0.3,
+      "crop_center": [
+        0.58,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close"
+    },
+    {
+      "id": "352469674",
+      "file": "stock_footage/septic/sewage-truck-pumping-sewer-from-house-4k-SBV-352469674-HD.mp4",
+      "source_in": 1.5,
+      "crop_center": [
+        0.47,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide"
+    },
+    {
+      "id": "348969062",
+      "file": "stock_footage/septic/slow-motion-of-pipe-tube-inside-view-of-water-cleaning-process-of-domestic-and-indu-SBV-348969062-HD.mp4",
+      "source_in": 1.5,
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "close"
+    },
+    {
+      "id": "septic_stock_7",
+      "file": "stock_footage/septic/videoblocks-106z_pllen_37_scmb8g475_1080__D.mp4",
+      "source_in": 1.0,
+      "crop_center": [
+        0.4,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide"
+    },
+    {
+      "id": "septic_stock_8",
+      "file": "stock_footage/septic/videoblocks-63d5d9464735983a1f15bea5_bens5e_2j_1080__D.mp4",
+      "source_in": 2.0,
+      "crop_center": [
+        0.51,
+        0.5
+      ],
+      "speed": 1.0,
+      "framing": "wide"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "script_adjustments_to_match_voiceover": [
+    [
+      "for $297",
+      "for just $297"
+    ],
+    [
+      "Google, more five",
+      "Google, get you more five"
+    ],
+    [
+      "and a brand new website",
+      "and build you a brand new website"
+    ]
+  ],
+  "removed_recognition_hallucinations": [
+    {
+      "word": "All",
+      "start": 18.38,
+      "end": 18.38,
+      "probability": 0.002
+    },
+    {
+      "word": "done",
+      "start": 18.38,
+      "end": 18.44,
+      "probability": 0.003
+    },
+    {
+      "word": "for",
+      "start": 18.44,
+      "end": 18.44,
+      "probability": 0.004
+    },
+    {
+      "word": "you.",
+      "start": 18.44,
+      "end": 18.56,
+      "probability": 0.382
+    },
+    {
+      "word": "Brix",
+      "start": 18.56,
+      "end": 18.78,
+      "probability": 0.002
+    }
+  ],
+  "timing_repairs": [
+    {
+      "word": "For",
+      "recognized": [
+        1.64,
+        1.64
+      ],
+      "reviewed": [
+        1.6,
+        1.64
+      ],
+      "basis": "speech onset in preceding pause, checked against waveform"
+    }
+  ],
+  "format_equivalences": [
+    {
+      "kind": "equivalent_number_format",
+      "recognized": [
+        "two",
+        "hundred",
+        "ninety-seven",
+        "dollars"
+      ],
+      "script": [
+        "$297"
+      ],
+      "note": "The full number span is timed by speech recognition; internal written-word times are interpolated. Captions keep the numeric token together."
+    }
+  ],
+  "source_recording": "kept in full",
+  "original_transcript": "transcripts/plumbing/plumbing_1-4.txt",
+  "script_number": 2,
+  "prepared_transcript": "transcripts/plumbing/prepared/plumbing_2.txt",
+  "normalization": "Whitespace and punctuation normalized for word matching; prices displayed as $297; Brix brand spelling preserved."
+}

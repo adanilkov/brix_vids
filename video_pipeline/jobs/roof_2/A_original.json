@@ -1,0 +1,189 @@
+{
+  "id": "BRIX_Roofing_02_LocalCalls_4x5_A_Original",
+  "niche": "roofers",
+  "brand": "video_pipeline/brands/brix/brand.json",
+  "audio": "voiceover/roofing/roof_2_audio.mp3",
+  "transcript": "transcripts/roofing/prepared/roof_2.txt",
+  "catalog": "video_pipeline/catalogs/roofing.json",
+  "output": "output/roof_2/output/BRIX_Roofing_02_LocalCalls_4x5_A_Original.mp4",
+  "end_hold": 1.03,
+  "alignment": {
+    "words": "video_pipeline/alignments/roof_2.words.json"
+  },
+  "shot_selection": {
+    "seconds_per_shot": 3.6,
+    "seed": "roof_2"
+  },
+  "music": {
+    "mode": "synth",
+    "level_db": -37,
+    "gain": 0.8,
+    "profile": "original"
+  },
+  "creative": {
+    "cta": {
+      "start": {
+        "phrase": "Tap below"
+      },
+      "lines": [
+        "Get found.",
+        "Get more calls."
+      ],
+      "prompt": "Tap to learn more"
+    },
+    "offer": {
+      "start": {
+        "phrase": "Brix builds"
+      },
+      "end": {
+        "phrase": "So when"
+      },
+      "eyebrow": "LOCAL VISIBILITY. MORE CALLS.",
+      "price": "$297",
+      "period": "/ month",
+      "benefits": [
+        {
+          "start": {
+            "phrase": "Brix builds"
+          },
+          "text": "Website built + hosted"
+        },
+        {
+          "start": {
+            "phrase": "helps you get"
+          },
+          "text": "Help getting found on Google"
+        },
+        {
+          "start": {
+            "phrase": "keeps your"
+          },
+          "text": "Active Google Business Profile"
+        },
+        {
+          "start": {
+            "phrase": "helps you collect"
+          },
+          "text": "More customer reviews"
+        }
+      ]
+    },
+    "reassurance": {
+      "end": {
+        "phrase": "Tap below",
+        "offset": -0.08
+      },
+      "items": [
+        {
+          "start": {
+            "phrase": "no ad spend"
+          },
+          "text": "No ad spend."
+        },
+        {
+          "start": {
+            "phrase": "no hidden fees"
+          },
+          "text": "No hidden fees."
+        },
+        {
+          "start": {
+            "phrase": "no long-term contract"
+          },
+          "text": "No long-term contract."
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "clip": "351702168",
+      "start": 0.0,
+      "end": 3.6,
+      "source_in": 22.0,
+      "speed": 0.85,
+      "crop_center": [
+        0.51,
+        0.5
+      ]
+    },
+    {
+      "clip": "300147144",
+      "start": 3.6,
+      "end": 6.866666666666666,
+      "source_in": 1.5,
+      "speed": 1.0,
+      "crop_center": [
+        0.36,
+        0.5
+      ]
+    },
+    {
+      "clip": "351715913",
+      "start": 6.866666666666666,
+      "end": 10.633333333333333,
+      "source_in": 5.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.52,
+        0.5
+      ]
+    },
+    {
+      "clip": "351715723",
+      "start": 10.633333333333333,
+      "end": 14.333333333333334,
+      "source_in": 6.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.69,
+        0.5
+      ]
+    },
+    {
+      "clip": "351715692",
+      "start": 14.333333333333334,
+      "end": 18.3,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "347283034",
+      "start": 18.3,
+      "end": 21.9,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.48,
+        0.5
+      ]
+    },
+    {
+      "clip": "347281438",
+      "start": 21.9,
+      "end": 26.3,
+      "source_in": 3.0,
+      "speed": 0.9,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "351702168",
+      "start": 26.3,
+      "end": "end",
+      "source_in": 22.0,
+      "speed": 0.9,
+      "crop_center": [
+        0.51,
+        0.5
+      ]
+    }
+  ],
+  "artifact_version": "A_original"
+}

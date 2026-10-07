@@ -1,0 +1,61 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/roof_2/output/BRIX_Roofing_02_LocalCalls_4x5_A_Original.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Roofing_02_LocalCalls_4x5_A_Original
+    encoder         : Lavf61.1.100
+  Duration: 00:00:32.63, start: 0.000000, bitrate: 4508 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 4306 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/voiceover/roofing/roof_2_audio.mp3':
+  Metadata:
+    encoded_by      : Descript
+    title           : roof_2_p2
+    encoder         : Lavf60.3.100
+  Duration: 00:00:31.63, start: 0.025057, bitrate: 128 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Input #2, mp3, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/music/tracks/02_relaxed_groove/source.mp3':
+  Duration: 00:01:40.18, start: 0.025057, bitrate: 288 kb/s
+  Stream #2:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 288 kb/s
+      Metadata:
+        encoder         : LAME3.99r
+Stream mapping:
+  Stream #1:0 (mp3float) -> highpass:default
+  Stream #2:0 (mp3float) -> loudnorm:default
+  Stream #0:0 -> #0:0 (copy)
+  alimiter:default -> Stream #0:1 (aac)
+Press [q] to stop, [?] for help
+Output #0, mp4, to '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/roof_2/project/B_curiosity/export.partial.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Roofing_02_LocalCalls_4x5_B_Curiosity
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 4306 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.3.100 aac
+size=    3328KiB time=00:00:03.73 bitrate=7302.7kbits/s speed=7.46x    
+size=    5632KiB time=00:00:08.93 bitrate=5161.6kbits/s speed=8.93x    
+size=    6400KiB time=00:00:13.84 bitrate=3786.8kbits/s speed=9.19x    
+size=    8960KiB time=00:00:18.17 bitrate=4038.3kbits/s speed=9.06x    
+size=   10240KiB time=00:00:22.60 bitrate=3711.8kbits/s speed=9.01x    
+size=   11264KiB time=00:00:25.64 bitrate=3598.5kbits/s speed=8.53x    
+size=   14080KiB time=00:00:28.62 bitrate=4028.9kbits/s speed=8.16x    
+[mp4 @ 0x25b0ea40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x25b09f00] video:17155KiB audio:807KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.203358%
+size=   17999KiB time=00:00:32.56 bitrate=4527.5kbits/s speed=7.33x    
+[aac @ 0x25b10a80] Qavg: 583.665

@@ -1,0 +1,230 @@
+{
+  "duration": 32.63333333333333,
+  "fps": 30,
+  "shots": [
+    {
+      "id": "351702168",
+      "file": "stock_footage/roofing/roofers-installing-a-new-roof-on-an-private-house-drone-wide-view-naperville-il-usa-SBV-351702168-HD.mp4",
+      "crop_center": [
+        0.51,
+        0.5
+      ],
+      "source_in": 22.0,
+      "speed": 0.85,
+      "framing": "wide",
+      "clip": "351702168",
+      "start": 0.0,
+      "end": 3.6,
+      "start_frame": 0,
+      "end_frame": 108,
+      "frames": 108,
+      "source_info": {
+        "duration": 28.361695,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 850,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "300147144",
+      "file": "stock_footage/roofing/worker-measures-with-tape-measure-SBV-300147144-HD.mp4",
+      "crop_center": [
+        0.36,
+        0.5
+      ],
+      "source_in": 1.5,
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "300147144",
+      "start": 3.6,
+      "end": 6.866666666666666,
+      "start_frame": 108,
+      "end_frame": 206,
+      "frames": 98,
+      "source_info": {
+        "duration": 13.480147,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 404,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "351715913",
+      "file": "stock_footage/roofing/element-of-roofers-installing-a-new-roof-on-an-building-drone-shot-SBV-351715913-HD.mp4",
+      "crop_center": [
+        0.52,
+        0.5
+      ],
+      "source_in": 5.0,
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "351715913",
+      "start": 6.866666666666666,
+      "end": 10.633333333333333,
+      "start_frame": 206,
+      "end_frame": 319,
+      "frames": 113,
+      "source_info": {
+        "duration": 24.224224,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 726,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "351715723",
+      "file": "stock_footage/roofing/roofer-installing-a-new-roof-on-an-house-work-elements-naperville-il-usa-2-sept-202-SBV-351715723-HD.mp4",
+      "crop_center": [
+        0.69,
+        0.5
+      ],
+      "source_in": 6.0,
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "351715723",
+      "start": 10.633333333333333,
+      "end": 14.333333333333334,
+      "start_frame": 319,
+      "end_frame": 430,
+      "frames": 111,
+      "source_info": {
+        "duration": 14.614615,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 438,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "351715692",
+      "file": "stock_footage/roofing/roofers-installing-a-new-roof-aerial-wide-view-naperville-il-usa-2-sept-2024-SBV-351715692-HD.mp4",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "source_in": 1.0,
+      "speed": 1.0,
+      "framing": "wide",
+      "clip": "351715692",
+      "start": 14.333333333333334,
+      "end": 18.3,
+      "start_frame": 430,
+      "end_frame": 549,
+      "frames": 119,
+      "source_info": {
+        "duration": 14.381048,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 431,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "347283034",
+      "file": "stock_footage/roofing/close-up-shot-footage-roofer-repair-or-replace-shingle-that-has-been-damaged-and-ne-SBV-347283034-HD.mp4",
+      "crop_center": [
+        0.48,
+        0.5
+      ],
+      "source_in": 2.0,
+      "speed": 1.0,
+      "framing": "close",
+      "clip": "347283034",
+      "start": 18.3,
+      "end": 21.9,
+      "start_frame": 549,
+      "end_frame": 657,
+      "frames": 108,
+      "source_info": {
+        "duration": 9.876543,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 296,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "347281438",
+      "file": "stock_footage/roofing/wide-aerial-footage-of-roofer-repair-or-replace-shingle-that-has-been-damaged-and-n-SBV-347281438-4K.mp4",
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "source_in": 3.0,
+      "speed": 0.9,
+      "framing": "wide",
+      "clip": "347281438",
+      "start": 21.9,
+      "end": 26.3,
+      "start_frame": 657,
+      "end_frame": 789,
+      "frames": 132,
+      "source_info": {
+        "duration": 26.826827,
+        "has_audio": false,
+        "has_video": true,
+        "width": 3840,
+        "height": 2160,
+        "fps": 29.97,
+        "frames": 804,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    },
+    {
+      "id": "351702168",
+      "file": "stock_footage/roofing/roofers-installing-a-new-roof-on-an-private-house-drone-wide-view-naperville-il-usa-SBV-351702168-HD.mp4",
+      "crop_center": [
+        0.51,
+        0.5
+      ],
+      "source_in": 22.0,
+      "speed": 0.9,
+      "framing": "wide",
+      "clip": "351702168",
+      "start": 26.3,
+      "end": 32.63333333333333,
+      "start_frame": 789,
+      "end_frame": 979,
+      "frames": 190,
+      "source_info": {
+        "duration": 28.361695,
+        "has_audio": false,
+        "has_video": true,
+        "width": 1920,
+        "height": 1080,
+        "fps": 29.97,
+        "frames": 850,
+        "rotation": 0,
+        "codec": "h264"
+      }
+    }
+  ]
+}

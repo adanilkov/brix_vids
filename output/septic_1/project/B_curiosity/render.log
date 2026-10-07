@@ -1,0 +1,64 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/septic_1/output/BRIX_Septic_01_LocalCalls_4x5_A_Original.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Septic_01_LocalCalls_4x5_A_Original
+    encoder         : Lavf61.1.100
+  Duration: 00:00:38.20, start: 0.000000, bitrate: 4078 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 3877 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+[aist#1:0/pcm_s16le @ 0xc15be80] Guessed Channel Layout: mono
+Input #1, wav, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/voiceover/septic/Septic Script 1 Audio.wav':
+  Metadata:
+    title           : Septic Script 1
+    encoder         : Lavf60.3.100
+    encoded_by      : Descript
+  Duration: 00:00:37.15, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, mono, s16, 705 kb/s
+Input #2, mp3, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/music/tracks/02_relaxed_groove/source.mp3':
+  Duration: 00:01:40.18, start: 0.025057, bitrate: 288 kb/s
+  Stream #2:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 288 kb/s
+      Metadata:
+        encoder         : LAME3.99r
+Stream mapping:
+  Stream #1:0 (pcm_s16le) -> highpass:default
+  Stream #2:0 (mp3float) -> loudnorm:default
+  Stream #0:0 -> #0:0 (copy)
+  alimiter:default -> Stream #0:1 (aac)
+Press [q] to stop, [?] for help
+Output #0, mp4, to '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/septic_1/project/B_curiosity/export.partial.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Brix Strategies | BRIX_Septic_01_LocalCalls_4x5_B_Curiosity
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 3877 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.3.100 aac
+size=    1024KiB time=00:00:02.47 bitrate=3389.9kbits/s speed=4.95x    
+size=    3584KiB time=00:00:06.42 bitrate=4572.3kbits/s speed=6.41x    
+size=    5120KiB time=00:00:09.92 bitrate=4228.2kbits/s speed=6.61x    
+size=    8704KiB time=00:00:14.74 bitrate=4837.0kbits/s speed=7.37x    
+size=   10496KiB time=00:00:17.16 bitrate=5008.8kbits/s speed=6.86x    
+size=   12288KiB time=00:00:20.94 bitrate=4805.1kbits/s speed=6.98x    
+size=   13824KiB time=00:00:25.25 bitrate=4483.5kbits/s speed=7.21x    
+size=   15872KiB time=00:00:30.52 bitrate=4259.2kbits/s speed=7.63x    
+size=   17408KiB time=00:00:34.19 bitrate=4170.1kbits/s speed=7.59x    
+[mp4 @ 0xc183b00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0xc1a2300] video:18079KiB audio:957KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.222992%
+size=   19078KiB time=00:00:38.13 bitrate=4098.5kbits/s speed=6.62x    
+[aac @ 0xc1935c0] Qavg: 582.341

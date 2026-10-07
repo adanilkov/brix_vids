@@ -1,0 +1,37 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x42e84b80] Auto-inserting h264_mp4toannexb bitstream filter
+[concat @ 0x42e78ec0] Could not find codec parameters for stream 1 (Unknown: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, concat, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/septic_4/project/A_original/shots.ffconcat':
+  Duration: N/A, start: 0.000000, bitrate: 12370 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 12370 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+        timecode        : 00:00:00:00
+  Stream #0:1: Unknown: none
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Output #0, mp4, to '/home/adani/.cache/brix-video/pictures/252986fe180dc624f396674e.partial.mp4':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 12370 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+        timecode        : 00:00:00:00
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90002d00] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90003940] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90262a40] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90013100] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90638ac0] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90263840] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90636280] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef906331c0] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90636fc0] Auto-inserting h264_mp4toannexb bitstream filter
+size=   38656KiB time=00:00:35.83 bitrate=8837.3kbits/s speed=71.6x    
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x73ef90634040] Auto-inserting h264_mp4toannexb bitstream filter
+[out#0/mp4 @ 0x42ebd580] video:41542KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.038330%
+size=   41557KiB time=00:00:40.40 bitrate=8426.7kbits/s speed=76.5x    

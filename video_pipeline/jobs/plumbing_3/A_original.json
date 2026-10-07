@@ -1,0 +1,184 @@
+{
+  "id": "BRIX_Plumbing_03_LocalCalls_4x5_A_Original",
+  "niche": "plumbers",
+  "brand": "video_pipeline/brands/brix/brand.json",
+  "audio": "voiceover/plumbing/Plumbing Script 3 Audio.wav",
+  "transcript": "transcripts/plumbing/prepared/plumbing_3.txt",
+  "catalog": "video_pipeline/catalogs/plumbing.json",
+  "output": "output/plumbing_3/output/BRIX_Plumbing_03_LocalCalls_4x5_A_Original.mp4",
+  "end_hold": 1.03,
+  "alignment": {
+    "words": "video_pipeline/alignments/plumbing_3.words.json"
+  },
+  "shot_selection": {
+    "seconds_per_shot": 3.6,
+    "seed": "plumbing_3"
+  },
+  "music": {
+    "mode": "synth",
+    "level_db": -37,
+    "gain": 0.8,
+    "profile": "original"
+  },
+  "creative": {
+    "cta": {
+      "start": {
+        "phrase": "Tap below"
+      },
+      "lines": [
+        "Get found.",
+        "Get more calls."
+      ],
+      "prompt": "Tap to learn more"
+    },
+    "offer": {
+      "start": {
+        "phrase": "a brand new website"
+      },
+      "end": {
+        "phrase": "No Ad spend",
+        "offset": -0.1
+      },
+      "eyebrow": "LOCAL VISIBILITY. MORE CALLS.",
+      "price": "$297",
+      "period": "/ month",
+      "benefits": [
+        {
+          "start": {
+            "phrase": "a brand new website"
+          },
+          "text": "A professional new website"
+        },
+        {
+          "start": {
+            "phrase": "get you to the top"
+          },
+          "text": "Get found on Google"
+        },
+        {
+          "start": {
+            "phrase": "more five-star reviews"
+          },
+          "text": "More five-star reviews"
+        }
+      ]
+    },
+    "reassurance": {
+      "end": {
+        "phrase": "Tap below",
+        "offset": -0.08
+      },
+      "items": [
+        {
+          "start": {
+            "phrase": "No Ad spend"
+          },
+          "text": "No Ad spend."
+        },
+        {
+          "start": {
+            "phrase": "no contract"
+          },
+          "text": "No contract."
+        },
+        {
+          "start": {
+            "phrase": "cancel anytime"
+          },
+          "text": "Cancel anytime."
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "clip": "346554234",
+      "start": 0.0,
+      "end": 3.6666666666666665,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "337778096",
+      "start": 3.6666666666666665,
+      "end": 7.266666666666667,
+      "source_in": 0.6,
+      "speed": 1.0,
+      "crop_center": [
+        0.43,
+        0.5
+      ]
+    },
+    {
+      "clip": "346548921",
+      "start": 7.266666666666667,
+      "end": 11.166666666666666,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.43,
+        0.5
+      ]
+    },
+    {
+      "clip": "337778098",
+      "start": 11.166666666666666,
+      "end": 14.1,
+      "source_in": 1.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "clip": "352740177",
+      "start": 14.1,
+      "end": 17.7,
+      "source_in": 2.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.62,
+        0.5
+      ]
+    },
+    {
+      "clip": "337778091",
+      "start": 17.7,
+      "end": 21.633333333333333,
+      "source_in": 0.4,
+      "speed": 1.0,
+      "crop_center": [
+        0.53,
+        0.5
+      ]
+    },
+    {
+      "clip": "346554256",
+      "start": 21.633333333333333,
+      "end": 25.633333333333333,
+      "source_in": 3.0,
+      "speed": 1.0,
+      "crop_center": [
+        0.48,
+        0.5
+      ]
+    },
+    {
+      "clip": "355306047",
+      "start": 25.633333333333333,
+      "end": "end",
+      "source_in": 3.0,
+      "speed": 0.9,
+      "crop_center": [
+        0.54,
+        0.5
+      ]
+    }
+  ],
+  "artifact_version": "A_original"
+}

@@ -1,0 +1,33 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x386b3b80] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/mnt/c/Users/adani/OneDrive/Documents/ad_vids_edit/output/septic_3/project/A_original/shots.ffconcat':
+  Duration: N/A, start: 0.000000, bitrate: 4402 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], 4402 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Output #0, mp4, to '/home/adani/.cache/brix-video/pictures/044fd542c991d0f0c9b6ff55.partial.mp4':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1350 [SAR 1:1 DAR 4:5], q=2-31, 4402 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 libx264
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x708774026440] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x708774004400] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7087740071c0] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x708774006b80] Auto-inserting h264_mp4toannexb bitstream filter
+[in#0/concat @ 0x386a7b40] New (null) stream with index 1 at pos:48 and DTS:2.434844s
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x708774008a00] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x708774020440] Auto-inserting h264_mp4toannexb bitstream filter
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x708774004900] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 1 times
+size=   27136KiB time=00:00:31.96 bitrate=6954.1kbits/s speed=63.9x    
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x708774004900] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 1 times
+[out#0/mp4 @ 0x386ebac0] video:32725KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.045921%
+size=   32740KiB time=00:00:39.50 bitrate=6790.0kbits/s speed=66.8x    

@@ -1,0 +1,451 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.22,
+    "words": [
+      {
+        "word": "Calling",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": "all",
+        "start": 0.26,
+        "end": 0.58
+      },
+      {
+        "word": "plumbers,",
+        "start": 0.58,
+        "end": 1.02
+      }
+    ],
+    "lines": [
+      [
+        "Calling",
+        "all",
+        "plumbers,"
+      ]
+    ],
+    "text": "Calling all plumbers,"
+  },
+  {
+    "start": 1.6,
+    "end": 4.18,
+    "words": [
+      {
+        "word": "for",
+        "start": 1.6,
+        "end": 1.64
+      },
+      {
+        "word": "just",
+        "start": 1.64,
+        "end": 1.86
+      },
+      {
+        "word": "$297",
+        "start": 1.86,
+        "end": 3.58
+      },
+      {
+        "word": "a",
+        "start": 3.58,
+        "end": 3.74
+      },
+      {
+        "word": "month,",
+        "start": 3.74,
+        "end": 3.98
+      }
+    ],
+    "lines": [
+      [
+        "for",
+        "just",
+        "$297",
+        "a",
+        "month,"
+      ]
+    ],
+    "text": "for just $297 a month,"
+  },
+  {
+    "start": 4.44,
+    "end": 5.16,
+    "words": [
+      {
+        "word": "Brix",
+        "start": 4.44,
+        "end": 4.54
+      },
+      {
+        "word": "will",
+        "start": 4.54,
+        "end": 4.82
+      },
+      {
+        "word": "get",
+        "start": 4.82,
+        "end": 4.98
+      },
+      {
+        "word": "you",
+        "start": 4.98,
+        "end": 5.16
+      }
+    ],
+    "lines": [
+      [
+        "Brix",
+        "will",
+        "get",
+        "you"
+      ]
+    ],
+    "text": "Brix will get you"
+  },
+  {
+    "start": 5.16,
+    "end": 6.26,
+    "words": [
+      {
+        "word": "to",
+        "start": 5.16,
+        "end": 5.36
+      },
+      {
+        "word": "the",
+        "start": 5.36,
+        "end": 5.46
+      },
+      {
+        "word": "top",
+        "start": 5.46,
+        "end": 5.72
+      },
+      {
+        "word": "of",
+        "start": 5.72,
+        "end": 5.88
+      },
+      {
+        "word": "Google,",
+        "start": 5.88,
+        "end": 6.06
+      }
+    ],
+    "lines": [
+      [
+        "to",
+        "the",
+        "top",
+        "of",
+        "Google,"
+      ]
+    ],
+    "text": "to the top of Google,"
+  },
+  {
+    "start": 6.56,
+    "end": 8.1,
+    "words": [
+      {
+        "word": "get",
+        "start": 6.56,
+        "end": 6.64
+      },
+      {
+        "word": "you",
+        "start": 6.64,
+        "end": 6.82
+      },
+      {
+        "word": "more",
+        "start": 6.82,
+        "end": 7.02
+      },
+      {
+        "word": "five",
+        "start": 7.02,
+        "end": 7.38
+      },
+      {
+        "word": "star",
+        "start": 7.38,
+        "end": 7.6
+      },
+      {
+        "word": "reviews,",
+        "start": 7.6,
+        "end": 7.9
+      }
+    ],
+    "lines": [
+      [
+        "get",
+        "you",
+        "more"
+      ],
+      [
+        "five",
+        "star",
+        "reviews,"
+      ]
+    ],
+    "text": "get you more five star reviews,"
+  },
+  {
+    "start": 8.46,
+    "end": 9.76,
+    "words": [
+      {
+        "word": "and",
+        "start": 8.46,
+        "end": 8.48
+      },
+      {
+        "word": "build",
+        "start": 8.48,
+        "end": 8.72
+      },
+      {
+        "word": "you",
+        "start": 8.72,
+        "end": 8.98
+      },
+      {
+        "word": "a",
+        "start": 8.98,
+        "end": 9.18
+      },
+      {
+        "word": "brand",
+        "start": 9.18,
+        "end": 9.42
+      },
+      {
+        "word": "new",
+        "start": 9.42,
+        "end": 9.76
+      }
+    ],
+    "lines": [
+      [
+        "and",
+        "build",
+        "you"
+      ],
+      [
+        "a",
+        "brand",
+        "new"
+      ]
+    ],
+    "text": "and build you a brand new"
+  },
+  {
+    "start": 9.76,
+    "end": 10.26,
+    "words": [
+      {
+        "word": "website.",
+        "start": 9.76,
+        "end": 10.06
+      }
+    ],
+    "lines": [
+      [
+        "website."
+      ]
+    ],
+    "text": "website."
+  },
+  {
+    "start": 10.84,
+    "end": 11.959999999999999,
+    "words": [
+      {
+        "word": "All",
+        "start": 10.84,
+        "end": 11.04
+      },
+      {
+        "word": "done",
+        "start": 11.04,
+        "end": 11.26
+      },
+      {
+        "word": "for",
+        "start": 11.26,
+        "end": 11.54
+      },
+      {
+        "word": "you.",
+        "start": 11.54,
+        "end": 11.76
+      }
+    ],
+    "lines": [
+      [
+        "All",
+        "done",
+        "for",
+        "you."
+      ]
+    ],
+    "text": "All done for you."
+  },
+  {
+    "start": 12.26,
+    "end": 13.04,
+    "words": [
+      {
+        "word": "No",
+        "start": 12.26,
+        "end": 12.34
+      },
+      {
+        "word": "ad",
+        "start": 12.34,
+        "end": 12.62
+      },
+      {
+        "word": "spend,",
+        "start": 12.62,
+        "end": 12.84
+      }
+    ],
+    "lines": [
+      [
+        "No",
+        "ad",
+        "spend,"
+      ]
+    ],
+    "text": "No ad spend,"
+  },
+  {
+    "start": 13.44,
+    "end": 14.26,
+    "words": [
+      {
+        "word": "no",
+        "start": 13.44,
+        "end": 13.52
+      },
+      {
+        "word": "buying",
+        "start": 13.52,
+        "end": 13.82
+      },
+      {
+        "word": "leads,",
+        "start": 13.82,
+        "end": 14.06
+      }
+    ],
+    "lines": [
+      [
+        "no",
+        "buying",
+        "leads,"
+      ]
+    ],
+    "text": "no buying leads,"
+  },
+  {
+    "start": 14.7,
+    "end": 15.36,
+    "words": [
+      {
+        "word": "no",
+        "start": 14.7,
+        "end": 14.8
+      },
+      {
+        "word": "contract.",
+        "start": 14.8,
+        "end": 15.16
+      }
+    ],
+    "lines": [
+      [
+        "no",
+        "contract."
+      ]
+    ],
+    "text": "no contract."
+  },
+  {
+    "start": 16.0,
+    "end": 17.4,
+    "words": [
+      {
+        "word": "Tap",
+        "start": 16.0,
+        "end": 16.12
+      },
+      {
+        "word": "below",
+        "start": 16.12,
+        "end": 16.38
+      },
+      {
+        "word": "to",
+        "start": 16.38,
+        "end": 16.84
+      },
+      {
+        "word": "see",
+        "start": 16.84,
+        "end": 17.06
+      },
+      {
+        "word": "your",
+        "start": 17.06,
+        "end": 17.22
+      },
+      {
+        "word": "new",
+        "start": 17.22,
+        "end": 17.4
+      }
+    ],
+    "lines": [
+      [
+        "Tap",
+        "below",
+        "to"
+      ],
+      [
+        "see",
+        "your",
+        "new"
+      ]
+    ],
+    "text": "Tap below to see your new"
+  },
+  {
+    "start": 17.4,
+    "end": 18.58,
+    "words": [
+      {
+        "word": "website,",
+        "start": 17.4,
+        "end": 17.84
+      },
+      {
+        "word": "free.",
+        "start": 17.84,
+        "end": 18.38
+      }
+    ],
+    "lines": [
+      [
+        "website,",
+        "free."
+      ]
+    ],
+    "text": "website, free."
+  }
+]
